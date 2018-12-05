@@ -1,0 +1,2190 @@
+
+
+
+
+
+CHAPTER XVI
+
+
+
+THE FIRST EDISON CENTRAL STATION
+
+
+
+A NOTED inventor once said at the end of a lifetime
+
+of fighting to defend his rights, that he
+
+found there were three stages in all great inventions:
+
+the first, in which people said the thing could not
+
+be done; the second, in which they said anybody
+
+could do it; and the third, in which they said it had
+
+always been done by everybody. In his central-
+
+station work Edison has had very much this kind of
+
+experience; for while many of his opponents came to
+
+acknowledge the novelty and utility of his plans, and
+
+gave him unstinted praise, there are doubtless others
+
+who to this day profess to look upon him merely as
+
+an adapter. How different the view of so eminent a
+
+scientist as Lord Kelvin was, may be appreciated
+
+from his remark when in later years, in reply to the
+
+question why some one else did not invent so obvious
+
+and simple a thing as the Feeder System, he said:
+
+"The only answer I can think of is that no one else
+
+was Edison."
+
+
+
+Undaunted by the attitude of doubt and the predictions
+
+of impossibility, Edison had pushed on until
+
+he was now able to realize all his ideas as to the establishment
+
+of a central station in the work that culminated
+
+in New York City in 1882. After he had
+
+conceived the broad plan, his ambition was to create
+
+the initial plant on Manhattan Island, where it would
+
+be convenient of access for watching its operation,
+
+and where the demonstration of its practicability
+
+would have influence in financial circles. The first
+
+intention was to cover a district extending from
+
+Canal Street on the north to Wall Street on the south;
+
+but Edison soon realized that this territory was too
+
+extensive for the initial experiment, and he decided
+
+finally upon the district included between Wall,
+
+Nassau, Spruce, and Ferry streets, Peck Slip and the
+
+East River, an area nearly a square mile in extent.
+
+One of the preliminary steps taken to enable him to
+
+figure on such a station and system was to have men
+
+go through this district on various days and note the
+
+number of gas jets burning at each hour up to two or
+
+three o'clock in the morning. The next step was to
+
+divide the region into a number of sub-districts and
+
+institute a house-to-house canvass to ascertain precisely
+
+the data and conditions pertinent to the project.
+
+When the canvass was over, Edison knew exactly
+
+how many gas jets there were in every building in
+
+the entire district, the average hours of burning, and
+
+the cost of light; also every consumer of power, and
+
+the quantity used; every hoistway to which an
+
+electric motor could be applied; and other details too
+
+numerous to mention, such as related to the gas itself,
+
+the satisfaction of the customers, and the limitations
+
+of day and night demand. All this information
+
+was embodied graphically in large maps of the district,
+
+by annotations in colored inks; and Edison thus
+
+could study the question with every detail before
+
+him. Such a reconnaissance, like that of a coming
+
+field of battle, was invaluable, and may help give a
+
+further idea of the man's inveterate care for the
+
+minutiae of things.
+
+
+
+The laboratory note-books of this period--1878-
+
+80, more particularly--show an immense amount of
+
+calculation by Edison and his chief mathematician,
+
+Mr. Upton, on conductors for the distribution of current
+
+over large areas, and then later in the district
+
+described. With the results of this canvass before
+
+them, the sizes of the main conductors to be laid
+
+throughout the streets of this entire territory were
+
+figured, block by block; and the results were then
+
+placed on the map. These data revealed the fact
+
+that the quantity of copper required for the main
+
+conductors would be exceedingly large and costly;
+
+and, if ever, Edison was somewhat dismayed. But
+
+as usual this apparently insurmountable difficulty
+
+only spurred him on to further effort. It was but a
+
+short time thereafter that he solved the knotty problem
+
+by an invention mentioned in a previous chapter.
+
+This is known as the "feeder and main" system, for
+
+which he signed the application for a patent on
+
+August 4, 1880. As this invention effected a saving
+
+of seven-eighths of the cost of the chief conductors
+
+in a straight multiple arc system, the mains for the
+
+first district were refigured, and enormous new maps
+
+were made, which became the final basis of actual
+
+installation, as they were subsequently enlarged by
+
+the addition of every proposed junction-box, bridge
+
+safety-catch box, and street-intersection box in the
+
+whole area.
+
+
+
+When this patent, after protracted fighting, was
+
+sustained by Judge Green in 1893, the Electrical
+
+Engineer remarked that the General Electric Company
+
+"must certainly feel elated" because of its
+
+importance; and the journal expressed its fear that
+
+although the specifications and claims related only
+
+to the maintenance of uniform pressure of current
+
+on lighting circuits, the owners might naturally seek
+
+to apply it also to feeders used in the electric-railway
+
+work already so extensive. At this time, however,
+
+the patent had only about a year of life left, owing
+
+to the expiration of the corresponding English patent.
+
+The fact that thirteen years had elapsed gives a vivid
+
+idea of the ordeal involved in sustaining a patent and
+
+the injustice to the inventor, while there is obviously
+
+hardship to those who cannot tell from any decision
+
+of the court whether they are infringing or not. It
+
+is interesting to note that the preparation for hearing
+
+this case in New Jersey was accompanied by models
+
+to show the court exactly the method and its economy,
+
+as worked out in comparison with what is known as
+
+the "tree system" of circuits--the older alternative
+
+way of doing it. As a basis of comparison, a district
+
+of thirty-six city blocks in the form of a square was
+
+assumed. The power station was placed at the centre
+
+of the square; each block had sixteen consumers
+
+using fifteen lights each. Conductors were run from
+
+the station to supply each of the four quarters of the
+
+district with light. In one example the "feeder"
+
+system was used; in the other the "tree." With
+
+these models were shown two cubes which represented
+
+one one-hundredth of the actual quantity of
+
+copper required for each quarter of the district by
+
+the two-wire tree system as compared with the feeder
+
+system under like conditions. The total weight
+
+of copper for the four quarter districts by the tree
+
+system was 803,250 pounds, but when the feeder
+
+system was used it was only 128,739 pounds! This
+
+was a reduction from $23.24 per lamp for copper
+
+to $3.72 per lamp. Other models emphasized this
+
+extraordinary contrast. At the time Edison was
+
+doing this work on economizing in conductors, much
+
+of the criticism against him was based on the assumed
+
+extravagant use of copper implied in the obvious
+
+"tree" system, and it was very naturally said
+
+that there was not enough copper in the world to
+
+supply his demands. It is true that the modern
+
+electrical arts have been a great stimulator of copper
+
+production, now taking a quarter of all made; yet
+
+evidently but for such inventions as this such arts
+
+could not have come into existence at all, or else
+
+in growing up they would have forced copper to
+
+starvation prices.[11]
+
+
+
+
+
+[11] For description of feeder patent see Appendix.
+
+
+
+
+
+It should be borne in mind that from the outset
+
+Edison had determined upon installing underground
+
+conductors as the only permanent and satisfactory
+
+method for the distribution of current from central
+
+stations in cities; and that at Menlo Park he laid out
+
+and operated such a system with about four hundred
+
+and twenty-five lamps. The underground system
+
+there was limited to the immediate vicinity of the
+
+laboratory and was somewhat crude, as well as much
+
+less complicated than would be the network of over
+
+eighty thousand lineal feet, which he calculated to be
+
+required for the underground circuits in the first
+
+district of New York City. At Menlo Park no effort
+
+was made for permanency; no provision was needed
+
+in regard to occasional openings of the street for
+
+various purposes; no new customers were to be connected
+
+from time to time to the mains, and no repairs
+
+were within contemplation. In New York the question
+
+of permanency was of paramount importance,
+
+and the other contingencies were sure to arise as
+
+well as conditions more easy to imagine than to forestall.
+
+These problems were all attacked in a resolute,
+
+thoroughgoing manner, and one by one solved by
+
+the invention of new and unprecedented devices that
+
+were adequate for the purposes of the time, and which
+
+are embodied in apparatus of slight modification in
+
+use up to the present day.
+
+
+
+Just what all this means it is hard for the present
+
+generation to imagine. New York and all the other
+
+great cities in 1882, and for some years thereafter,
+
+were burdened and darkened by hideous masses of
+
+overhead wires carried on ugly wooden poles along
+
+all the main thoroughfares. One after another rival
+
+telegraph and telephone, stock ticker, burglar-alarm,
+
+and other companies had strung their circuits without
+
+any supervision or restriction; and these wires in all
+
+conditions of sag or decay ramified and crisscrossed in
+
+every direction, often hanging broken and loose-ended
+
+for months, there being no official compulsion to
+
+remove any dead wire. None of these circuits carried
+
+dangerous currents; but the introduction of the arc
+
+light brought an entirely new menace in the use of
+
+pressures that were even worse than the bully of the
+
+West who "kills on sight," because this kindred peril
+
+was invisible, and might lurk anywhere. New poles
+
+were put up, and the lighting circuits on them, with
+
+but a slight insulation of cotton impregnated with
+
+some "weather-proof" compound, straggled all over
+
+the city exposed to wind and rain and accidental
+
+contact with other wires, or with the metal of buildings.
+
+So many fatalities occurred that the insulated
+
+wire used, called "underwriters," because approved
+
+by the insurance bodies, became jocularly known as
+
+"undertakers," and efforts were made to improve its
+
+protective qualities. Then came the overhead circuits
+
+for distributing electrical energy to motors for
+
+operating elevators, driving machinery, etc., and
+
+these, while using a lower, safer potential, were
+
+proportionately larger. There were no wires underground.
+
+Morse had tried that at the very beginning of electrical
+
+application, in telegraphy, and all agreed that
+
+renewals of the experiment were at once costly and
+
+foolish. At last, in cities like New York, what may
+
+be styled generically the "overhead system" of wires
+
+broke down under its own weight; and various
+
+methods of underground conductors were tried, hastened
+
+in many places by the chopping down of poles
+
+and wires as the result of some accident that stirred
+
+the public indignation. One typical tragic scene was
+
+that in New York, where, within sight of the City
+
+Hall, a lineman was killed at his work on the arc
+
+light pole, and his body slowly roasted before the gaze
+
+of the excited populace, which for days afterward
+
+dropped its silver and copper coin into the alms-box
+
+nailed to the fatal pole for the benefit of his family.
+
+Out of all this in New York came a board of electrical
+
+control, a conduit system, and in the final analysis
+
+the Public Service Commission, that is credited to
+
+Governor Hughes as the furthest development of
+
+utility corporation control.
+
+
+
+The "road to yesterday" back to Edison and his
+
+insistence on underground wires is a long one, but
+
+the preceding paragraph traces it. Even admitting
+
+that the size and weight of his low-tension conductors
+
+necessitated putting them underground, this argues
+
+nothing against the propriety and sanity of his
+
+methods. He believed deeply and firmly in the
+
+analogy between electrical supply and that for water
+
+and gas, and pointed to the trite fact that nobody
+
+hoisted the water and gas mains into the air on stilts,
+
+and that none of the pressures were inimical to human
+
+safety. The arc-lighting methods were unconsciously
+
+and unwittingly prophetic of the latter-day
+
+long-distance transmissions at high pressure that,
+
+electrically, have placed the energy of Niagara at
+
+the command of Syracuse and Utica, and have put
+
+the power of the falling waters of the Sierras at the
+
+disposal of San Francisco, two hundred miles away.
+
+But within city limits overhead wires, with such
+
+space-consuming potentials, are as fraught with
+
+mischievous peril to the public as the dynamite stored
+
+by a nonchalant contractor in the cellar of a schoolhouse.
+
+As an offset, then, to any tendency to depreciate
+
+the intrinsic value of Edison's lighting work,
+
+let the claim be here set forth modestly and subject
+
+to interference, that he was the father of under-
+
+ground wires in America, and by his example outlined
+
+the policy now dominant in every city of the
+
+first rank. Even the comment of a cynic in regard
+
+to electrical development may be accepted: "Some
+
+electrical companies wanted all the air; others apparently
+
+had use for all the water; Edison only asked
+
+for the earth."
+
+
+
+The late Jacob Hess, a famous New York Republican
+
+politician, was a member of the commission
+
+appointed to put the wires underground in New York
+
+City, in the "eighties." He stated that when the
+
+commission was struggling with the problem, and
+
+examining all kinds of devices and plans, patented
+
+and unpatented, for which fabulous sums were often
+
+asked, the body turned to Edison in its perplexity
+
+and asked for advice. Edison said: "All you have
+
+to do, gentlemen, is to insulate your wires, draw them
+
+through the cheapest thing on earth--iron pipe--run
+
+your pipes through channels or galleries under the
+
+street, and you've got the whole thing done." This
+
+was practically the system adopted and in use to
+
+this day. What puzzled the old politician was that
+
+Edison would accept nothing for his advice.
+
+
+
+Another story may also be interpolated here as to
+
+the underground work done in New York for the first
+
+Edison station. It refers to the "man higher up,"
+
+although the phrase had not been coined in those days
+
+of lower public morality. That a corporation should
+
+be "held up" was accepted philosophically by the
+
+corporation as one of the unavoidable incidents of its
+
+business; and if the corporation "got back" by securing
+
+some privilege without paying for it, the public
+
+was ready to condone if not applaud. Public utilities
+
+were in the making, and no one in particular had a
+
+keen sense of what was right or what was wrong, in
+
+the hard, practical details of their development. Edison
+
+tells this illuminating story: "When I was laying
+
+tubes in the streets of New York, the office received
+
+notice from the Commissioner of Public Works to
+
+appear at his office at a certain hour. I went up
+
+there with a gentleman to see the Commissioner,
+
+H. O. Thompson. On arrival he said to me: `You
+
+are putting down these tubes. The Department of
+
+Public Works requires that you should have five inspectors
+
+to look after this work, and that their salary
+
+shall be $5 per day, payable at the end of each week.
+
+Good-morning.' I went out very much crestfallen,
+
+thinking I would be delayed and harassed in the work
+
+which I was anxious to finish, and was doing night
+
+and day. We watched patiently for those inspectors
+
+to appear. The only appearance they made was to
+
+draw their pay Saturday afternoon."
+
+
+
+Just before Christmas in 1880--December 17--as
+
+an item for the silk stocking of Father Knickerbocker
+
+--the Edison Electric Illuminating Company of New
+
+York was organized. In pursuance of the policy adhered
+
+to by Edison, a license was issued to it for the
+
+exclusive use of the system in that territory--Manhattan
+
+Island--in consideration of a certain sum of
+
+money and a fixed percentage of its capital in stock
+
+for the patent rights. Early in 1881 it was altogether
+
+a paper enterprise, but events moved swiftly as narrated
+
+already, and on June 25, 1881, the first "Jumbo"
+
+prototype of the dynamo-electric machines to gen-
+
+erate current at the Pearl Street station was put
+
+through its paces before being shipped to Paris to
+
+furnish new sensations to the flaneur of the boulevards.
+
+A number of the Edison officers and employees
+
+assembled at Goerck Street to see this "gigantic"
+
+machine go into action, and watched its performance
+
+with due reverence all through the night until five
+
+o'clock on Sunday morning, when it respected the
+
+conventionalities by breaking a shaft and suspending
+
+further tests. After this dynamo was shipped
+
+to France, and its successors to England for the Holborn
+
+Viaduct plant, Edison made still further improvements
+
+in design, increasing capacity and economy,
+
+and then proceeded vigorously with six machines for
+
+Pearl Street.
+
+
+
+An ideal location for any central station is at the
+
+very centre of the district served. It may be questioned
+
+whether it often goes there. In the New York
+
+first district the nearest property available was a
+
+double building at Nos. 255 and 257 Pearl Street,
+
+occupying a lot so by 100 feet. It was four stories
+
+high, with a fire-wall dividing it into two equal parts.
+
+One of these parts was converted for the uses of the
+
+station proper, and the other was used as a tube-shop
+
+by the underground construction department, as well
+
+as for repair-shops, storage, etc. Those were the days
+
+when no one built a new edifice for station purposes;
+
+that would have been deemed a fantastic extravagance.
+
+One early station in New York for arc lighting
+
+was an old soap-works whose well-soaked floors did
+
+not need much additional grease to render them
+
+choice fuel for the inevitable flames. In this Pearl
+
+Street instance, the building, erected originally for
+
+commercial uses, was quite incapable of sustaining
+
+the weight of the heavy dynamos and steam-engines
+
+to be installed on the second floor; so the old flooring
+
+was torn out and a new one of heavy girders supported
+
+by stiff columns was substituted. This heavy construction,
+
+more familiar nowadays, and not unlike
+
+the supporting metal structure of the Manhattan
+
+Elevated road, was erected independent of the enclosing
+
+walls, and occupied the full width of 257 Pearl
+
+Street, and about three-quarters of its depth. This
+
+change in the internal arrangements did not at all
+
+affect the ugly external appearance, which did little to
+
+suggest the stately and ornate stations since put up
+
+by the New York Edison Company, the latest occupying
+
+whole city blocks.
+
+
+
+Of this episode Edison gives the following account:
+
+"While planning for my first New York station--
+
+Pearl Street--of course, I had no real estate, and
+
+from lack of experience had very little knowledge of
+
+its cost in New York; so I assumed a rather large,
+
+liberal amount of it to plan my station on. It
+
+occurred to me one day that before I went too far with
+
+my plans I had better find out what real estate was
+
+worth. In my original plan I had 200 by 200 feet.
+
+I thought that by going down on a slum street near
+
+the water-front I would get some pretty cheap property.
+
+So I picked out the worst dilapidated street
+
+there was, and found I could only get two buildings,
+
+each 25 feet front, one 100 feet deep and the other
+
+85 feet deep. I thought about $10,000 each would
+
+cover it; but when I got the price I found that they
+
+wanted $75,000 for one and $80,000 for the other.
+
+Then I was compelled to change my plans and go upward
+
+in the air where real estate was cheap. I
+
+cleared out the building entirely to the walls and
+
+built my station of structural ironwork, running it
+
+up high."
+
+
+
+Into this converted structure was put the most
+
+complete steam plant obtainable, together with all
+
+the mechanical and engineering adjuncts bearing
+
+upon economical and successful operation. Being in
+
+a narrow street and a congested district, the plant
+
+needed special facilities for the handling of coal and
+
+ashes, as well as for ventilation and forced draught.
+
+All of these details received Mr. Edison's personal
+
+care and consideration on the spot, in addition to the
+
+multitude of other affairs demanding his thought.
+
+Although not a steam or mechanical engineer, his
+
+quick grasp of principles and omnivorous reading had
+
+soon supplied the lack of training; nor had he forgotten
+
+the practical experience picked up as a boy
+
+on the locomotives of the Grand Trunk road. It is
+
+to be noticed as a feature of the plant, in common
+
+with many of later construction, that it was placed
+
+well away from the water's edge, and equipped with
+
+non-condensing engines; whereas the modern plant
+
+invariably seeks the bank of a river or lake for the
+
+purpose of a generous supply of water for its
+
+condensing engines or steam-turbines. These are among
+
+the refinements of practice coincidental with the advance
+
+of the art.
+
+
+
+At the award of the John Fritz gold medal in April,
+
+1909, to Charles T. Porter for his work in advancing
+
+the knowledge of steam-engineering, and for improvements
+
+in engine construction, Mr. Frank J. Sprague
+
+spoke on behalf of the American Institute of Electrical
+
+Engineers of the debt of electricity to the high-speed
+
+steam-engine. He recalled the fact that at the
+
+French Exposition of 1867 Mr. Porter installed two
+
+Porter-Allen engines to drive electric alternating-current
+
+generators for supplying current to primitive
+
+lighthouse apparatus. While the engines were not
+
+directly coupled to the dynamos, it was a curious
+
+fact that the piston speeds and number of revolutions
+
+were what is common to-day in isolated direct-coupled
+
+plants. In the dozen years following Mr. Porter built
+
+many engines with certain common characteristics--
+
+i.e., high piston speed and revolutions, solid engine
+
+bed, and babbitt-metal bearings; but there was no
+
+electric driving until 1880, when Mr. Porter installed
+
+a high-speed engine for Edison at his laboratory in
+
+Menlo Park. Shortly after this he was invited to
+
+construct for the Edison Pearl Street station the first
+
+of a series of engines for so-called "steam-dynamos,"
+
+each independently driven by a direct-coupled engine.
+
+Mr. Sprague compared the relations thus established
+
+between electricity and the high-speed engine not to
+
+those of debtor and creditor, but rather to those of
+
+partners--an industrial marriage--one of the most
+
+important in the engineering world. Here were two
+
+machines destined to be joined together, economizing
+
+space, enhancing economy, augmenting capacity, reducing
+
+investment, and increasing dividends.
+
+
+
+While rapid progress was being made in this and
+
+other directions, the wheels of industry were hum-
+
+ming merrily at the Edison Tube Works, for over
+
+fifteen miles of tube conductors were required for the
+
+district, besides the boxes to connect the network at
+
+the street intersections, and the hundreds of junction
+
+boxes for taking the service conductors into each of
+
+the hundreds of buildings. In addition to the
+
+immense amount of money involved, this specialized
+
+industry required an enormous amount of experiment,
+
+as it called for the development of an entirely
+
+new art. But with Edison's inventive fertility--if
+
+ever there was a cross-fertilizer of mechanical ideas
+
+it is he--and with Mr. Kruesi's never-failing patience
+
+and perseverance applied to experiment and evolution,
+
+rapid progress was made. A franchise having
+
+been obtained from the city, the work of laying the
+
+underground conductors began in the late fall of
+
+1881, and was pushed with almost frantic energy. It
+
+is not to be supposed, however, that the Edison tube
+
+system had then reached a finality of perfection in
+
+the eyes of its inventor. In his correspondence with
+
+Kruesi, as late as 1887, we find Edison bewailing the
+
+inadequacy of the insulation of the conductors under
+
+twelve hundred volts pressure, as for example:
+
+"Dear Kruesi,--There is nothing wrong with your
+
+present compound. It is splendid. The whole
+
+trouble is air-bubbles. The hotter it is poured the
+
+greater the amount of air-bubbles. At 212 it can
+
+be put on rods and there is no bubble. I have a man
+
+experimenting and testing all the time. Until I get
+
+at the proper method of pouring and getting rid of
+
+the air-bubbles, it will be waste of time to experiment
+
+with other asphalts. Resin oil distils off easily. It
+
+may answer, but paraffine or other similar substances
+
+must be put in to prevent brittleness, One thing is
+
+certain, and that is, everything must be poured in
+
+layers, not only the boxes, but the tubes. The tube
+
+itself should have a thin coating. The rope should
+
+also have a coating. The rods also. The whole lot,
+
+rods and rope, when ready for tube, should have
+
+another coat, and then be placed in tube and filled.
+
+This will do the business." Broad and large as a
+
+continent in his ideas, if ever there was a man of
+
+finical fussiness in attention to detail, it is Edison.
+
+A letter of seven pages of about the same date in
+
+1887 expatiates on the vicious troubles caused by the
+
+air-bubble, and remarks with fine insight into the
+
+problems of insulation and the idea of layers of it:
+
+"Thus you have three separate coatings, and it is
+
+impossible an air-hole in one should match the
+
+other."
+
+
+
+To a man less thorough and empirical in method
+
+than Edison, it would have been sufficient to have
+
+made his plans clear to associates or subordinates
+
+and hold them responsible for accurate results. No
+
+such vicarious treatment would suit him, ready as he
+
+has always been to share the work where he could
+
+give his trust. In fact he realized, as no one else
+
+did at this stage, the tremendous import of this
+
+novel and comprehensive scheme for giving the world
+
+light; and he would not let go, even if busy to the
+
+breaking-point. Though plunged in a veritable maelstrom
+
+of new and important business interests, and
+
+though applying for no fewer than eighty-nine patents
+
+in 1881, all of which were granted, he superintended
+
+on the spot all this laying of underground conductors
+
+for the first district. Nor did he merely stand around
+
+and give orders. Day and night he actually worked
+
+in the trenches with the laborers, amid the dirt and
+
+paving-stones and hurry-burly of traffic, helping to
+
+lay the tubes, filling up junction-boxes, and taking
+
+part in all the infinite detail. He wanted to know
+
+for himself how things went, why for some occult
+
+reason a little change was necessary, what improvement
+
+could be made in the material. His hours of
+
+work were not regulated by the clock, but lasted until
+
+he felt the need of a little rest. Then he would go
+
+off to the station building in Pearl Street, throw an
+
+overcoat on a pile of tubes, lie down and sleep for a
+
+few hours, rising to resume work with the first gang.
+
+There was a small bedroom on the third floor of the
+
+station available for him, but going to bed meant
+
+delay and consumed time. It is no wonder that
+
+such impatience, such an enthusiasm, drove the work
+
+forward at a headlong pace.
+
+
+
+Edison says of this period: "When we put down
+
+the tubes in the lower part of New York, in the
+
+streets, we kept a big stock of them in the cellar of
+
+the station at Pearl Street. As I was on all the time,
+
+I would take a nap of an hour or so in the daytime--
+
+any time--and I used to sleep on those tubes in the
+
+cellar. I had two Germans who were testing there,
+
+and both of them died of diphtheria, caught in the
+
+cellar, which was cold and damp. It never affected
+
+me."
+
+
+
+It is worth pausing just a moment to glance at this
+
+man taking a fitful rest on a pile of iron pipe in a
+
+dingy building. His name is on the tip of the world's
+
+tongue. Distinguished scientists from every part of
+
+Europe seek him eagerly. He has just been decorated
+
+and awarded high honors by the French Government.
+
+He is the inventor of wonderful new apparatus, and
+
+the exploiter of novel and successful arts. The magic
+
+of his achievements and the rumors of what is being
+
+done have caused a wild drop in gas securities, and a
+
+sensational rise in his own electric-light stock from
+
+$100 to $3500 a share. Yet these things do not at
+
+all affect his slumber or his democratic simplicity,
+
+for in that, as in everything else, he is attending
+
+strictly to business, "doing the thing that is next
+
+to him."
+
+
+
+Part of the rush and feverish haste was due to the
+
+approach of frost, which, as usual in New York, suspended
+
+operations in the earth; but the laying of
+
+the conductors was resumed promptly in the spring
+
+of 1882; and meantime other work had been advanced.
+
+During the fall and winter months two
+
+more "Jumbo" dynamos were built and sent to
+
+London, after which the construction of six for New
+
+York was swiftly taken in hand. In the month of
+
+May three of these machines, each with a capacity of
+
+twelve hundred incandescent lamps, were delivered
+
+at Pearl Street and assembled on the second floor.
+
+On July 5th--owing to the better opportunity for
+
+ceaseless toil given by a public holiday--the construction
+
+of the operative part of the station was so
+
+far completed that the first of the dynamos was
+
+operated under steam; so that three days later the
+
+satisfactory experiment was made of throwing its
+
+flood of electrical energy into a bank of one thousand
+
+lamps on an upper floor. Other tests followed in due
+
+course. All was excitement. The field-regulating
+
+apparatus and the electrical-pressure indicator--first
+
+of its kind--were also tested, and in turn found
+
+satisfactory. Another vital test was made at this time--
+
+namely, of the strength of the iron structure itself
+
+on which the plant was erected. This was done by
+
+two structural experts; and not till he got their report
+
+as to ample factors of safety was Edison reassured
+
+as to this detail.
+
+
+
+A remark of Edison, familiar to all who have
+
+worked with him, when it is reported to him that
+
+something new goes all right and is satisfactory from
+
+all points of view, is: "Well, boys, now let's find the
+
+bugs," and the hunt for the phylloxera begins with
+
+fiendish, remorseless zest. Before starting the plant
+
+for regular commercial service, he began personally
+
+a series of practical experiments and tests to ascertain
+
+in advance what difficulties would actually
+
+arise in practice, so that he could provide remedies
+
+or preventives. He had several cots placed in the
+
+adjoining building, and he and a few of his most
+
+strenuous assistants worked day and night, leaving
+
+the work only for hurried meals and a snatch of
+
+sleep. These crucial tests, aiming virtually to break
+
+the plant down if possible within predetermined
+
+conditions, lasted several weeks, and while most valuable
+
+in the information they afforded, did not hinder
+
+anything, for meantime customers' premises throughout
+
+the district were being wired and supplied with lamps
+
+and meters.
+
+
+
+On Monday, September 4, 1882, at 3 o'clock, P.M.,
+
+Edison realized the consummation of his broad and
+
+original scheme. The Pearl Street station was officially
+
+started by admitting steam to the engine of one of
+
+the "Jumbos," current was generated, turned into
+
+the network of underground conductors, and was
+
+transformed into light by the incandescent lamps that
+
+had thus far been installed. This date and event
+
+may properly be regarded as historical, for they mark
+
+the practical beginning of a new art, which in the
+
+intervening years has grown prodigiously, and is still
+
+increasing by leaps and bounds.
+
+
+
+Everything worked satisfactorily in the main.
+
+There were a few mechanical and engineering annoyances
+
+that might naturally be expected to arise in a
+
+new and unprecedented enterprise; but nothing of
+
+sufficient moment to interfere with the steady and
+
+continuous supply of current to customers at all
+
+hours of the day and night. Indeed, once started,
+
+this station was operated uninterruptedly for eight
+
+years with only insignificant stoppage.
+
+
+
+It will have been noted by the reader that there
+
+was nothing to indicate rashness in starting up the
+
+station, as only one dynamo was put in operation.
+
+Within a short time, however, it was deemed desirable
+
+to supply the underground network with more current,
+
+as many additional customers had been connected
+
+and the demand for the new light was increasing
+
+very rapidly. Although Edison had successfully
+
+operated several dynamos in multiple arc two
+
+years before--i.e., all feeding current together into
+
+the same circuits--there was not, at this early period
+
+of experience, any absolute certainty as to what
+
+particular results might occur upon the throwing of
+
+the current from two or more such massive dynamos
+
+into a great distributing system. The sequel showed
+
+the value of Edison's cautious method in starting the
+
+station by operating only a single unit at first.
+
+
+
+He decided that it would be wise to make the trial
+
+operation of a second "Jumbo" on a Sunday, when
+
+business houses were closed in the district, thus
+
+obviating any danger of false impressions in the public
+
+mind in the event of any extraordinary manifestations.
+
+The circumstances attending the adding of
+
+a second dynamo are thus humorously described by
+
+Edison: "My heart was in my mouth at first, but
+
+everything worked all right.... Then we started another
+
+engine and threw them in parallel. Of all the
+
+circuses since Adam was born, we had the worst
+
+then! One engine would stop, and the other would
+
+run up to about a thousand revolutions, and then
+
+they would see-saw. The trouble was with the governors.
+
+When the circus commenced, the gang that
+
+was standing around ran out precipitately, and I
+
+guess some of them kept running for a block or two.
+
+I grabbed the throttle of one engine, and E. H. Johnson,
+
+who was the only one present to keep his wits,
+
+caught hold of the other, and we shut them off."
+
+One of the "gang" that ran, but, in this case, only to
+
+the end of the room, afterward said: "At the time it
+
+was a terrifying experience, as I didn't know what
+
+was going to happen. The engines and dynamos
+
+made a horrible racket, from loud and deep groans
+
+to a hideous shriek, and the place seemed to be filled
+
+with sparks and flames of all colors. It was as if the
+
+gates of the infernal regions had been suddenly
+
+opened."
+
+
+
+This trouble was at once attacked by Edison in his
+
+characteristic and strenuous way. The above experiment
+
+took place between three and four o'clock on
+
+a Sunday afternoon, and within a few hours he had
+
+gathered his superintendent and men of the machine-
+
+works and had them at work on a shafting device
+
+that he thought would remedy the trouble. He says:
+
+"Of course, I discovered that what had happened
+
+was that one set was running the other as a motor.
+
+I then put up a long shaft, connecting all the governors
+
+together, and thought this would certainly
+
+cure the trouble; but it didn't. The torsion of the
+
+shaft was so great that one governor still managed
+
+to get ahead of the others. Well, it was a serious
+
+state of things, and I worried over it a lot. Finally
+
+I went down to Goerck Street and got a piece of
+
+shafting and a tube in which it fitted. I twisted the
+
+shafting one way and the tube the other as far as I
+
+could, and pinned them together. In this way, by
+
+straining the whole outfit up to its elastic limit in
+
+opposite directions, the torsion was practically
+
+eliminated, and after that the governors ran together
+
+all right."
+
+
+
+Edison realized, however, that in commercial practice
+
+this was only a temporary expedient, and that a
+
+satisfactory permanence of results could only be
+
+attained with more perfect engines that could be
+
+depended upon for close and simple regulation. The
+
+engines that were made part of the first three "Jum-
+
+bos" placed in the station were the very best that
+
+could be obtained at the time, and even then had
+
+been specially designed and built for the purpose.
+
+Once more quoting Edison on this subject: "About
+
+that time" (when he was trying to run several dynamos
+
+in parallel in the Pearl Street station) "I got
+
+hold of Gardiner C. Sims, and he undertook to build
+
+an engine to run at three hundred and fifty revolutions
+
+and give one hundred and seventy-five horse-power.
+
+He went back to Providence and set to work, and
+
+brought the engine back with him to the shop. It
+
+worked only a few minutes when it busted. That
+
+man sat around that shop and slept in it for three
+
+weeks, until he got his engine right and made it work
+
+the way he wanted it to. When he reached this
+
+period I gave orders for the engine-works to run night
+
+and day until we got enough engines, and when all
+
+was ready we started the engines. Then everything
+
+worked all right.... One of these engines that Sims
+
+built ran twenty-four hours a day, three hundred and
+
+sixty-five days in the year, for over a year before it
+
+stopped."[12]
+
+
+
+
+
+[12] We quote the following interesting notes of Mr. Charles L.
+
+Clarke on the question of see-sawing, or "hunting," as it was
+
+afterward termed:
+
+
+
+
+
+"In the Holborn Viaduct station the difficulty of `hunting'
+
+was not experienced. At the time the `Jumbos' were first operated
+
+in multiple arc, April 8, 1882, one machine was driven by
+
+a Porter-Allen engine, and the other by an Armington & Sims engine,
+
+and both machines were on a solid foundation. At the station
+
+at Milan, Italy, the first `Jumbos' operated in multiple arc were
+
+driven by Porter-Allen engines, and dash-pots were applied to the
+
+governors. These machines were also upon a solid foundation,
+
+and no trouble was experienced.
+
+
+
+"At the Pearl Street station, however, the machines were sup-
+
+ported upon long iron floor-beams, and at the high speed of 350
+
+revolutions per minute, considerable vertical vibration was given
+
+to the engines. And the writer is inclined to the opinion that
+
+this vibration, acting in the same direction as the action of gravitation,
+
+which was one of the two controlling forces in the operation
+
+of the Porter-Allen governor, was the primary cause of the
+
+`hunting.' In the Armington & Sims engine the controlling
+
+forces in the operation of the governor were the centrifugal force
+
+of revolving weights, and the opposing force of compressed springs,
+
+and neither the action of gravitation nor the vertical vibrations
+
+of the engine could have any sensible effect upon the governor,"
+
+
+
+
+
+
+
+
+
+The Pearl Street station, as this first large plant
+
+was called, made rapid and continuous growth in its
+
+output of electric current. It started, as we have
+
+said, on September 4, 1882, supplying about four
+
+hundred lights to a comparatively small number of
+
+customers. Among those first supplied was the banking
+
+firm of Drexel, Morgan & Company, corner of
+
+Broad and Wall streets, at the outermost limits of the
+
+system. Before the end of December of the same year
+
+the light had so grown in favor that it was being
+
+supplied to over two hundred and forty customers
+
+whose buildings were wired for over five thousand
+
+lamps. By this time three more "Jumbos" had been
+
+added to the plant. The output from this time forward
+
+increased steadily up to the spring of 1884, when the
+
+demands of the station necessitated the installation of
+
+two additional "Jumbos" in the adjoining building,
+
+which, with the venous improvements that had been
+
+made in the mean time, gave the station a capacity of
+
+over eleven thousand lamps actually in service at
+
+any one time.
+
+
+
+During the first three months of operating the Pearl
+
+Street station light was supplied to customers with-
+
+out charge. Edison had perfect confidence in his
+
+meters, and also in the ultimate judgment of the public
+
+as to the superiority of the incandescent electric
+
+light as against other illuminants. He realized, however,
+
+that in the beginning of the operation of an entirely
+
+novel plant there was ample opportunity for
+
+unexpected contingencies, although the greatest care
+
+had been exercised to make everything as perfect as
+
+possible. Mechanical defects or other unforeseen
+
+troubles in any part of the plant or underground
+
+system might arise and cause temporary stoppages of
+
+operation, thus giving grounds for uncertainty which
+
+would create a feeling of public distrust in the permanence
+
+of the supply of light.
+
+
+
+As to the kind of mishap that was wont to occur,
+
+Edison tells the following story: "One afternoon,
+
+after our Pearl Street station started, a policeman
+
+rushed in and told us to send an electrician at once
+
+up to the corner of Ann and Nassau streets--some
+
+trouble. Another man and I went up. We found
+
+an immense crowd of men and boys there and in the
+
+adjoining streets--a perfect jam. There was a leak
+
+in one of our junction-boxes, and on account of the
+
+cellars extending under the street, the top soil had
+
+become insulated. Hence, by means of this leak
+
+powerful currents were passing through this thin
+
+layer of moist earth. When a horse went to pass
+
+over it he would get a very severe shock. When I
+
+arrived I saw coming along the street a ragman with
+
+a dilapidated old horse, and one of the boys told him
+
+to go over on the other side of the road--which was
+
+the place where the current leaked. When the rag-
+
+man heard this he took that side at once. The moment
+
+the horse struck the electrified soil he stood
+
+straight up in the air, and then reared again; and the
+
+crowd yelled, the policeman yelled; and the horse
+
+started to run away. This continued until the crowd
+
+got so serious that the policeman had to clear it out;
+
+and we were notified to cut the current off. We got
+
+a gang of men, cut the current off for several junction-
+
+boxes, and fixed the leak. One man who had seen it
+
+came to me next day and wanted me to put in apparatus
+
+for him at a place where they sold horses. He said
+
+he could make a fortune with it, because he could get old
+
+nags in there and make them act like thoroughbreds."
+
+
+
+So well had the work been planned and executed,
+
+however, that nothing happened to hinder the continuous
+
+working of the station and the supply of light
+
+to customers. Hence it was decided in December,
+
+1882, to begin charging a price for the service, and,
+
+accordingly, Edison electrolytic meters were installed
+
+on the premises of each customer then connected.
+
+The first bill for lighting, based upon the
+
+reading of one of these meters, amounted to $50.40,
+
+and was collected on January 18, 1883, from the Ansonia
+
+Brass and Copper Company, 17 and 19 Cliff
+
+Street. Generally speaking, customers found that
+
+their bills compared fairly with gas bills for
+
+corresponding months where the same amount of light was
+
+used, and they paid promptly and cheerfully, with
+
+emphatic encomiums of the new light. During November,
+
+1883, a little over one year after the station
+
+was started, bills for lighting amounting to over $9000
+
+were collected.
+
+
+
+An interesting story of meter experience in the first
+
+few months of operation of the Pearl Street station
+
+is told by one of the "boys" who was then in position
+
+to know the facts; "Mr. J. P. Morgan, whose firm was
+
+one of the first customers, expressed to Mr. Edison
+
+some doubt as to the accuracy of the meter. The
+
+latter, firmly convinced of its correctness, suggested
+
+a strict test by having some cards printed and hung
+
+on each fixture at Mr. Morgan's place. On these
+
+cards was to be noted the number of lamps in the
+
+fixture, and the time they were turned on and off
+
+each day for a month. At the end of that time the
+
+lamp-hours were to be added together by one of the
+
+clerks and figured on a basis of a definite amount per
+
+lamp-hour, and compared with the bill that would be
+
+rendered by the station for the corresponding period.
+
+The results of the first month's test showed an apparent
+
+overcharge by the Edison company. Mr. Morgan
+
+was exultant, while Mr. Edison was still confident
+
+and suggested a continuation of the test.
+
+Another month's trial showed somewhat similar results.
+
+Mr. Edison was a little disturbed, but insisted
+
+that there was a mistake somewhere. He went down
+
+to Drexel, Morgan & Company's office to investigate,
+
+and, after looking around, asked when the office was
+
+cleaned out. He was told it was done at night by
+
+the janitor, who was sent for, and upon being interrogated
+
+as to what light he used, said that he turned
+
+on a central fixture containing about ten lights. It
+
+came out that he had made no record of the time these
+
+lights were in use. He was told to do so in future,
+
+and another month's test was made. On comparison
+
+with the company's bill, rendered on the meter-reading,
+
+the meter came within a few cents of the amount
+
+computed from the card records, and Mr. Morgan was
+
+completely satisfied of the accuracy of the meter."
+
+
+
+It is a strange but not extraordinary commentary
+
+on the perversity of human nature and the lack of
+
+correct observation, to note that even after the Pearl
+
+Street station had been in actual operation twenty-
+
+four hours a day for nearly three months, there
+
+should still remain an attitude of "can't be done."
+
+That such a scepticism still obtained is evidenced by
+
+the public prints of the period. Edison's electric-
+
+light system and his broad claims were freely discussed
+
+and animadverted upon at the very time he
+
+was demonstrating their successful application. To
+
+show some of the feeling at the time, we reproduce
+
+the following letter, which appeared November 29,
+
+1882:
+
+
+
+"To the Editor of the Sun:
+
+
+
+"SIR,--In reading the discussions relative to the Pearl
+
+Street station of the Edison light, I have noted that
+
+while it is claimed that there is scarcely any loss from
+
+leakage of current, nothing is said about the loss due to
+
+the resistance of the long circuits. I am informed that
+
+this is the secret of the failure to produce with the power
+
+in position a sufficient amount of current to run all the
+
+lamps that have been put up, and that while six, and
+
+even seven, lights to the horse-power may be produced
+
+from an isolated plant, the resistance of the long underground
+
+wires reduces this result in the above case to less
+
+than three lights to the horse-power, thus making the
+
+cost of production greatly in excess of gas. Can the
+
+Edison company explain this?
+
+                                       "INVESTIGATOR."
+
+
+
+This was one of the many anonymous letters that
+
+had been written to the newspapers on the subject,
+
+and the following reply by the Edison company was
+
+printed December 3, 1882:
+
+
+
+
+
+"To the Editor of the Sun:
+
+
+
+"SIR,--`Investigator' in Wednesday's Sun, says that
+
+the Edison company is troubled at its Pearl Street station
+
+with a `loss of current, due to the resistance of the long
+
+circuits'; also that, whereas Edison gets `six or even
+
+seven lights to the horse-power in isolated plants, the
+
+resistance of the long underground wires reduces that
+
+result in the Pearl Street station to less than three lights
+
+to the horse-power.' Both of these statements are false.
+
+As regards loss due to resistance, there is a well-known
+
+law for determining it, based on Ohm's law. By use of
+
+that law we knew in advance, that is to say, when the
+
+original plans for the station were drawn, just what this
+
+loss would be, precisely the same as a mechanical engineer
+
+when constructing a mill with long lines of shafting
+
+can forecast the loss of power due to friction. The
+
+practical result in the Pearl Street station has fully
+
+demonstrated the correctness of our estimate thus made
+
+in advance. As regards our getting only three lights
+
+per horse-power, our station has now been running three
+
+months, without stopping a moment, day or night, and
+
+we invariably get over six lamps per horse-power, or
+
+substantially the same as we do in our isolated plants.
+
+We are now lighting one hundred and ninety-three buildings,
+
+wired for forty-four hundred lamps, of which about
+
+two-thirds are in constant use, and we are adding
+
+additional houses and lamps daily. These figures can be
+
+verified at the office of the Board of Underwriters, where
+
+certificates with full details permitting the use of our
+
+light are filed by their own inspector. To light these
+
+lamps we run from one to three dynamos, according to
+
+the lamps in use at any given time, and we shall start
+
+additional dynamos as fast as we can connect more buildings.
+
+Neither as regards the loss due to resistance, nor
+
+as regards the number of lamps per horse-power, is there
+
+the slightest trouble or disappointment on the part of
+
+our company, and your correspondent is entirely in error
+
+is assuming that there is. Let me suggest that if `Investigator'
+
+really wishes to investigate, and is competent
+
+and willing to learn the exact facts, he can do
+
+so at this office, where there is no mystery of concealment,
+
+but, on the contrary, a strong desire to communicate
+
+facts to intelligent inquirers. Such a method of
+
+investigating must certainly be more satisfactory to one
+
+honestly seeking knowledge than that of first assuming
+
+an error as the basis of a question, and then demanding
+
+an explanation.
+
+                             "Yours very truly,
+
+                                       "S. B. EATON, President."
+
+
+
+
+
+Viewed from the standpoint of over twenty-seven
+
+years later, the wisdom and necessity of answering
+
+anonymous newspaper letters of this kind might be
+
+deemed questionable, but it must be remembered that,
+
+although the Pearl Street station was working
+
+successfully, and Edison's comprehensive plans were
+
+abundantly vindicated, the enterprise was absolutely
+
+new and only just stepping on the very threshold of
+
+commercial exploitation. To enter in and possess
+
+the land required the confidence of capital and the
+
+general public. Hence it was necessary to maintain
+
+a constant vigilance to defeat the insidious attacks of
+
+carping critics and others who would attempt to
+
+injure the Edison system by misleading statements.
+
+
+
+It will be interesting to the modern electrician to
+
+note that when this pioneer station was started, and
+
+in fact for some little time afterward, there was not
+
+a single electrical instrument in the whole station--
+
+not a voltmeter or an ammeter! Nor was there a
+
+central switchboard! Each dynamo had its own individual
+
+control switch. The feeder connections were
+
+all at the front of the building, and the general voltage
+
+control apparatus was on the floor above. An
+
+automatic pressure indicator had been devised and
+
+put in connection with the main circuits. It consisted,
+
+generally speaking, of an electromagnet with
+
+relays connecting with a red and a blue lamp. When
+
+the electrical pressure was normal, neither lamp was
+
+lighted; but if the electromotive force rose above a
+
+predetermined amount by one or two volts, the red
+
+lamp lighted up, and the attendant at the hand-wheel
+
+of the field regulator inserted resistance in the field
+
+circuit, whereas, if the blue lamp lighted, resistance
+
+was cut out until the pressure was raised to normal.
+
+Later on this primitive indicator was supplanted by
+
+the "Bradley Bridge," a crude form of the "Howell"
+
+pressure indicators, which were subsequently used
+
+for many years in the Edison stations.
+
+
+
+Much could be added to make a complete pictorial
+
+description of the historic Pearl Street station, but
+
+it is not within the scope of this narrative to enter
+
+into diffuse technical details, interesting as they may
+
+be to many persons. We cannot close this chapter,
+
+however, without mention of the fate of the Pearl
+
+Street station, which continued in successful commercial
+
+operation until January 2, 1890, when it was
+
+partially destroyed by fire. All the "Jumbos" were
+
+ruined, excepting No. 9, which is still a venerated
+
+relic in the possession of the New York Edison Company.
+
+Luckily, the boilers were unharmed. Belt-
+
+driven generators and engines were speedily installed,
+
+and the station was again in operation in a few days.
+
+The uninjured "Jumbo," No. 9, again continued to
+
+perform its duty. But in the words of Mr. Charles L.
+
+Clarke, "the glory of the old Pearl Street station,
+
+unique in bearing the impress of Mr. Edison's personality,
+
+and, as it were, constructed with his own
+
+hands, disappeared in the flame and smoke of that
+
+Thursday morning fire."
+
+
+
+The few days' interruption of the service was the
+
+only serious one that has taken place in the history
+
+of the New York Edison Company from September 4,
+
+1882, to the present date. The Pearl Street station
+
+was operated for some time subsequent to the fire,
+
+but increasing demands in the mean time having led
+
+to the construction of other stations, the mains of
+
+the First District were soon afterward connected to
+
+another plant, the Pearl Street station was dismantled,
+
+and the building was sold in 1895.
+
+
+
+The prophetic insight into the magnitude of central-
+
+station lighting that Edison had when he was still
+
+experimenting on the incandescent lamp over thirty
+
+years ago is a little less than astounding, when it is
+
+so amply verified in the operations of the New York
+
+Edison Company (the successor of the Edison Electric
+
+Illuminating Company of New York) and many others.
+
+At the end of 1909 the New York Edison Company
+
+alone was operating twenty-eight stations and substations,
+
+having a total capacity of 159,500 kilowatts.
+
+Connected with its lines were approximately 85,000
+
+customers wired for 3,813,899 incandescent lamps and
+
+nearly 225,000 horse-power through industrial electric
+
+motors connected with the underground service.
+
+A large quantity of electrical energy is also supplied
+
+for heating and cooking, charging automobiles, chemical
+
+and plating work, and various other uses.
+
+

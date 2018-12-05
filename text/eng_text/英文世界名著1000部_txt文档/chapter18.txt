@@ -1,0 +1,1656 @@
+
+
+
+
+
+
+CHAPTER XVIII
+
+
+
+THE ELECTRIC RAILWAY
+
+
+
+EDISON had no sooner designed his dynamo in
+
+1879 than he adopted the same form of machine
+
+for use as a motor. The two are shown in the Scientific
+
+American of October 18, 1879, and are alike, except
+
+that the dynamo is vertical and the motor lies in a
+
+horizontal position, the article remarking: "Its construction
+
+differs but slightly from the electric generator."
+
+This was but an evidence of his early appreciation
+
+of the importance of electricity as a motive power;
+
+but it will probably surprise many people to know
+
+that he was the inventor of an electric motor before
+
+he perfected his incandescent lamp. His interest in
+
+the subject went back to his connection with General
+
+Lefferts in the days of the evolution of the stock
+
+ticker. While Edison was carrying on his shop at
+
+Newark, New Jersey, there was considerable excitement
+
+in electrical circles over the Payne motor, in
+
+regard to the alleged performance of which Governor
+
+Cornell of New York and other wealthy capitalists
+
+were quite enthusiastic. Payne had a shop in Newark,
+
+and in one small room was the motor, weighing perhaps
+
+six hundred pounds. It was of circular form,
+
+incased in iron, with the ends of several small magnets
+
+sticking through the floor. A pulley and belt, con-
+
+nected to a circular saw larger than the motor,
+
+permitted large logs of oak timber to be sawed with ease
+
+with the use of two small cells of battery. Edison's
+
+friend, General Lefferts, had become excited and was
+
+determined to invest a large sum of money in the
+
+motor company, but knowing Edison's intimate
+
+familiarity with all electrical subjects he was wise
+
+enough to ask his young expert to go and see the
+
+motor with him. At an appointed hour Edison went
+
+to the office of the motor company and found there
+
+the venerable Professor Morse, Governor Cornell,
+
+General Lefferts, and many others who had been
+
+invited to witness a performance of the motor. They
+
+all proceeded to the room where the motor was at
+
+work. Payne put a wire in the binding-post of the
+
+battery, the motor started, and an assistant began
+
+sawing a heavy oak log. It worked beautifully, and so
+
+great was the power developed, apparently, from the
+
+small battery, that Morse exclaimed: "I am thankful
+
+that I have lived to see this day." But Edison
+
+kept a close watch on the motor. The results were
+
+so foreign to his experience that he knew there was
+
+a trick in it. He soon discovered it. While holding
+
+his hand on the frame of the motor he noticed a
+
+tremble coincident with the exhaust of an engine
+
+across the alleyway, and he then knew that the
+
+power came from the engine by a belt under the floor,
+
+shifted on and off by a magnet, the other magnets
+
+being a blind. He whispered to the General to put
+
+his hand on the frame of the motor, watch the
+
+exhaust, and note the coincident tremor. The General
+
+did so, and in about fifteen seconds he said: "Well,
+
+Edison, I must go now. This thing is a fraud." And
+
+thus he saved his money, although others not so
+
+shrewdly advised were easily persuaded to invest by
+
+such a demonstration.
+
+
+
+A few years later, in 1878, Edison went to Wyoming
+
+with a group of astronomers, to test his tasimeter during
+
+an eclipse of the sun, and saw the land white to harvest.
+
+He noticed the long hauls to market or elevator
+
+that the farmers had to make with their loads of grain
+
+at great expense, and conceived the idea that as ordinary
+
+steam-railroad service was too costly, light
+
+electric railways might be constructed that could
+
+be operated automatically over simple tracks, the
+
+propelling motors being controlled at various points.
+
+Cheap to build and cheap to maintain, such roads would
+
+be a great boon to the newer farming regions of the
+
+West, where the highways were still of the crudest character,
+
+and where transportation was the gravest difficulty
+
+with which the settlers had to contend. The
+
+plan seems to have haunted him, and he had no sooner
+
+worked out a generator and motor that owing to their
+
+low internal resistance could be operated efficiently,
+
+than he turned his hand to the practical trial of such
+
+a railroad, applicable to both the haulage of freight
+
+and the transportation of passengers. Early in 1880,
+
+when the tremendous rush of work involved in the
+
+invention of the incandescent lamp intermitted a little,
+
+he began the construction of a stretch of track
+
+close to the Menlo Park laboratory, and at the same
+
+time built an electric locomotive to operate over it.
+
+
+
+This is a fitting stage at which to review briefly
+
+what had been done in electric traction up to that
+
+date. There was absolutely no art, but there had
+
+been a number of sporadic and very interesting
+
+experiments made. The honor of the first attempt of
+
+any kind appears to rest with this country and with
+
+Thomas Davenport, a self-trained blacksmith, of
+
+Brandon, Vermont, who made a small model of a
+
+circular electric railway and cars in 1834, and
+
+exhibited it the following year in Springfield, Boston,
+
+and other cities. Of course he depended upon
+
+batteries for current, but the fundamental idea was
+
+embodied of using the track for the circuit, one rail
+
+being positive and the other negative, and the motor
+
+being placed across or between them in multiple arc
+
+to receive the current. Such are also practically the
+
+methods of to-day. The little model was in good
+
+preservation up to the year 1900, when, being shipped
+
+to the Paris Exposition, it was lost, the steamer that
+
+carried it foundering in mid-ocean. The very broad
+
+patent taken out by this simple mechanic, so far
+
+ahead of his times, was the first one issued in America
+
+for an electric motor. Davenport was also the first
+
+man to apply electric power to the printing-press,
+
+in 1840. In his traction work he had a close second
+
+in Robert Davidson, of Aberdeen, Scotland, who in
+
+1839 operated both a lathe and a small locomotive
+
+with the motor he had invented. His was the credit
+
+of first actually carrying passengers--two at a time,
+
+over a rough plank road--while it is said that his was
+
+the first motor to be tried on real tracks, those of
+
+the Edinburgh-Glasgow road, making a speed of four
+
+miles an hour.
+
+
+
+The curse of this work and of all that succeeded it
+
+for a score of years was the necessity of depending
+
+upon chemical batteries for current, the machine
+
+usually being self-contained and hauling the batteries
+
+along with itself, as in the case of the famous
+
+Page experiments in April, 1851, when a speed of
+
+nineteen miles an hour was attained on the line of
+
+the Washington & Baltimore road. To this unfruitful
+
+period belonged, however, the crude idea of taking
+
+the current from a stationary source of power by
+
+means of an overhead contact, which has found its
+
+practical evolution in the modern ubiquitous trolley;
+
+although the patent for this, based on his caveat of
+
+1879, was granted several years later than that to
+
+Stephen D. Field, for the combination of an electric
+
+motor operated by means of a current from a stationary
+
+dynamo or source of electricity conducted
+
+through the rails. As a matter of fact, in 1856 and
+
+again in 1875, George F. Green, a jobbing machinist,
+
+of Kalamazoo, Michigan, built small cars and tracks
+
+to which current was fed from a distant battery,
+
+enough energy being utilized to haul one hundred
+
+pounds of freight or one passenger up and down a
+
+"road" two hundred feet long. All the work prior
+
+to the development of the dynamo as a source of
+
+current was sporadic and spasmodic, and cannot be
+
+said to have left any trace on the art, though it
+
+offered many suggestions as to operative methods.
+
+
+
+The close of the same decade of the nineteenth
+
+century that saw the electric light brought to perfection,
+
+saw also the realization in practice of all the
+
+hopes of fifty years as to electric traction. Both
+
+utilizations depended upon the supply of current now
+
+cheaply obtainable from the dynamo. These arts
+
+were indeed twins, feeding at inexhaustible breasts.
+
+In 1879, at the Berlin Exhibition, the distinguished
+
+firm of Siemens, to whose ingenuity and enterprise
+
+electrical development owes so much, installed a road
+
+about one-third of a mile in length, over which the
+
+locomotive hauled a train of three small cars at a
+
+speed of about eight miles an hour, carrying some
+
+twenty persons every trip. Current was fed from a
+
+dynamo to the motor through a central third rail, the
+
+two outer rails being joined together as the negative
+
+or return circuit. Primitive but essentially successful,
+
+this little road made a profound impression on the
+
+minds of many inventors and engineers, and marked
+
+the real beginning of the great new era, which has
+
+already seen electricity applied to the operation of
+
+main lines of trunk railways. But it is not to be supposed
+
+that on the part of the public there was any
+
+great amount of faith then discernible; and for some
+
+years the pioneers had great difficulty, especially in
+
+this country, in raising money for their early modest
+
+experiments. Of the general conditions at this
+
+moment Frank J. Sprague says in an article in the
+
+Century Magazine of July, 1905, on the creation of
+
+the new art: "Edison was perhaps nearer the verge
+
+of great electric-railway possibilities than any other
+
+American. In the face of much adverse criticism
+
+he had developed the essentials of the low-internal-
+
+resistance dynamo with high-resistance field, and
+
+many of the essential features of multiple-arc
+
+distribution, and in 1880 he built a small road at his
+
+laboratory at Menlo Park."
+
+
+
+On May 13th of the year named this interesting
+
+road went into operation as the result of hard and
+
+hurried work of preparation during the spring months.
+
+The first track was about a third of a mile in length,
+
+starting from the shops, following a country road, passing
+
+around a hill at the rear and curving home, in the
+
+general form of the letter "U." The rails were very
+
+light. Charles T. Hughes, who went with Edison in
+
+1879, and was in charge of much of the work, states
+
+that they were "second" street-car rails, insulated
+
+with tar canvas paper and things of that sort--
+
+"asphalt." They were spiked down on ordinary
+
+sleepers laid upon the natural grade, and the gauge
+
+was about three feet six inches. At one point the
+
+grade dropped some sixty feet in a distance of three
+
+hundred, and the curves were of recklessly short
+
+radius. The dynamos supplying current to the road
+
+were originally two of the standard size "Z" machines
+
+then being made at the laboratory, popularly known
+
+throughout the Edison ranks as "Longwaisted Mary
+
+Anns," and the circuits from these were carried out
+
+to the rails by underground conductors. They were
+
+not large--about twelve horse-power each--generating
+
+seventy-five amperes of current at one hundred and
+
+ten volts, so that not quite twenty-five horse-power
+
+of electrical energy was available for propulsion.
+
+
+
+The locomotive built while the roadbed was getting
+
+ready was a four-wheeled iron truck, an ordinary flat
+
+dump-car about six feet long and four feet wide,
+
+upon which was mounted a "Z" dynamo used as a
+
+motor, so that it had a capacity of about twelve
+
+horsepower. This machine was laid on its side, with the
+
+armature end coming out at the front of the
+
+locomotive, and the motive power was applied to the
+
+driving-axle by a cumbersome series of friction pulleys.
+
+Each wheel of the locomotive had a metal rim
+
+and a centre web of wood or papier-mache, and the
+
+current picked up by one set of wheels was carried
+
+through contact brushes and a brass hub to the
+
+motor; the circuit back to the track, or other rail,
+
+being closed through the other wheels in a similar
+
+manner. The motor had its field-magnet circuit in
+
+permanent connection as a shunt across the rails,
+
+protected by a crude bare copper-wire safety-catch.
+
+A switch in the armature circuit enabled the motorman
+
+to reverse the direction of travel by reversing the
+
+current flow through the armature coils.
+
+
+
+Things went fairly well for a time on that memorable
+
+Thursday afternoon, when all the laboratory
+
+force made high holiday and scrambled for foothold
+
+on the locomotive for a trip; but the friction gearing
+
+was not equal to the sudden strain put upon it during
+
+one run and went to pieces. Some years later, also,
+
+Daft again tried friction gear in his historical experiments
+
+on the Manhattan Elevated road, but the results
+
+were attended with no greater success. The
+
+next resort of Edison was to belts, the armature shafting
+
+belted to a countershaft on the locomotive frame,
+
+and the countershaft belted to a pulley on the car-
+
+axle. The lever which threw the former friction gear
+
+into adjustment was made to operate an idler pulley
+
+for tightening the axle-belt. When the motor was
+
+started, the armature was brought up to full revolution
+
+and then the belt was tightened on the car-
+
+axle, compelling motion of the locomotive. But the
+
+belts were liable to slip a great deal in the process,
+
+and the chafing of the belts charred them badly. If
+
+that did not happen, and if the belt was made taut
+
+suddenly, the armature burned out--which it did
+
+with disconcerting frequency. The next step was to
+
+use a number of resistance-boxes in series with the
+
+armature, so that the locomotive could start with those
+
+in circuit, and then the motorman could bring it up
+
+to speed gradually by cutting one box out after the
+
+other. To stop the locomotive, the armature circuit
+
+was opened by the main switch, stopping the flow of
+
+current, and then brakes were applied by long levers.
+
+Matters generally and the motors in particular went
+
+much better, even if the locomotive was so freely
+
+festooned with resistance-boxes all of perceptible
+
+weight and occupying much of the limited space.
+
+These details show forcibly and typically the painful
+
+steps of advance that every inventor in this new
+
+field had to make in the effort to reach not alone
+
+commercial practicability, but mechanical feasibility.
+
+It was all empirical enough; but that was the only
+
+way open even to the highest talent.
+
+
+
+Smugglers landing laces and silks have been known
+
+to wind them around their bodies, as being less
+
+ostentatious than carrying them in a trunk. Edison
+
+thought his resistance-boxes an equally superfluous
+
+display, and therefore ingeniously wound some copper
+
+resistance wire around one of the legs of the motor
+
+field magnet, where it was out of the way, served as
+
+a useful extra field coil in starting up the motor, and
+
+dismissed most of the boxes back to the laboratory;
+
+
+
+a few being retained under the seat for chance emergencies.
+
+Like the boxes, this coil was in series with
+
+the armature, and subject to plugging in and out at
+
+will by the motorman. Thus equipped, the locomotive
+
+was found quite satisfactory, and long did yeoman
+
+service. It was given three cars to pull, one an
+
+open awning-car with two park benches placed back to
+
+back; one a flat freight-car, and one box-car dubbed
+
+the "Pullman," with which Edison illustrated a system
+
+of electric braking. Although work had been
+
+begun so early in the year, and the road had been
+
+operating since May, it was not until July that Edison
+
+executed any application for patents on his
+
+"electromagnetic railway engine," or his ingenious braking
+
+system. Every inventor knows how largely his fate
+
+lies in the hands of a competent and alert patent
+
+attorney, in both the preparation and the prosecution
+
+of his case; and Mr. Sprague is justified in observing
+
+in his Century article: ""The paucity of controlling
+
+claims obtained in these early patents is remarkable."
+
+It is notorious that Edison did not then enjoy the
+
+skilful aid in safeguarding his ideas that he commanded
+
+later.
+
+
+
+The daily newspapers and technical journals lost
+
+no time in bringing the road to public attention, and
+
+the New York Herald of June 25th was swift to suggest
+
+that here was the locomotive that would be
+
+"most pleasing to the average New Yorker, whose
+
+head has ached with noise, whose eyes have been
+
+filled with dust, or whose clothes have been ruined
+
+with oil." A couple of days later, the Daily Graphic
+
+illustrated and described the road and published a
+
+sketch of a one-hundred-horse-power electric locomotive
+
+for the use of the Pennsylvania Railroad between
+
+Perth Amboy and Rahway. Visitors, of
+
+course, were numerous, including many curious,
+
+sceptical railroad managers, few if any of whom except
+
+Villard could see the slightest use for the new
+
+motive power. There is, perhaps, some excuse for
+
+such indifference. No men in the world have more
+
+new inventions brought to them than railroad managers,
+
+and this was the rankest kind of novelty. It
+
+was not, indeed, until a year later, in May, 1881, that
+
+the first regular road collecting fares was put in
+
+operation--a little stretch of one and a half miles
+
+from Berlin to Lichterfelde, with one miniature motorcar.
+
+Edison was in reality doing some heavy electric-
+
+railway engineering, his apparatus full of ideas,
+
+suggestions, prophecies; but to the operators of long
+
+trunk lines it must have seemed utterly insignificant
+
+and "excellent fooling."
+
+
+
+Speaking of this situation, Mr. Edison says: "One
+
+day Frank Thomson, the President of the Pennsylvania
+
+Railroad, came out to see the electric light and
+
+the electric railway in operation. The latter was then
+
+about a mile long. He rode on it. At that time I
+
+was getting out plans to make an electric locomotive
+
+of three hundred horse-power with six-foot drivers,
+
+with the idea of showing people that they could
+
+dispense with their steam locomotives. Mr. Thomson
+
+made the objection that it was impracticable, and
+
+that it would be impossible to supplant steam. His
+
+great experience and standing threw a wet blanket
+
+on my hopes. But I thought he might perhaps be
+
+mistaken, as there had been many such instances
+
+on record. I continued to work on the plans, and
+
+about three years later I started to build the locomotive
+
+at the works at Goerck Street, and had it about
+
+finished when I was switched off on some other work.
+
+One of the reasons why I felt the electric railway to
+
+be eminently practical was that Henry Villard, the
+
+President of the Northern Pacific, said that one of
+
+the greatest things that could be done would be to
+
+build right-angle feeders into the wheat-fields of
+
+Dakota and bring in the wheat to the main lines,
+
+as the farmers then had to draw it from forty to
+
+eighty miles. There was a point where it would not
+
+pay to raise it at all; and large areas of the country
+
+were thus of no value. I conceived the idea of building
+
+a very light railroad of narrow gauge, and had
+
+got all the data as to the winds on the plains, and
+
+found that it would be possible with very large windmills
+
+to supply enough power to drive those wheat
+
+trains."
+
+
+
+Among others who visited the little road at this
+
+juncture were persons interested in the Manhattan
+
+Elevated system of New York, on which experiments
+
+were repeatedly tried later, but which was not destined
+
+to adopt a method so obviously well suited to
+
+all the conditions until after many successful
+
+demonstrations had been made on elevated roads elsewhere.
+
+It must be admitted that Mr. Edison was not very
+
+profoundly impressed with the desire entertained in
+
+that quarter to utilize any improvement, for he
+
+remarks: "When the Elevated Railroad in New York,
+
+up Sixth Avenue, was started there was a great
+
+clamor about the noise, and injunctions were threatened.
+
+The management engaged me to make a report
+
+on the cause of the noise. I constructed an
+
+instrument that would record the sound, and set out
+
+to make a preliminary report, but I found that they
+
+never intended to do anything but let the people
+
+complain."
+
+
+
+It was upon the co-operation of Villard that Edison
+
+fell back, and an agreement was entered into between
+
+them on September 14, 1881, which provided that the
+
+latter would "build two and a half miles of electric
+
+railway at Menlo Park, equipped with three cars,
+
+two locomotives, one for freight, and one for
+
+passengers, capacity of latter sixty miles an hour.
+
+Capacity freight engine, ten tons net freight; cost
+
+of handling a ton of freight per mile per horse-power
+
+to be less than ordinary locomotive.... If experiments
+
+are successful, Villard to pay actual outlay in
+
+experiments, and to treat with the Light Company
+
+for the installation of at least fifty miles of electric
+
+railroad in the wheat regions." Mr. Edison is authority
+
+for the statement that Mr. Villard advanced between
+
+$35,000 and $40,000, and that the work done
+
+was very satisfactory; but it did not end at that
+
+time in any practical results, as the Northern Pacific
+
+went into the hands of a receiver, and Mr. Villard's
+
+ability to help was hopelessly crippled. The directors
+
+of the Edison Electric Light Company could not be
+
+induced to have anything to do with the electric
+
+railway, and Mr. Insull states that the money advanced
+
+was treated by Mr. Edison as a personal loan and repaid
+
+to Mr. Villard, for whom he had a high admiration
+
+and a strong feeling of attachment. Mr. Insull says:
+
+"Among the financial men whose close personal
+
+friendship Edison enjoyed, I would mention Henry
+
+Villard, who, I think, had a higher appreciation of
+
+the possibilities of the Edison system than probably
+
+any other man of his time in Wall Street. He dropped
+
+out of the business at the time of the consolidation
+
+of the Thomson-Houston Company with the Edison
+
+General Electric Company; but from the earliest days
+
+of the business, when it was in its experimental period,
+
+when the Edison light and power system was but an
+
+idea, down to the day of his death, Henry Villard continued
+
+a strong supporter not only with his influence,
+
+but with his money. He was the first capitalist to
+
+back individually Edison's experiments in electric
+
+railways."
+
+
+
+In speaking of his relationships with Mr. Villard at
+
+this time, Edison says: "When Villard was all broken
+
+down, and in a stupor caused by his disasters in
+
+connection with the Northern Pacific, Mrs. Villard sent
+
+for me to come and cheer him up. It was very difficult
+
+to rouse him from his despair and apathy, but
+
+I talked about the electric light to him, and its
+
+development, and told him that it would help him win
+
+it all back and put him in his former position. Villard
+
+made his great rally; he made money out of the electric
+
+light; and he got back control of the Northern
+
+Pacific. Under no circumstances can a hustler be
+
+kept down. If he is only square, he is bound to get
+
+back on his feet. Villard has often been blamed and
+
+severely criticised, but he was not the only one to
+
+blame. His engineers had spent $20,000,000 too
+
+much in building the road, and it was not his fault
+
+if he found himself short of money, and at that time
+
+unable to raise any more."
+
+
+
+Villard maintained his intelligent interest in electric-
+
+railway development, with regard to which Edison
+
+remarks: "At one time Mr. Villard got the idea that
+
+he would run the mountain division of the Northern
+
+Pacific Railroad by electricity. He asked me if it
+
+could be done. I said: `Certainly, it is too easy for
+
+me to undertake; let some one else do it.' He said:
+
+`I want you to tackle the problem,' and he insisted
+
+on it. So I got up a scheme of a third rail and shoe
+
+and erected it in my yard here in Orange. When I
+
+got it all ready, he had all his division engineers come
+
+on to New York, and they came over here. I showed
+
+them my plans, and the unanimous decision of the
+
+engineers was that it was absolutely and utterly
+
+impracticable. That system is on the New York Central
+
+now, and was also used on the New Haven road in its
+
+first work with electricity."
+
+
+
+At this point it may be well to cite some other
+
+statements of Edison as to kindred work, with which
+
+he has not usually been associated in the public mind.
+
+"In the same manner I had worked out for the Manhattan
+
+Elevated Railroad a system of electric trains,
+
+and had the control of each car centred at one place
+
+--multiple control. This was afterward worked out
+
+and made practical by Frank Sprague. I got up a
+
+slot contact for street railways, and have a patent on
+
+it--a sliding contact in a slot. Edward Lauterbach
+
+was connected with the Third Avenue Railroad in
+
+New York--as counsel--and I told him he was mak-
+
+ing a horrible mistake putting in the cable. I told
+
+him to let the cable stand still and send electricity
+
+through it, and he would not have to move hundreds
+
+of tons of metal all the time. He would rue the day
+
+when he put the cable in." It cannot be denied that
+
+the prophecy was fulfilled, for the cable was the beginning
+
+of the frightful financial collapse of the system,
+
+and was torn out in a few years to make way for the
+
+triumphant "trolley in the slot."
+
+
+
+Incidental glimpses of this work are both amusing
+
+and interesting. Hughes, who was working on the
+
+experimental road with Mr. Edison, tells the following
+
+story: "Villard sent J. C. Henderson, one of his
+
+mechanical engineers, to see the road when it was in
+
+operation, and we went down one day--Edison,
+
+Henderson, and I--and went on the locomotive. Edison
+
+ran it, and just after we started there was a
+
+trestle sixty feet long and seven feet deep, and Edison
+
+put on all the power. When we went over it we must
+
+have been going forty miles an hour, and I could see
+
+the perspiration come out on Henderson. After we
+
+got over the trestle and started on down the track,
+
+Henderson said: `When we go back I will walk. If
+
+there is any more of that kind of running I won't be
+
+in it myself.' " To the correspondence of Grosvenor
+
+P. Lowrey we are indebted for a similar reminiscence,
+
+under date of June 5, 1880: "Goddard and I have
+
+spent a part of the day at Menlo, and all is glorious.
+
+I have ridden at forty miles an hour on Mr. Edison's
+
+electric railway--and we ran off the track. I protested
+
+at the rate of speed over the sharp curves,
+
+designed to show the power of the engine, but Edison
+
+said they had done it often. Finally, when the last
+
+trip was to be taken, I said I did not like it, but would
+
+go along. The train jumped the track on a short
+
+curve, throwing Kruesi, who was driving the engine,
+
+with his face down in the dirt, and another man in a
+
+comical somersault through some underbrush. Edison
+
+was off in a minute, jumping and laughing, and
+
+declaring it a most beautiful accident. Kruesi got
+
+up, his face bleeding and a good deal shaken; and I
+
+shall never forget the expression of voice and face
+
+in which he said, with some foreign accent: `Oh!
+
+yes, pairfeckly safe.' Fortunately no other hurts
+
+were suffered, and in a few minutes we had the train
+
+on the track and running again."
+
+
+
+All this rough-and-ready dealing with grades and
+
+curves was not mere horse-play, but had a serious purpose
+
+underlying it, every trip having its record as to
+
+some feature of defect or improvement. One particular
+
+set of experiments relating to such work was
+
+made on behalf of visitors from South America, and
+
+were doubtless the first tests of the kind made for
+
+that continent, where now many fine electric street
+
+and interurban railway systems are in operation.
+
+Mr. Edison himself supplies the following data:
+
+"During the electric-railway experiments at Menlo
+
+Park, we had a short spur of track up one of the
+
+steep gullies. The experiment came about in this
+
+way. Bogota, the capital of Columbia, is reached
+
+on muleback--or was--from Honda on the headwaters
+
+of the Magdalena River. There were parties
+
+who wanted to know if transportation over the mule
+
+route could not be done by electricity. They said the
+
+grades were excessive, and it would cost too much to
+
+do it with steam locomotives, even if they could
+
+climb the grades. I said: `Well, it can't be much
+
+more than 45 per cent.; we will try that first. If it
+
+will do that it will do anything else.' I started at
+
+45 per cent. I got up an electric locomotive with a
+
+grip on the rail by which it went up the 45 per cent.
+
+grade. Then they said the curves were very short.
+
+I put the curves in. We started the locomotive with
+
+nobody on it, and got up to twenty miles an hour,
+
+taking those curves of very short radius; but it was
+
+weeks before we could prevent it from running off.
+
+We had to bank the tracks up to an angle of thirty
+
+degrees before we could turn the curve and stay on.
+
+These Spanish parties were perfectly satisfied we could
+
+put in an electric railway from Honda to Bogota
+
+successfully, and then they disappeared. I have never
+
+seen them since. As usual, I paid for the experiment."
+
+
+
+In the spring of 1883 the Electric Railway Company
+
+of America was incorporated in the State of
+
+New York with a capital of $2,000,000 to develop
+
+the patents and inventions of Edison and Stephen
+
+D. Field, to the latter of whom the practical work of
+
+active development was confided, and in June of the
+
+same year an exhibit was made at the Chicago Railway
+
+Exposition, which attracted attention throughout
+
+the country, and did much to stimulate the growing
+
+interest in electric-railway work. With the aid
+
+of Messrs. F. B. Rae, C. L. Healy, and C. O. Mailloux
+
+a track and locomotive were constructed for the company
+
+by Mr. Field and put in service in the gallery
+
+of the main exhibition building. The track curved
+
+sharply at either end on a radius of fifty-six feet, and
+
+the length was about one-third of a mile. The locomotive
+
+named "The Judge," after Justice Field, an
+
+uncle of Stephen D. Field, took current from a central
+
+rail between the two outer rails, that were the return
+
+circuit, the contact being a rubbing wire brush on
+
+each side of the "third rail," answering the same purpose
+
+as the contact shoe of later date. The locomotive
+
+weighed three tons, was twelve feet long, five
+
+feet wide, and made a speed of nine miles an hour
+
+with a trailer car for passengers. Starting on June
+
+5th, when the exhibition closed on June 23d this tiny
+
+but typical road had operated for over 118 hours, had
+
+made over 446 miles, and had carried 26,805 passengers.
+
+After the exposition closed the outfit was
+
+taken during the same year to the exposition at
+
+Louisville, Kentucky, where it was also successful,
+
+carrying a large number of passengers. It deserves
+
+note that at Chicago regular railway tickets were
+
+issued to paying passengers, the first ever employed
+
+on American electric railways.
+
+
+
+With this modest but brilliant demonstration, to
+
+which the illustrious names of Edison and Field were
+
+attached, began the outburst of excitement over
+
+electric railways, very much like the eras of speculation
+
+and exploitation that attended only a few years
+
+earlier the introduction of the telephone and the
+
+electric light, but with such significant results that
+
+the capitalization of electric roads in America is now
+
+over $4,000,000,000, or twice as much as that of the
+
+other two arts combined. There was a tremendous
+
+rush into the electric-railway field after 1883, and an
+
+outburst of inventive activity that has rarely, if ever,
+
+been equalled. It is remarkable that, except Siemens,
+
+no European achieved fame in this early work, while
+
+from America the ideas and appliances of Edison,
+
+Van Depoele, Sprague, Field, Daft, and Short have
+
+been carried and adopted all over the world.
+
+
+
+Mr. Edison was consulting electrician for the
+
+Electric Railway Company, but neither a director
+
+nor an executive officer. Just what the trouble was
+
+as to the internal management of the corporation it
+
+is hard to determine a quarter of a century later; but
+
+it was equipped with all essential elements to dominate
+
+an art in which after its first efforts it remained
+
+practically supine and useless, while other interests
+
+forged ahead and reaped both the profit and the glory.
+
+Dissensions arose between the representatives of the
+
+Field and Edison interests, and in April, 1890, the
+
+Railway Company assigned its rights to the Edison
+
+patents to the Edison General Electric Company,
+
+recently formed by the consolidation of all the
+
+branches of the Edison light, power, and manufacturing
+
+industry under one management. The only
+
+patent rights remaining to the Railway Company
+
+were those under three Field patents, one of which,
+
+with controlling claims, was put in suit June, 1890,
+
+against the Jamaica & Brooklyn Road Company, a
+
+customer of the Edison General Electric Company.
+
+This was, to say the least, a curious and anomalous
+
+situation. Voluminous records were made by both
+
+parties to the suit, and in the spring of 1894 the case
+
+was argued before the late Judge Townsend, who wrote
+
+a long opinion dismissing the bill of complaint.[15] The
+
+student will find therein a very complete and careful
+
+study of the early electric-railway art. After this
+
+decision was rendered, the Electric Railway Company
+
+remained for several years in a moribund condition,
+
+and on the last day of 1896 its property was placed
+
+in the hands of a receiver. In February of 1897 the
+
+receiver sold the three Field patents to their original
+
+owner, and he in turn sold them to the Westinghouse
+
+Electric and Manufacturing Company. The Railway
+
+Company then went into voluntary dissolution, a sad
+
+example of failure to seize the opportunity at the
+
+psychological moment, and on the part of the inventor
+
+to secure any adequate return for years of
+
+effort and struggle in founding one of the great arts.
+
+Neither of these men was squelched by such a calamitous
+
+result, but if there were not something of bitterness
+
+in their feelings as they survey what has come
+
+of their work, they would not be human.
+
+
+
+As a matter of fact, Edison retained a very lively
+
+interest in electric-railway progress long after the
+
+pregnant days at Menlo Park, one of the best evidences
+
+of which is an article in the New York Electrical
+
+Engineer of November 18, 1891, which describes
+
+some important and original experiments in the direction
+
+of adapting electrical conditions to the larger
+
+cities. The overhead trolley had by that time begun
+
+its victorious career, but there was intense hostility
+
+displayed toward it in many places because of the
+
+inevitable increase in the number of overhead wires,
+
+which, carrying, as they did, a current of high voltage
+
+and large quantity, were regarded as a menace to life
+
+and property. Edison has always manifested a
+
+strong objection to overhead wires in cities, and
+
+urged placing them underground; and the outcry
+
+against the overhead "deadly" trolley met with his
+
+instant sympathy. His study of the problem brought
+
+him to the development of the modern "substation,"
+
+although the twists that later evolutions have given
+
+the idea have left it scarcely recognizable.
+
+
+
+
+
+[15] See 61 Fed. Rep. 655.
+
+
+
+
+
+Mr. Villard, as President of the Edison General
+
+Electric Company, requested Mr. Edison, as electrician
+
+of the company, to devise a street-railway
+
+system which should be applicable to the largest
+
+cities where the use of the trolley would not be
+
+permitted, where the slot conduit system would not be
+
+used, and where, in general, the details of construction
+
+should be reduced to the simplest form. The
+
+limits imposed practically were such as to require that
+
+the system should not cost more than a cable road to
+
+install. Edison reverted to his ingenious lighting plan
+
+of years earlier, and thus settled on a method by
+
+which current should be conveyed from the power
+
+plant at high potential to motor-generators placed
+
+below the ground in close proximity to the rails.
+
+These substations would convert the current received
+
+at a pressure of, say, one thousand volts to one of
+
+twenty volts available between rail and rail, with a
+
+corresponding increase in the volume of the current.
+
+With the utilization of heavy currents at low voltage
+
+it became necessary, of course, to devise apparatus
+
+which should be able to pick up with absolute certainty
+
+one thousand amperes of current at this press-
+
+ure through two inches of mud, if necessary. With
+
+his wonted activity and fertility Edison set about
+
+devising such a contact, and experimented with metal
+
+wheels under all conditions of speed and track conditions.
+
+It was several months before he could convey
+
+one hundred amperes by means of such contacts,
+
+but he worked out at last a satisfactory device which
+
+was equal to the task. The next point was to secure a
+
+joint between contiguous rails such as would permit of
+
+the passage of several thousand amperes without
+
+introducing undue resistance. This was also accomplished.
+
+
+
+Objections were naturally made to rails out in the
+
+open on the street surface carrying large currents at
+
+a potential of twenty volts. It was said that vehicles
+
+with iron wheels passing over the tracks and spanning
+
+the two rails would short-circuit the current,
+
+"chew" themselves up, and destroy the dynamos
+
+generating the current by choking all that tremendous
+
+amount of energy back into them. Edison tackled
+
+the objection squarely and short-circuited his track
+
+with such a vehicle, but succeeded in getting only
+
+about two hundred amperes through the wheels, the
+
+low voltage and the insulating properties of the axle-
+
+grease being sufficient to account for such a result.
+
+An iron bar was also used, polished, and with a man
+
+standing on it to insure solid contact; but only one
+
+thousand amperes passed through it--i.e., the amount
+
+required by a single car, and, of course, much less than
+
+the capacity of the generators able to operate a
+
+system of several hundred cars.
+
+
+
+Further interesting experiments showed that the
+
+expected large leakage of current from the rails in
+
+wet weather did not materialize. Edison found that
+
+under the worst conditions with a wet and salted
+
+track, at a potential difference of twenty volts
+
+between the two rails, the extreme loss was only two
+
+and one-half horse-power. In this respect the
+
+phenomenon followed the same rule as that to which
+
+telegraph wires are subject--namely, that the loss of
+
+insulation is greater in damp, murky weather when
+
+the insulators are covered with wet dust than during
+
+heavy rains when the insulators are thoroughly
+
+washed by the action of the water. In like manner
+
+a heavy rain-storm cleaned the tracks from the
+
+accumulations due chiefly to the droppings of the horses,
+
+which otherwise served largely to increase the conductivity.
+
+Of course, in dry weather the loss of current
+
+was practically nothing, and, under ordinary
+
+conditions, Edison held, his system was in respect to
+
+leakage and the problems of electrolytic attack of
+
+the current on adjacent pipes, etc., as fully insulated
+
+as the standard trolley network of the day. The cost
+
+of his system Mr. Edison placed at from $30,000 to
+
+$100,000 per mile of double track, in accordance with
+
+local conditions, and in this respect comparing very
+
+favorably with the cable systems then so much in
+
+favor for heavy traffic. All the arguments that could
+
+be urged in support of this ingenious system are
+
+tenable and logical at the present moment; but the
+
+trolley had its way except on a few lines where the
+
+conduit-and-shoe method was adopted; and in the
+
+intervening years the volume of traffic created and
+
+handled by electricity in centres of dense population
+
+has brought into existence the modern subway.
+
+
+
+But down to the moment of the preparation of this
+
+biography, Edison has retained an active interest in
+
+transportation problems, and his latest work has
+
+been that of reviving the use of the storage battery
+
+for street-car purposes. At one time there were a
+
+number of storage-battery lines and cars in operation
+
+in such cities as Washington, New York, Chicago,
+
+and Boston; but the costs of operation and maintenance
+
+were found to be inordinately high as compared
+
+with those of the direct-supply methods, and the battery
+
+cars all disappeared. The need for them under
+
+many conditions remained, as, for example, in places
+
+in Greater New York where the overhead trolley wires
+
+are forbidden as objectionable, and where the ground
+
+is too wet or too often submerged to permit of the
+
+conduit with the slot. Some of the roads in Greater
+
+New York have been anxious to secure such cars, and,
+
+as usual, the most resourceful electrical engineer and
+
+inventor of his times has made the effort. A special
+
+experimental track has been laid at the Orange
+
+laboratory, and a car equipped with the Edison storage
+
+battery and other devices has been put under
+
+severe and extended trial there and in New York.
+
+
+
+Menlo Park, in ruin and decay, affords no traces of
+
+the early Edison electric-railway work, but the crude
+
+little locomotive built by Charles T. Hughes was rescued
+
+from destruction, and has become the property of the
+
+Pratt Institute, of Brooklyn, towhose thousands of
+
+technical students it is a constant example and incentive.
+
+It was loaned in 1904 to the Association of Edison
+
+Illuminating Companies, and by it exhibited as part of the
+
+historical Edison collection at the St. Louis Exposition.
+

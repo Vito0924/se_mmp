@@ -1,0 +1,1438 @@
+
+
+
+
+
+CHAPTER XXII
+
+
+
+THE DEVELOPMENT OF THE EDISON STORAGE
+
+BATTERY
+
+
+
+IT is more than a hundred years since the elementary
+
+principle of the storage battery or "accumulator"
+
+was detected by a Frenchman named Gautherot; it
+
+is just fifty years since another Frenchman, named
+
+Plante, discovered that on taking two thin plates of
+
+sheet lead, immersing them in dilute sulphuric acid,
+
+and passing an electric current through the cell, the
+
+combination exhibited the ability to give back part
+
+of the original charging current, owing to the chemical
+
+changes and reactions set up. Plante coiled up his
+
+sheets into a very handy cell like a little roll of carpet
+
+or pastry; but the trouble was that the battery took a
+
+long time to "form." One sheet becoming coated
+
+with lead peroxide and the other with finely divided
+
+or spongy metallic lead, they would receive current,
+
+and then, even after a long period of inaction, furnish
+
+or return an electromotive force of from 1.85
+
+to 2.2 volts. This ability to store up electrical energy
+
+produced by dynamos in hours otherwise idle, whether
+
+driven by steam, wind, or water, was a distinct advance
+
+in the art; but the sensational step was taken about
+
+1880, when Faure in France and Brush in America
+
+broke away from the slow and weary process of "form-
+
+ing" the plates, and hit on clever methods of furnishing
+
+them "ready made," so to speak, by dabbing red
+
+lead onto lead-grid plates, just as butter is spread on a
+
+slice of home-made bread. This brought the storage
+
+battery at once into use as a practical, manufactured
+
+piece of apparatus; and the world was captivated
+
+with the idea. The great English scientist, Sir
+
+William Thomson, went wild with enthusiasm when
+
+a Faure "box of electricity" was brought over from
+
+Paris to him in 1881 containing a million foot-pounds
+
+of stored energy. His biographer, Dr. Sylvanus P.
+
+Thompson, describes him as lying ill in bed with a
+
+wounded leg, and watching results with an incandescent
+
+lamp fastened to his bed curtain by a safety-pin,
+
+and lit up by current from the little Faure cell. Said
+
+Sir William: "It is going to be a most valuable,
+
+practical affair--as valuable as water-cisterns to
+
+people whether they had or had not systems of water-
+
+pipes and water-supply." Indeed, in one outburst
+
+of panegyric the shrewd physicist remarked that he
+
+saw in it "a realization of the most ardently and
+
+increasingly felt scientific aspiration of his life--an
+
+aspiration which he hardly dared to expect or to see
+
+realized." A little later, however, Sir William,
+
+always cautious and canny, began to discover the
+
+inherent defects of the primitive battery, as to
+
+disintegration, inefficiency, costliness, etc., and though
+
+offered tempting inducements, declined to lend his
+
+name to its financial introduction. Nevertheless, he
+
+accepted the principle as valuable, and put the battery
+
+to actual use.
+
+
+
+For many years after this episode, the modern lead-
+
+lead type of battery thus brought forward with so
+
+great a flourish of trumpets had a hard time of it.
+
+Edison's attitude toward it, even as a useful
+
+supplement to his lighting system, was always one of
+
+scepticism, and he remarked contemptuously that the
+
+best storage battery he knew was a ton of coal. The
+
+financial fortunes of the battery, on both sides of the
+
+Atlantic, were as varied and as disastrous as its
+
+industrial; but it did at last emerge, and "made good."
+
+By 1905, the production of lead-lead storage batteries
+
+in the United States alone had reached a value for
+
+the year of nearly $3,000,000, and it has increased
+
+greatly since that time. The storage battery is now
+
+regarded as an important and indispensable adjunct
+
+in nearly all modern electric-lighting and electric-
+
+railway systems of any magnitude; and in 1909, in
+
+spite of its weight, it had found adoption in over ten
+
+thousand automobiles of the truck, delivery wagon,
+
+pleasure carriage, and runabout types in America.
+
+
+
+Edison watched closely all this earlier development
+
+for about fifteen years, not changing his mind as to
+
+what he regarded as the incurable defects of the lead-
+
+lead type, but coming gradually to the conclusion
+
+that if a storage battery of some other and better
+
+type could be brought forward, it would fulfil all the
+
+early hopes, however extravagant, of such men as
+
+Kelvin (Sir William Thomson), and would become as
+
+necessary and as universal as the incandescent lamp
+
+or the electric motor. The beginning of the present
+
+century found him at his point of new departure.
+
+
+
+Generally speaking, non-technical and uninitiated
+
+persons have a tendency to regard an invention as
+
+being more or less the ultimate result of some happy
+
+inspiration. And, indeed, there is no doubt that such
+
+may be the fact in some instances; but in most cases
+
+the inventor has intentionally set out to accomplish
+
+a definite and desired result--mostly through the
+
+application of the known laws of the art in which he
+
+happens to be working. It is rarely, however, that
+
+a man will start out deliberately, as Edison did, to
+
+evolve a radically new type of such an intricate device
+
+as the storage battery, with only a meagre clew and
+
+a vague starting-point.
+
+
+
+In view of the successful outcome of the problem
+
+which, in 1900, he undertook to solve, it will be
+
+interesting to review his mental attitude at that period.
+
+It has already been noted at the end of a previous
+
+chapter that on closing the magnetic iron-ore
+
+concentrating plant at Edison, New Jersey, he resolved
+
+to work on a new type of storage battery. It was
+
+about this time that, in the course of a conversation
+
+with Mr. R. H. Beach, then of the street-railway
+
+department of the General Electric Company, he said:
+
+"Beach, I don't think Nature would be so unkind as
+
+to withhold the secret of a GOOD storage battery if a
+
+real earnest hunt for it is made. I'm going to hunt."
+
+
+
+Frequently Edison has been asked what he considers
+
+the secret of achievement. To this query he
+
+has invariably replied: "Hard work, based on hard
+
+thinking." The laboratory records bear the fullest
+
+witness that he has consistently followed out this
+
+prescription to the utmost. The perfection of all his
+
+great inventions has been signalized by patient,
+
+persistent, and incessant effort which, recognizing noth-
+
+ing short of success, has resulted in the ultimate
+
+accomplishment of his ideas. Optimistic and hopeful
+
+to a high degree, Edison has the happy faculty of
+
+beginning the day as open-minded as a child--yesterday's
+
+disappointments and failures discarded and
+
+discounted by the alluring possibilities of to-morrow.
+
+
+
+Of all his inventions, it is doubtful whether any one
+
+of them has called forth more original thought, work,
+
+perseverance, ingenuity, and monumental patience
+
+than the one we are now dealing with. One of his
+
+associates who has been through the many years of
+
+the storage-battery drudgery with him said: "If
+
+Edison's experiments, investigations, and work on
+
+this storage battery were all that he had ever done,
+
+I should say that he was not only a notable inventor,
+
+but also a great man. It is almost impossible to
+
+appreciate the enormous difficulties that have been
+
+overcome."
+
+
+
+From a beginning which was made practically in
+
+the dark, it was not until he had completed more
+
+than ten thousand experiments that he obtained any
+
+positive preliminary results whatever. Through all
+
+this vast amount of research there had been no previous
+
+signs of the electrical action he was looking for.
+
+These experiments had extended over many months
+
+of constant work by day and night, but there was
+
+no breakdown of Edison's faith in ultimate success--
+
+no diminution of his sanguine and confident expectations.
+
+The failure of an experiment simply meant
+
+to him that he had found something else that would
+
+not work, thus bringing the possible goal a little nearer
+
+by a process of painstaking elimination.
+
+
+
+Now, however, after these many months of arduous
+
+toil, in which he had examined and tested practically
+
+all the known elements in numerous chemical
+
+combinations, the electric action he sought for had
+
+been obtained, thus affording him the first inkling of
+
+the secret that he had industriously tried to wrest
+
+from Nature. It should be borne in mind that from
+
+the very outset Edison had disdained any intention of
+
+following in the only tracks then known by employing
+
+lead and sulphuric acid as the components of a
+
+successful storage battery. Impressed with what he
+
+considered the serious inherent defects of batteries
+
+made of these materials, and the tremendously complex
+
+nature of the chemical reactions taking place in
+
+all types of such cells, he determined boldly at the
+
+start that he would devise a battery without lead,
+
+and one in which an alkaline solution could be used--
+
+a form which would, he firmly believed, be inherently
+
+less subject to decay and dissolution than the standard
+
+type, which after many setbacks had finally won
+
+its way to an annual production of many thousands
+
+of cells, worth millions of dollars.
+
+
+
+Two or three thousand of the first experiments followed
+
+the line of his well-known primary battery in
+
+the attempted employment of copper oxide as an
+
+element in a new type of storage cell; but its use
+
+offered no advantages, and the hunt was continued
+
+in other directions and pursued until Edison satisfied
+
+himself by a vast number of experiments that nickel
+
+and iron possessed the desirable qualifications he was
+
+in search of.
+
+
+
+This immense amount of investigation which had
+
+consumed so many months of time, and which had
+
+culminated in the discovery of a series of reactions
+
+between nickel and iron that bore great promise,
+
+brought Edison merely within sight of a strange and
+
+hitherto unexplored country. Slowly but surely the
+
+results of the last few thousands of his preliminary
+
+experiments had pointed inevitably to a new and
+
+fruitful region ahead. He had discovered the hidden
+
+passage and held the clew which he had so industriously
+
+sought. And now, having outlined a definite path,
+
+Edison was all afire to push ahead vigorously in order
+
+that he might enter in and possess the land.
+
+
+
+It is a trite saying that "history repeats itself,"
+
+and certainly no axiom carries more truth than this
+
+when applied to the history of each of Edison's
+
+important inventions. The development of the storage
+
+battery has been no exception; indeed, far from
+
+otherwise, for in the ten years that have elapsed since
+
+the time he set himself and his mechanics, chemists,
+
+machinists, and experimenters at work to develop a
+
+practical commercial cell, the old story of incessant
+
+and persistent efforts so manifest in the working out
+
+of other inventions was fully repeated.
+
+
+
+Very soon after he had decided upon the use of
+
+nickel and iron as the elemental metals for his storage
+
+battery, Edison established a chemical plant at Silver
+
+Lake, New Jersey, a few miles from the Orange
+
+laboratory, on land purchased some time previously.
+
+This place was the scene of the further experiments
+
+to develop the various chemical forms of nickel and
+
+iron, and to determine by tests what would be best
+
+adapted for use in cells manufactured on a com-
+
+mercial scale. With a little handful of selected
+
+experimenters gathered about him, Edison settled down
+
+to one of his characteristic struggles for supremacy.
+
+To some extent it was a revival of the old Menlo
+
+Park days (or, rather, nights). Some of these who
+
+had worked on the preliminary experiments, with the
+
+addition of a few new-comers, toiled together regardless
+
+of passing time and often under most discouraging
+
+circumstances, but with that remarkable esprit
+
+de corps that has ever marked Edison's relations with
+
+his co-workers, and that has contributed so largely
+
+to the successful carrying out of his ideas.
+
+
+
+The group that took part in these early years of
+
+Edison's arduous labors included his old-time assistant,
+
+Fred Ott, together with his chemist, J. W.
+
+Aylsworth, as well as E. J. Ross, Jr., W. E. Holland,
+
+and Ralph Arbogast, and a little later W. G. Bee, all
+
+of whom have grown up with the battery and still
+
+devote their energies to its commercial development.
+
+One of these workers, relating the strenuous experiences
+
+of these few years, says: "It was hard work
+
+and long hours, but still there were some things that
+
+made life pleasant. One of them was the supper-hour
+
+we enjoyed when we worked nights. Mr. Edison
+
+would have supper sent in about midnight, and we
+
+all sat down together, including himself. Work was
+
+forgotten for the time, and all hands were ready for
+
+fun. I have very pleasant recollections of Mr. Edison
+
+at these times. He would always relax and help to
+
+make a good time, and on some occasions I have seen
+
+him fairly overflow with animal spirits, just like a boy
+
+let out from school. After the supper-hour was over,
+
+however, he again became the serious, energetic inventor,
+
+deeply immersed in the work at hand.
+
+
+
+"He was very fond of telling and hearing stories,
+
+and always appreciated a joke. I remember one that
+
+he liked to get off on us once in a while. Our lighting
+
+plant was in duplicate, and about 12.30 or 1 o'clock
+
+in the morning, at the close of the supper-hour, a
+
+change would be made from one plant to the other,
+
+involving the gradual extinction of the electric lights
+
+and their slowly coming up to candle-power again,
+
+the whole change requiring probably about thirty
+
+seconds. Sometimes, as this was taking place, Edison
+
+would fold his hands, compose himself as if he
+
+were in sound sleep, and when the lights were full
+
+again would apparently wake up, with the remark,
+
+`Well, boys, we've had a fine rest; now let's pitch into
+
+work again.' "
+
+
+
+Another interesting and amusing reminiscence of
+
+this period of activity has been gathered from another
+
+of the family of experimenters: "Sometimes,
+
+when Mr. Edison had been working long hours, he
+
+would want to have a short sleep. It was one of the
+
+funniest things I ever witnessed to see him crawl into
+
+an ordinary roll-top desk and curl up and take a nap.
+
+If there was a sight that was still more funny, it was
+
+to see him turn over on his other side, all the time
+
+remaining in the desk. He would use several volumes
+
+of Watts's Dictionary of Chemistry for a pillow, and
+
+we fellows used to say that he absorbed the contents
+
+during his sleep, judging from the flow of new ideas
+
+he had on waking."
+
+
+
+Such incidents as these serve merely to illustrate
+
+the lighter moments that stand out in relief against
+
+the more sombre background of the strenuous years,
+
+for, of all the absorbingly busy periods of Edison's
+
+inventive life, the first five years of the storage-
+
+battery era was one of the very busiest of them all. It
+
+was not that there remained any basic principle to
+
+be discovered or simplified, for that had already been
+
+done; but it was in the effort to carry these principles
+
+into practice that there arose the numerous
+
+difficulties that at times seemed insurmountable.
+
+But, according to another co-worker, "Edison seemed
+
+pleased when he used to run up against a serious
+
+difficulty. It would seem to stiffen his backbone
+
+and make him more prolific of new ideas. For a
+
+time I thought I was foolish to imagine such a thing,
+
+but I could never get away from the impression that
+
+he really appeared happy when he ran up against
+
+a serious snag. That was in my green days, and I
+
+soon learned that the failure of an experiment never
+
+discourages him unless it is by reason of the carelessness
+
+of the man making it. Then Edison gets disgusted.
+
+If it fails on its merits, he doesn't worry or
+
+fret about it, but, on the contrary, regards it as a
+
+useful fact learned; remains cheerful and tries something
+
+else. I have known him to reverse an unsuccessful
+
+experiment and come out all right."
+
+
+
+To follow Edison's trail in detail through the
+
+innumerable twists and turns of his experimentation
+
+and research on the storage battery, during the past
+
+ten years, would not be in keeping with the scope of
+
+this narrative, nor would it serve any useful purpose.
+
+Besides, such details would fill a big volume. The
+
+narrative, however, would not be complete without
+
+some mention of the general outline of his work, and
+
+reference may be made briefly to a few of the chief
+
+items. And lest the reader think that the word
+
+"innumerable" may have been carelessly or hastily
+
+used above, we would quote the reply of one of the
+
+laboratory assistants when asked how many experiments
+
+had been made on the Edison storage battery
+
+since the year 1900: "Goodness only knows! We
+
+used to number our experiments consecutively from
+
+1 to 10,000, and when we got up to 10,000 we turned
+
+back to 1 and ran up to 10,000 again, and so on.
+
+We ran through several series--I don't know how
+
+many, and have lost track of them now, but it was
+
+not far from fifty thousand."
+
+
+
+From the very first, Edison's broad idea of his
+
+storage battery was to make perforated metallic
+
+containers having the active materials packed therein;
+
+nickel hydrate for the positive and iron oxide for the
+
+negative plate. This plan has been adhered to
+
+throughout, and has found its consummation in the
+
+present form of the completed commercial cell, but
+
+in the middle ground which stands between the early
+
+crude beginnings and the perfected type of to-day
+
+there lies a world of original thought, patient plodding,
+
+and achievement.
+
+
+
+The first necessity was naturally to obtain the best
+
+and purest compounds for active materials. Edison
+
+found that comparatively little was known by manufacturing
+
+chemists about nickel and iron oxides of the
+
+high grade and purity he required. Hence it became
+
+necessary for him to establish his own chemical works
+
+and put them in charge of men specially trained by
+
+himself, with whom he worked. This was the plant
+
+at Silver Lake, above referred to. Here, for several
+
+years, there was ceaseless activity in the preparation
+
+of these chemical compounds by every imaginable
+
+process and subsequent testing. Edison's chief chemist
+
+says: "We left no stone unturned to find a way
+
+of making those chemicals so that they would give
+
+the highest results. We carried on the experiments
+
+with the two chemicals together. Sometimes the
+
+nickel would be ahead in the tests, and then again
+
+it would fall behind. To stimulate us to greater
+
+improvement, Edison hung up a card which showed
+
+the results of tests in milliampere-hours given by the
+
+experimental elements as we tried them with the
+
+various grades of nickel and iron we had made. This
+
+stirred up a great deal of ambition among the boys
+
+to push the figures up. Some of our earliest tests
+
+showed around 300, but as we improved the material,
+
+they gradually crept up to over 500. Just
+
+about that time Edison made a trip to Canada, and
+
+when he came back we had made such good progress
+
+that the figures had crept up to about 1000. I well
+
+remember how greatly he was pleased."
+
+
+
+In speaking of the development of the negative
+
+element of the battery, Mr. Aylsworth said: "In
+
+like manner the iron element had to be developed
+
+and improved; and finally the iron, which had generally
+
+enjoyed superiority in capacity over its companion,
+
+the nickel element, had to go in training in
+
+order to retain its lead, which was imperative, in
+
+order to produce a uniform and constant voltage
+
+curve. In talking with me one day about the difficulties
+
+under which we were working and contrasting
+
+them with the phonograph experimentation,
+
+Edison said: `In phonographic work we can use our
+
+ears and our eyes, aided with powerful microscopes;
+
+but in the battery our difficulties cannot be seen or
+
+heard, but must be observed by our mind's eye!' And
+
+by reason of the employment of such vision in the past,
+
+Edison is now able to see quite clearly through the
+
+forest of difficulties after eliminating them one by
+
+one."
+
+
+
+The size and shape of the containing pockets in the
+
+battery plates or elements and the degree of their
+
+perforation were matters that received many years of
+
+close study and experiment; indeed, there is still to-
+
+day constant work expended on their perfection,
+
+although their present general form was decided upon
+
+several years ago. The mechanical construction of
+
+the battery, as a whole, in its present form, compels
+
+instant admiration on account of its beauty and
+
+completeness. Mr. Edison has spared neither thought,
+
+ingenuity, labor, nor money in the effort to make it
+
+the most complete and efficient storage cell obtainable,
+
+and the results show that his skill, judgment,
+
+and foresight have lost nothing of the power that
+
+laid the foundation of, and built up, other great arts at
+
+each earlier stage of his career.
+
+
+
+Among the complex and numerous problems that
+
+presented themselves in the evolution of the battery
+
+was the one concerning the internal conductivity of
+
+the positive unit. The nickel hydrate was a poor
+
+electrical conductor, and although a metallic nickel
+
+pocket might be filled with it, there would not be
+
+the desired electrical action unless a conducting
+
+substance were mixed with it, and so incorporated and
+
+packed that there would be good electrical contact
+
+throughout. This proved to be a most knotty and
+
+intricate puzzle--tricky and evasive--always leading
+
+on and promising something, and at the last slipping
+
+away leaving the work undone. Edison's remarkable
+
+patience and persistence in dealing with this
+
+trying problem and in finally solving it successfully
+
+won for him more than ordinary admiration from his
+
+associates. One of them, in speaking of the seemingly
+
+interminable experiments to overcome this
+
+trouble, said: "I guess that question of conductivity
+
+of the positive pocket brought lots of gray hairs to
+
+his head. I never dreamed a man could have such
+
+patience and perseverance. Any other man than
+
+Edison would have given the whole thing up a thousand
+
+times, but not he! Things looked awfully blue
+
+to the whole bunch of us many a time, but he was
+
+always hopeful. I remember one time things looked
+
+so dark to me that I had just about made up my
+
+mind to throw up my job, but some good turn came
+
+just then and I didn't. Now I'm glad I held on, for
+
+we've got a great future."
+
+
+
+The difficulty of obtaining good electrical contact
+
+in the positive element was indeed Edison's chief
+
+trouble for many years. After a great amount of
+
+work and experimentation he decided upon a certain
+
+form of graphite, which seemed to be suitable for the
+
+purpose, and then proceeded to the commercial
+
+manufacture of the battery at a special factory in
+
+Glen Ridge, New Jersey, installed for the purpose.
+
+There was no lack of buyers, but, on the contrary,
+
+the factory was unable to turn out batteries enough.
+
+The newspapers had previously published articles
+
+showing the unusual capacity and performance of the
+
+battery, and public interest had thus been greatly
+
+awakened.
+
+
+
+Notwithstanding the establishment of a regular
+
+routine of manufacture and sale, Edison did not
+
+cease to experiment for improvement. Although
+
+the graphite apparently did the work desired of it,
+
+he was not altogether satisfied with its performance
+
+and made extended trials of other substances, but at
+
+that time found nothing that on the whole served
+
+the purpose better. Continuous tests of the commercial
+
+cells were carried on at the laboratory, as
+
+well as more practical and heavy tests in automobiles,
+
+which were constantly kept running around the adjoining
+
+country over all kinds of roads. All these
+
+tests were very closely watched by Edison, who demanded
+
+rigorously that the various trials of the
+
+battery should be carried on with all strenuousness
+
+so as to get the utmost results and develop any possible
+
+weakness. So insistent was he on this, that if
+
+any automobile should run several days without
+
+bursting a tire or breaking some part of the machine,
+
+he would accuse the chauffeur of picking out easy
+
+roads.
+
+
+
+After these tests had been going on for some time,
+
+and some thousands of cells had been sold and were
+
+giving satisfactory results to the purchasers, the test
+
+sheets and experience gathered from various sources
+
+pointed to the fact that occasionally a cell here and
+
+there would show up as being short in capacity.
+
+Inasmuch as the factory processes were very exact
+
+and carefully guarded, and every cell was made as
+
+uniform as human skill and care could provide,
+
+there thus arose a serious problem. Edison
+
+concentrated his powers on the investigation of this
+
+trouble, and found that the chief cause lay in the
+
+graphite. Some other minor matters also attracted
+
+his attention. What to do, was the important question
+
+that confronted him. To shut down the factory
+
+meant great loss and apparent failure. He realized
+
+this fully, but he also knew that to go on would simply
+
+be to increase the number of defective batteries in
+
+circulation, which would ultimately result in a
+
+permanent closure and real failure. Hence he took the
+
+course which one would expect of Edison's common
+
+sense and directness of action. He was not satisfied
+
+that the battery was a complete success, so he shut
+
+down and went to experimenting once more.
+
+
+
+"And then," says one of the laboratory men, "we
+
+started on another series of record-breaking experiments
+
+that lasted over five years. I might almost
+
+say heart-breaking, too, for of all the elusive,
+
+disappointing things one ever hunted for that was the
+
+worst. But secrets have to be long-winded and
+
+roost high if they want to get away when the `Old
+
+Man' goes hunting for them. He doesn't get mad
+
+when he misses them, but just keeps on smiling and
+
+firing, and usually brings them into camp. That's
+
+what he did on the battery, for after a whole lot of
+
+work he perfected the nickel-flake idea and process,
+
+besides making the great improvement of using
+
+tubes instead of flat pockets for the positive. He
+
+also added a minor improvement here and there, and
+
+now we have a finer battery than we ever expected."
+
+
+
+In the interim, while the experimentation of these
+
+last five years was in progress, many customers who
+
+had purchased batteries of the original type came
+
+knocking at the door with orders in their hands for
+
+additional outfits wherewith to equip more wagons
+
+and trucks. Edison expressed his regrets, but said
+
+he was not satisfied with the old cells and was
+
+engaged in improving them. To which the customers
+
+replied that THEY were entirely satisfied and ready and
+
+willing to pay for more batteries of the same kind;
+
+but Edison could not be moved from his determination,
+
+although considerable pressure was at times
+
+brought to bear to sway his decision.
+
+
+
+Experiment was continued beyond the point of
+
+peradventure, and after some new machinery had
+
+been built, the manufacture of the new type of cell
+
+was begun in the early summer of 1909, and at the
+
+present writing is being extended as fast as the
+
+necessary additional machinery can be made. The
+
+product is shipped out as soon as it is completed.
+
+
+
+The nickel flake, which is Edison's ingenious solution
+
+of the conductivity problem, is of itself a most
+
+interesting product, intensely practical in its
+
+application and fascinating in its manufacture. The
+
+flake of nickel is obtained by electroplating upon a
+
+metallic cylinder alternate layers of copper and
+
+nickel, one hundred of each, after which the combined
+
+sheet is stripped from the cylinder. So thin
+
+are the layers that this sheet is only about the thickness
+
+of a visiting-card, and yet it is composed of two
+
+hundred layers of metal. The sheet is cut into tiny
+
+squares, each about one-sixteenth of an inch, and
+
+these squares are put into a bath where the copper
+
+is dissolved out. This releases the layers of nickel,
+
+so that each of these small squares becomes one
+
+hundred tiny sheets, or flakes, of pure metallic nickel,
+
+so thin that when they are dried they will float in the
+
+air, like thistle-down.
+
+
+
+In their application to the manufacture of batteries,
+
+the flakes are used through the medium of a special
+
+machine, so arranged that small charges of nickel
+
+hydrate and nickel flake are alternately fed into the
+
+pockets intended for positives, and tamped down with
+
+a pressure equal to about four tons per square inch.
+
+This insures complete and perfect contact and consequent
+
+electrical conductivity throughout the entire
+
+unit.
+
+
+
+The development of the nickel flake contains in itself
+
+a history of patient investigation, labor, and
+
+achievement, but we have not space for it, nor for
+
+tracing the great work that has been done in developing
+
+and perfecting the numerous other parts and
+
+adjuncts of this remarkable battery. Suffice it to
+
+say that when Edison went boldly out into new territory,
+
+after something entirely unknown, he was quite
+
+prepared for hard work and exploration. He encountered
+
+both in unstinted measure, but kept on
+
+going forward until, after long travel, he had found
+
+all that he expected and accomplished something
+
+more beside. Nature DID respond to his whole-
+
+hearted appeal, and, by the time the hunt was ended,
+
+revealed a good storage battery of entirely new type.
+
+Edison not only recognized and took advantage of
+
+the principles he had discovered, but in adapting
+
+them for commercial use developed most ingenious
+
+processes and mechanical appliances for carrying his
+
+discoveries into practical effect. Indeed, it may be
+
+said that the invention of an enormous variety of
+
+new machines and mechanical appliances rendered
+
+necessary by each change during the various stages
+
+of development of the battery, from first to last,
+
+stands as a lasting tribute to the range and versatility
+
+of his powers.
+
+
+
+It is not within the scope of this narrative to enter
+
+into any description of the relative merits of the
+
+Edison storage battery, that being the province of a
+
+commercial catalogue. It does, however, seem entirely
+
+allowable to say that while at the present
+
+writing the tests that have been made extend over a
+
+few years only, their results and the intrinsic value
+
+of this characteristic Edison invention are of such a
+
+substantial nature as to point to the inevitable
+
+growth of another great industry arising from its
+
+manufacture, and to its wide-spread application to
+
+many uses.
+
+
+
+The principal use that Edison has had in mind for
+
+his battery is transportation of freight and passengers
+
+by truck, automobile, and street-car. The greatly
+
+increased capacity in proportion to weight of the
+
+Edison cell makes it particularly adaptable for this
+
+class of work on account of the much greater radius
+
+of travel that is possible by its use. The latter point
+
+of advantage is the one that appeals most to the
+
+automobilist, as he is thus enabled to travel, it is
+
+asserted, more than three times farther than ever
+
+before on a single charge of the battery.
+
+
+
+Edison believes that there are important advantages
+
+possible in the employment of his storage battery
+
+for street-car propulsion. Under the present
+
+system of operation, a plant furnishing the electric
+
+power for street railways must be large enough to
+
+supply current for the maximum load during "rush
+
+hours," although much of the machinery may be
+
+lying idle and unproductive in the hours of minimum
+
+load. By the use of storage-battery cars, this
+
+immense and uneconomical maximum investment in
+
+plant can be cut down to proportions of true commercial
+
+economy, as the charging of the batteries can
+
+be conducted at a uniform rate with a reasonable
+
+expenditure for generating machinery. Not only this,
+
+but each car becomes an independently moving unit,
+
+not subject to delay by reason of a general breakdown
+
+of the power plant or of the line. In addition
+
+to these advantages, the streets would be freed from
+
+their burden of trolley wires or conduits. To put his
+
+ideas into practice, Edison built a short railway line
+
+at the Orange works in the winter of 1909-10, and, in
+
+co-operation with Mr. R. H. Beach, constructed a
+
+special type of street-car, and equipped it with motor,
+
+storage battery, and other necessary operating devices.
+
+This car was subsequently put upon the street-car
+
+lines in New York City, and demonstrated its efficiency
+
+so completely that it was purchased by one
+
+of the street-car companies, which has since ordered
+
+additional cars for its lines. The demonstration of
+
+this initial car has been watched with interest by
+
+many railroad officials, and its performance has been
+
+of so successful a nature that at the present writing
+
+(the summer of 1910) it has been necessary to organize
+
+and equip a preliminary factory in which to
+
+construct many other cars of a similar type that
+
+have been ordered by other street-railway companies.
+
+This enterprise will be conducted by a corporation
+
+which has been specially organized for the purpose.
+
+Thus, there has been initiated the development of a
+
+new and important industry whose possible ultimate
+
+proportions are beyond the range of present calculation.
+
+Extensive as this industry may become, however,
+
+Edison is firmly convinced that the greatest
+
+field for his storage battery lies in its adaptation to
+
+commercial trucking and hauling, and to pleasure
+
+vehicles, in comparison with which the street-car
+
+business even with its great possibilities--will not
+
+amount to more than 1 per cent.
+
+
+
+Edison has pithily summed up his work and his
+
+views in an article on "The To-Morrows of Electricity
+
+and Invention" in Popular Electricity for June, 1910,
+
+in which he says: "For years past I have been trying
+
+to perfect a storage battery, and have now rendered
+
+it entirely suitable to automobile and other work.
+
+There is absolutely no reason why horses should be
+
+allowed within city limits; for between the gasoline
+
+and the electric car, no room is left for them. They
+
+are not needed. The cow and the pig have gone,
+
+and the horse is still more undesirable. A higher
+
+public ideal of health and cleanliness is working tow-
+
+ard such banishment very swiftly; and then we shall
+
+have decent streets, instead of stables made out of
+
+strips of cobblestones bordered by sidewalks. The
+
+worst use of money is to make a fine thoroughfare,
+
+and then turn it over to horses. Besides that, the
+
+change will put the humane societies out of business.
+
+Many people now charge their own batteries because
+
+of lack of facilities; but I believe central stations
+
+will find in this work very soon the largest part of
+
+their load. The New York Edison Company, or the
+
+Chicago Edison Company, should have as much current
+
+going out for storage batteries as for power
+
+motors; and it will be so some near day."
+
+

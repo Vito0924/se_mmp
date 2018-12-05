@@ -1,0 +1,2055 @@
+
+
+
+
+
+CHAPTER XVII
+
+
+
+OTHER EARLY STATIONS--THE METER
+
+
+
+WE have now seen the Edison lighting system
+
+given a complete, convincing demonstration in
+
+Paris, London, and New York; and have noted steps
+
+taken for its introduction elsewhere on both sides
+
+of the Atlantic. The Paris plant, like that at the
+
+Crystal Palace, was a temporary exhibit. The London
+
+plant was less temporary, but not permanent,
+
+supplying before it was torn out no fewer than
+
+three thousand lamps in hotels, churches, stores, and
+
+dwellings in the vicinity of Holborn Viaduct. There
+
+Messrs. Johnson and Hammer put into practice many
+
+of the ideas now standard in the art, and secured
+
+much useful data for the work in New York, of
+
+which the story has just been told.
+
+
+
+As a matter of fact the first Edison commercial
+
+station to be operated in this country was that at
+
+Appleton, Wisconsin, but its only serious claim to
+
+notice is that it was the initial one of the system
+
+driven by water-power. It went into service August
+
+15, 1882, about three weeks before the Pearl Street
+
+station. It consisted of one small dynamo of a
+
+capacity of two hundred and eighty lights of 10 c.p.
+
+each, and was housed in an unpretentious wooden
+
+shed. The dynamo-electric machine, though small,
+
+was robust, for under all the varying speeds of water-
+
+power, and the vicissitudes of the plant to which it,
+
+belonged, it continued in active use until 1899--
+
+seventeen years.
+
+
+
+Edison was from the first deeply impressed with
+
+the possibilities of water-power, and, as this incident
+
+shows, was prompt to seize such a very early opportunity.
+
+But his attention was in reality concentrated
+
+closely on the supply of great centres of population,
+
+a task which he then felt might well occupy his lifetime;
+
+and except in regard to furnishing isolated
+
+plants he did not pursue further the development of
+
+hydro-electric stations. That was left to others, and
+
+to the application of the alternating current, which
+
+has enabled engineers to harness remote powers, and,
+
+within thoroughly economical limits, transmit thousands
+
+of horse-power as much as two hundred miles at
+
+pressures of 80,000 and 100,000 volts. Owing to his
+
+insistence on low pressure, direct current for use in
+
+densely populated districts, as the only safe and truly
+
+universal, profitable way of delivering electrical
+
+energy to the consumers, Edison has been frequently
+
+spoken of as an opponent of the alternating current.
+
+This does him an injustice. At the time a measure
+
+was before the Virginia legislature, in 1890, to limit
+
+the permissible pressures of current so as to render
+
+it safe, he said: "You want to allow high pressure
+
+wherever the conditions are such that by no possible
+
+accident could that pressure get into the houses of
+
+the consumers; you want to give them all the latitude
+
+you can." In explaining this he added: "Suppose
+
+you want to take the falls down at Richmond,
+
+and want to put up a water-power? Why, if we
+
+erect a station at the falls, it is a great economy to
+
+get it up to the city. By digging a cheap trench and
+
+putting in an insulated cable, and connecting such
+
+station with the central part of Richmond, having
+
+the end of the cable come up into the station from
+
+the earth and there connected with motors, the power
+
+of the falls would be transmitted to these motors.
+
+If now the motors were made to run dynamos conveying
+
+low-pressure currents to the public, there is
+
+no possible way whereby this high-pressure current
+
+could get to the public." In other words, Edison
+
+made the sharp fundamental distinction between high
+
+pressure alternating current for transmission and low
+
+pressure direct current for distribution; and this is
+
+exactly the practice that has been adopted in all the
+
+great cities of the country to-day. There seems no
+
+good reason for believing that it will change. It
+
+might perhaps have been altogether better for Edison,
+
+from the financial standpoint, if he had not identified
+
+himself so completely with one kind of current, but
+
+that made no difference to him, as it was a matter of
+
+conviction; and Edison's convictions are granitic.
+
+Moreover, this controversy over the two currents,
+
+alternating and direct, which has become historical
+
+in the field of electricity--and is something like the
+
+"irrepressible conflict" we heard of years ago in
+
+national affairs--illustrates another aspect of Edison's
+
+character. Broad as the prairies and free in thought
+
+as the winds that sweep them, he is idiosyncratically
+
+opposed to loose and wasteful methods, to plans of
+
+empire that neglect the poor at the gate. Every-
+
+thing he has done has been aimed at the conservation
+
+of energy, the contraction of space, the intensification
+
+of culture. Burbank and his tribe represent
+
+in the vegetable world, Edison in the mechanical.
+
+Not only has he developed distinctly new species,
+
+but he has elucidated the intensive art of getting
+
+$1200 out of an electrical acre instead of $12--a
+
+manured market-garden inside London and a ten-
+
+bushel exhausted wheat farm outside Lawrence,
+
+Kansas, being the antipodes of productivity--yet
+
+very far short of exemplifying the difference of electrical
+
+yield between an acre of territory in Edison's
+
+"first New York district" and an acre in some small
+
+town.
+
+
+
+Edison's lighting work furnished an excellent basis--
+
+in fact, the only one--for the development of the alternating
+
+current now so generally employed in central-
+
+station work in America; and in the McGraw Electrical
+
+Directory of April, 1909, no fewer than 4164 stations
+
+out of 5780 reported its use. When the alternating
+
+current was introduced for practical purposes it was
+
+not needed for arc lighting, the circuit for which,
+
+from a single dynamo, would often be twenty or
+
+thirty miles in length, its current having a pressure
+
+of not less than five or six thousand volts. For some
+
+years it was not found feasible to operate motors on
+
+alternating-current circuits, and that reason was
+
+often urged against it seriously. It could not be
+
+used for electroplating or deposition, nor could it
+
+charge storage batteries, all of which are easily within
+
+the ability of the direct current. But when it came
+
+to be a question of lighting a scattered suburb, a
+
+group of dwellings on the outskirts, a remote country
+
+residence or a farm-house, the alternating current, in
+
+all elements save its danger, was and is ideal. Its
+
+thin wires can be carried cheaply over vast areas,
+
+and at each local point of consumption the transformer
+
+of size exactly proportioned to its local task
+
+takes the high-voltage transmission current and
+
+lowers its potential at a ratio of 20 or 40 to 1, for use
+
+in distribution and consumption circuits. This evolution
+
+has been quite distinct, with its own inventors
+
+like Gaulard and Gibbs and Stanley, but came subsequent
+
+to the work of supplying small, dense areas
+
+of population; the art thus growing from within,
+
+and using each new gain as a means for further
+
+achievement.
+
+
+
+Nor was the effect of such great advances as those
+
+made by Edison limited to the electrical field. Every
+
+department of mechanics was stimulated and benefited
+
+to an extraordinary degree. Copper for the
+
+circuits was more highly refined than ever before to
+
+secure the best conductivity, and purity was insisted
+
+on in every kind of insulation. Edison was intolerant
+
+of sham and shoddy, and nothing would satisfy him
+
+that could not stand cross-examination by microscope,
+
+test-tube, and galvanometer. It was, perhaps,
+
+the steam-engine on which the deepest imprint for
+
+good was made, referred to already in the remarks
+
+of Mr. F. J. Sprague in the preceding chapter, but
+
+best illustrated in the perfection of the modern high-
+
+speed engine of the Armington & Sims type. Unless
+
+he could secure an engine of smoother running and
+
+more exactly governed and regulated than those avail-
+
+able for his dynamo and lamp, Edison realized that
+
+he would find it almost impossible to give a steady
+
+light. He did not want his customers to count the
+
+heart-beats of the engine in the flicker of the lamp.
+
+Not a single engine was even within gunshot of the
+
+standard thus set up, but the emergency called forth
+
+its man in Gardiner C. Sims, a talented draughtsman
+
+and designer who had been engaged in locomotive
+
+construction and in the engineering department of
+
+the United States Navy. He may be quoted as to
+
+what happened: "The deep interest, financial and
+
+moral, and friendly backing I received from Mr.
+
+Edison, together with valuable suggestions, enabled
+
+me to bring out the engine; as I was quite alone in
+
+the world--poor--I had found a friend who knew
+
+what he wanted and explained it clearly. Mr. Edison
+
+was a leader far ahead of the time. He compelled the
+
+design of the successful engine.
+
+
+
+"Our first engine compelled the inventing and making
+
+of a suitable engine indicator to indicate it--the
+
+Tabor. He obtained the desired speed and load
+
+with a friction brake; also regulator of speed; but
+
+waited for an indicator to verify it. Then again there
+
+was no known way to lubricate an engine for continuous
+
+running, and Mr. Edison informed me that as a
+
+marine engine started before the ship left New York
+
+and continued running until it reached its home
+
+port, so an engine for his purposes must produce
+
+light at all times. That was a poser to me, for a
+
+five-hours' run was about all that had been required
+
+up to that time.
+
+
+
+"A day or two later Mr. Edison inquired: `How far
+
+is it from here to Lawrence; it is a long walk, isn't it?'
+
+`Yes, rather.' He said: `Of course you will understand
+
+I meant without oil.' To say I was deeply perplexed
+
+does not express my feelings. We were at
+
+the machine works, Goerck Street. I started for the
+
+oil-room, when, about entering, I saw a small funnel
+
+lying on the floor. It had been stepped on and
+
+flattened. I took it up, and it had solved the engine-
+
+oiling problem--and my walk to Lawrence like a
+
+tramp actor's was off! The eccentric strap had a round
+
+glass oil-cup with a brass base that screwed into the
+
+strap. I took it off, and making a sketch, went to
+
+Dave Cunningham, having the funnel in my hand to
+
+illustrate what I wanted made. I requested him to
+
+make a sheet-brass oil-cup and solder it to the base
+
+I had. He did so. I then had a standard made to
+
+hold another oil-cup, so as to see and regulate the
+
+drop-feed. On this combination I obtained a patent
+
+which is now universally used."
+
+
+
+It is needless to say that in due course the engine
+
+builders of the United States developed a variety of
+
+excellent prime movers for electric-light and power
+
+plants, and were grateful to the art from which such
+
+a stimulus came to their industry; but for many
+
+years one never saw an Edison installation without
+
+expecting to find one or more Armington & Sims high-
+
+speed engines part of it. Though the type has gone
+
+out of existence, like so many other things that are
+
+useful in their day and generation, it was once a very
+
+vital part of the art, and one more illustration of that
+
+intimate manner in which the advances in different
+
+fields of progress interact and co-operate.
+
+
+
+Edison had installed his historic first great central-
+
+station system in New York on the multiple arc system
+
+covered by his feeder and main invention, which
+
+resulted in a notable saving in the cost of conductors
+
+as against a straight two-wire system throughout of
+
+the "tree" kind. He soon foresaw that still greater
+
+economy would be necessary for commercial success
+
+not alone for the larger territory opening, but for the
+
+compact districts of large cities. Being firmly convinced
+
+that there was a way out, he pushed aside a
+
+mass of other work, and settled down to this problem,
+
+with the result that on November 20, 1882, only two
+
+months after current had been sent out from Pearl
+
+Street, he executed an application for a patent covering
+
+what is now known as the "three-wire system."
+
+It has been universally recognized as one of the most
+
+valuable inventions in the history of the lighting art.[13]
+
+Its use resulted in a saving of over 60 per cent. of copper
+
+in conductors, figured on the most favorable basis
+
+previously known, inclusive of those calculated under
+
+his own feeder and main system. Such economy of
+
+outlay being effected in one of the heaviest items of
+
+expense in central-station construction, it was now
+
+made possible to establish plants in towns where the
+
+large investment would otherwise have been quite
+
+prohibitive. The invention is in universal use today,
+
+alike for direct and for alternating current, and
+
+as well in the equipment of large buildings as in the
+
+distribution system of the most extensive central-station
+
+networks. One cannot imagine the art without it.
+
+
+
+
+
+[13] For technical description and illustration of this invention,
+
+see Appendix.
+
+
+
+
+
+The strong position held by the Edison system,
+
+under the strenuous competition that was already
+
+springing up, was enormously improved by the
+
+introduction of the three-wire system; and it gave an
+
+immediate impetus to incandescent lighting. Desiring
+
+to put this new system into practical use promptly,
+
+and receiving applications for licenses from all
+
+over the country, Edison selected Brockton,
+
+Massachusetts, and Sunbury, Pennsylvania, as the two
+
+towns for the trial. Of these two Brockton required
+
+the larger plant, but with the conductors placed
+
+underground. It was the first to complete its arrangements
+
+and close its contract. Mr. Henry Villard, it
+
+will be remembered, had married the daughter of
+
+Garrison, the famous abolitionist, and it was through
+
+his relationship with the Garrison family that Brockton
+
+came to have the honor of exemplifying so soon
+
+the principles of an entirely new art. Sunbury, however,
+
+was a much smaller installation, employed overhead
+
+conductors, and hence was the first to "cross the
+
+tape." It was specially suited for a trial plant also,
+
+in the early days when a yield of six or eight lamps
+
+to the horse-power was considered subject for
+
+congratulation. The town being situated in the coal
+
+region of Pennsylvania, good coal could then be
+
+obtained there at seventy-five cents a ton.
+
+
+
+The Sunbury generating plant consisted of an
+
+Armington & Sims engine driving two small Edison
+
+dynamos having a total capacity of about four hundred
+
+lamps of 16 c.p. The indicating instruments
+
+were of the crudest construction, consisting of two
+
+voltmeters connected by "pressure wires" to the
+
+centre of electrical distribution. One ammeter, for
+
+measuring the quantity of current output, was interpolated
+
+in the "neutral bus" or third-wire return
+
+circuit to indicate when the load on the two machines
+
+was out of balance. The circuits were opened and
+
+closed by means of about half a dozen roughly made
+
+plug-switches.[14] The "bus-bars" to receive the
+
+current from the dynamos were made of No. 000 copper
+
+line wire, straightened out and fastened to the wooden
+
+sheathing of the station by iron staples without any
+
+presence to insulation. Commenting upon this Mr.
+
+W. S. Andrews, detailed from the central staff, says:
+
+"The interior winding of the Sunbury station, including
+
+the running of two three-wire feeders the entire
+
+length of the building from back to front, the wiring
+
+up of the dynamos and switchboard and all instruments,
+
+together with bus-bars, etc.--in fact, all
+
+labor and material used in the electrical wiring
+
+installation--amounted to the sum of $90. I received
+
+a rather sharp letter from the New York office
+
+expostulating for this EXTRAVAGANT EXPENDITURE, and
+
+stating that great economy must be observed in future!"
+
+The street conductors were of the overhead pole-line
+
+construction, and were installed by the construction
+
+company that had been organized by Edison to build
+
+and equip central stations. A special type of street
+
+pole had been devised by him for the three-wire system.
+
+
+
+
+
+[14] By reason of the experience gained at this station through
+
+the use of these crude plug-switches, Mr. Edison started a competition
+
+among a few of his assistants to devise something better.
+
+The result was the invention of a "breakdown" switch by Mr.
+
+W. S. Andrews, which was accepted by Mr. Edison as the best of
+
+the devices suggested, and was developed and used for a great
+
+many years afterward.
+
+
+
+
+
+Supplementing the story of Mr. Andrews is that of
+
+Lieut. F. J. Sprague, who also gives a curious glimpse
+
+of the glorious uncertainties and vicissitudes of that
+
+formative period. Mr. Sprague served on the jury at
+
+the Crystal Palace Exhibition with Darwin's son--
+
+the present Sir Horace--and after the tests were
+
+ended left the Navy and entered Edison's service at
+
+the suggestion of Mr. E. H. Johnson, who was Edison's
+
+shrewd recruiting sergeant in those days: "I resigned
+
+sooner than Johnson expected, and he had
+
+me on his hands. Meanwhile he had called upon me
+
+to make a report of the three-wire system, known in
+
+England as the Hopkinson, both Dr. John Hopkinson
+
+and Mr. Edison being independent inventors at
+
+practically the same time. I reported on that, left
+
+London, and landed in New York on the day of the
+
+opening of the Brooklyn Bridge in 1883--May 24--
+
+with a year's leave of absence.
+
+
+
+"I reported at the office of Mr. Edison on Fifth
+
+Avenue and told him I had seen Johnson. He looked
+
+me over and said: `What did he promise you?' I
+
+replied: `Twenty-five hundred dollars a year.' He
+
+did not say much, but looked it. About that time
+
+Mr. Andrews and I came together. On July 2d of that
+
+year we were ordered to Sunbury, and to be ready to
+
+start the station on the fourth. The electrical work
+
+had to be done in forty-eight hours! Having travelled
+
+around the world, I had cultivated an indifference
+
+to any special difficulties of that kind. Mr.
+
+Andrews and I worked in collaboration until the
+
+night of the third. I think he was perhaps more
+
+appreciative than I was of the discipline of the Edison
+
+Construction Department, and thought it would be
+
+well for us to wait until the morning of the fourth
+
+before we started up. I said we were sent over to
+
+get going, and insisted on starting up on the night
+
+of the third. We had an Armington & Sims engine
+
+with sight-feed oiler. I had never seen one, and did
+
+not know how it worked, with the result that we soon
+
+burned up the babbitt metal in the bearings and spent
+
+a good part of the night getting them in order. The
+
+next day Mr. Edison, Mr. Insull, and the chief
+
+engineer of the construction department appeared on
+
+the scene and wanted to know what had happened.
+
+They found an engine somewhat loose in the bearings,
+
+and there followed remarks which would not look
+
+well in print. Andrews skipped from under; he
+
+obeyed orders; I did not. But the plant ran, and it
+
+was the first three-wire station in this country."
+
+
+
+Seen from yet another angle, the worries of this
+
+early work were not merely those of the men on the
+
+"firing line." Mr. Insull, in speaking of this period,
+
+says: "When it was found difficult to push the central-
+
+station business owing to the lack of confidence
+
+in its financial success, Edison decided to go into the
+
+business of promoting and constructing central-station
+
+plants, and he formed what was known as the
+
+Thomas A. Edison Construction Department, which
+
+he put me in charge of. The organization was crude,
+
+the steam-engineering talent poor, and owing to the
+
+impossibility of getting any considerable capital
+
+subscribed, the plants were put in as cheaply as
+
+possible. I believe that this construction department
+
+was unkindly named the `Destruction Department.'
+
+It served its purpose; never made any money; and I
+
+had the unpleasant task of presiding at its obsequies."
+
+
+
+On July 4th the Sunbury plant was put into commercial
+
+operation by Edison, and he remained a week
+
+studying its conditions and watching for any unforeseen
+
+difficulty that might arise. Nothing happened,
+
+however, to interfere with the successful running of
+
+the station, and for twenty years thereafter the same
+
+two dynamos continued to furnish light in Sunbury.
+
+They were later used as reserve machines, and finally,
+
+with the engine, retired from service as part of
+
+the "Collection of Edisonia"; but they remain in
+
+practically as good condition as when installed in
+
+1883.
+
+
+
+Sunbury was also provided with the first electro-
+
+chemical meters used in the United States outside
+
+New York City, so that it served also to accentuate
+
+electrical practice in a most vital respect--namely,
+
+the measurement of the electrical energy supplied to
+
+customers. At this time and long after, all arc
+
+lighting was done on a "flat rate" basis. The arc
+
+lamp installed outside a customer's premises, or in
+
+a circuit for public street lighting, burned so many
+
+hours nightly, so many nights in the month; and was
+
+paid for at that rate, subject to rebate for hours
+
+when the lamp might be out through accident. The
+
+early arc lamps were rated to require 9 to 10 amperes
+
+of current, at 45 volts pressure each, receiving which
+
+they were estimated to give 2000 c.p., which was arrived
+
+at by adding together the light found at four
+
+different positions, so that in reality the actual light
+
+was about 500 c.p. Few of these data were ever
+
+actually used, however; and it was all more or less a
+
+matter of guesswork, although the central-station
+
+manager, aiming to give good service, would naturally
+
+see that the dynamos were so operated as to maintain
+
+as steadily as possible the normal potential and current.
+
+The same loose methods applied to the early
+
+attempts to use electric motors on arc-lighting circuits,
+
+and contracts were made based on the size of
+
+the motor, the width of the connecting belt, or the
+
+amount of power the customer thought he used--
+
+never on the measurement of the electrical energy
+
+furnished him.
+
+
+
+Here again Edison laid the foundation of standard
+
+practice. It is true that even down to the present
+
+time the flat rate is applied to a great deal of
+
+incandescent lighting, each lamp being charged for
+
+individually according to its probable consumption
+
+during each month. This may answer, perhaps, in a
+
+small place where the manager can gauge pretty
+
+closely from actual observation what each customer
+
+does; but even then there are elements of risk and
+
+waste; and obviously in a large city such a method
+
+would soon be likely to result in financial disaster to
+
+the plant. Edison held that the electricity sold must
+
+be measured just like gas or water, and he proceeded
+
+to develop a meter. There was infinite scepticism
+
+around him on the subject, and while other inventors
+
+were also giving the subject their thought, the public
+
+took it for granted that anything so utterly intangible
+
+as electricity, that could not be seen or weighed, and
+
+only gave secondary evidence of itself at the exact
+
+point of use, could not be brought to accurate regis-
+
+tration. The general attitude of doubt was exemplified
+
+by the incident in Mr. J. P. Morgan's office,
+
+noted in the last chapter. Edison, however, had
+
+satisfied himself that there were various ways of
+
+accomplishing the task, and had determined that the
+
+current should be measured on the premises of every
+
+consumer. His electrolytic meter was very successful,
+
+and was of widespread use in America and in Europe
+
+until the perfection of mechanical meters by Elihu
+
+Thomson and others brought that type into general
+
+acceptance. Hence the Edison electrolytic meter is
+
+no longer used, despite its excellent qualities. Houston
+
+& Kennelly in their Electricity in Everyday Life
+
+sum the matter up as follows: "The Edison chemical
+
+meter is capable of giving fair measurements of the
+
+amount of current passing. By reason, however, of
+
+dissatisfaction caused from the inability of customers
+
+to read the indications of the meter, it has in later
+
+years, to a great extent, been replaced by registering
+
+meters that can be read by the customer."
+
+
+
+The principle employed in the Edison electrolytic
+
+meter is that which exemplifies the power of electricity
+
+to decompose a chemical substance. In other
+
+words it is a deposition bath, consisting of a glass cell
+
+in which two plates of chemically pure zinc are dipped
+
+in a solution of zinc sulphate. When the lights or
+
+motors in the circuit are turned on, and a certain
+
+definite small portion of the current is diverted to
+
+flow through the meter, from the positive plate to the
+
+negative plate, the latter increases in weight by receiving
+
+a deposit of metallic zinc; the positive plate
+
+meantime losing in weight by the metal thus carried
+
+away from it. This difference in weight is a very
+
+exact measure of the quantity of electricity, or number
+
+of ampere-hours, that have, so to speak, passed
+
+through the cell, and hence of the whole consumption
+
+in the circuit. The amount thus due from the customer
+
+is ascertained by removing the cell, washing
+
+and drying the plates, and weighing them in a chemical
+
+balance. Associated with this simple form of
+
+apparatus were various ingenious details and refinements
+
+to secure regularity of operation, freedom from
+
+inaccuracy, and immunity from such tampering as
+
+would permit theft of current or damage. As the
+
+freezing of the zinc sulphate solution in cold weather
+
+would check its operation, Edison introduced, for
+
+example, into the meter an incandescent lamp and
+
+a thermostat so arranged that when the temperature
+
+fell to a certain point, or rose above another point, it
+
+was cut in or out; and in this manner the meter
+
+could be kept from freezing. The standard Edison
+
+meter practice was to remove the cells once a month
+
+to the meter-room of the central-station company
+
+for examination, another set being substituted. The
+
+meter was cheap to manufacture and install, and not
+
+at all liable to get out of order.
+
+
+
+In December, 1888, Mr. W. J. Jenks read an interesting
+
+paper before the American Institute of Electrical
+
+Engineers on the six years of practical experience
+
+had up to that time with the meter, then more generally
+
+in use than any other. It appears from the
+
+paper that twenty-three Edison stations were then
+
+equipped with 5187 meters, which were relied upon
+
+for billing the monthly current consumption of
+
+87,856 lamps and 350 motors of 1000 horse-power
+
+total. This represented about 75 per cent. of the
+
+entire lamp capacity of the stations. There was an
+
+average cost per lamp for meter operation of twenty-
+
+two cents a year, and each meter took care of an
+
+average of seventeen lamps. It is worthy of note,
+
+as to the promptness with which the Edison stations
+
+became paying properties, that four of the metered
+
+stations were earning upward of 15 per cent. on their
+
+capital stock; three others between 8 and 10 per cent.;
+
+eight between 5 and 8 per cent.; the others having
+
+been in operation too short a time to show definite
+
+results, although they also went quickly to a dividend
+
+basis. Reports made in the discussion at the meeting
+
+by engineers showed the simplicity and success
+
+of the meter. Mr. C. L. Edgar, of the Boston Edison
+
+system, stated that he had 800 of the meters in service
+
+cared for by two men and three boys, the latter
+
+employed in collecting the meter cells; the total cost
+
+being perhaps $2500 a year. Mr. J. W. Lieb wrote
+
+from Milan, Italy, that he had in use on the Edison
+
+system there 360 meters ranging from 350 ampere-
+
+hours per month up to 30,000.
+
+
+
+In this connection it should be mentioned that
+
+the Association of Edison Illuminating Companies
+
+in the same year adopted resolutions unanimously to
+
+the effect that the Edison meter was accurate, and
+
+that its use was not expensive for stations above
+
+one thousand lights; and that the best financial
+
+results were invariably secured in a station selling
+
+current by meter. Before the same association, at
+
+its meeting in September, 1898, at Sault Ste. Marie,
+
+Mr. C. S. Shepard read a paper on the meter practice
+
+of the New York Edison Company, giving data as to
+
+the large number of Edison meters in use and the
+
+transition to other types, of which to-day the company
+
+has several on its circuits: "Until October,
+
+1896, the New York Edison Company metered its
+
+current in consumer's premises exclusively by the
+
+old-style chemical meters, of which there were
+
+connected on that date 8109. It was then determined
+
+to purchase no more." Mr. Shepard went on to
+
+state that the chemical meters were gradually displaced,
+
+and that on September 1, 1898, there were on
+
+the system 5619 mechanical and 4874 chemical. The
+
+meter continued in general service during 1899, and
+
+probably up to the close of the century.
+
+
+
+Mr. Andrews relates a rather humorous meter story
+
+of those early days: "The meter man at Sunbury was
+
+a firm and enthusiastic believer in the correctness of
+
+the Edison meter, having personally verified its reading
+
+many times by actual comparison of lamp-hours.
+
+One day, on making out a customer's bill, his confidence
+
+received a severe shock, for the meter reading
+
+showed a consumption calling for a charge of over
+
+$200, whereas he knew that the light actually used
+
+should not cost more than one-quarter of that amount.
+
+He weighed and reweighed the meter plates, and pursued
+
+every line of investigation imaginable, but all
+
+in vain. He felt he was up against it, and that perhaps
+
+another kind of a job would suit him better.
+
+Once again he went to the customer's meter to look
+
+around, when a small piece of thick wire on the floor
+
+caught his eye. The problem was solved. He sud-
+
+denly remembered that after weighing the plates he
+
+went and put them in the customer's meter; but the
+
+wire attached to one of the plates was too long to
+
+go in the meter, and he had cut it off. He picked up
+
+the piece of wire, took it to the station, weighed it
+
+carefully, and found that it accounted for about $150
+
+worth of electricity, which was the amount of the
+
+difference."
+
+
+
+Edison himself is, however, the best repertory of
+
+stories when it comes to the difficulties of that early
+
+period, in connection with metering the current and
+
+charging for it. He may be quoted at length as
+
+follows: "When we started the station at Pearl
+
+Street, in September, 1882, we were not very
+
+commercial. We put many customers on, but did not
+
+make out many bills. We were more interested in
+
+the technical condition of the station than in the
+
+commercial part. We had meters in which there
+
+were two bottles of liquid. To prevent these electrolytes
+
+from freezing we had in each meter a strip
+
+of metal. When it got very cold the metal would
+
+contract and close a circuit, and throw a lamp into
+
+circuit inside the meter. The heat from this lamp
+
+would prevent the liquid from freezing, so that the
+
+meter could go on doing its duty. The first cold day
+
+after starting the station, people began to come in
+
+from their offices, especially down in Front Street
+
+and Water Street, saying the meter was on fire. We
+
+received numerous telephone messages about it.
+
+Some had poured water on it, and others said: `Send
+
+a man right up to put it out.'
+
+
+
+"After the station had been running several months
+
+and was technically a success, we began to look after
+
+the financial part. We started to collect some bills;
+
+but we found that our books were kept badly, and
+
+that the person in charge, who was no business man,
+
+had neglected that part of it. In fact, he did not
+
+know anything about the station, anyway. So I got
+
+the directors to permit me to hire a man to run the
+
+station. This was Mr. Chinnock, who was then
+
+superintendent of the Metropolitan Telephone Company
+
+of New York. I knew Chinnock to be square and of
+
+good business ability, and induced him to leave his
+
+job. I made him a personal guarantee, that if he
+
+would take hold of the station and put it on a
+
+commercial basis, and pay 5 per cent. on $600,000, I
+
+would give him $10,000 out of my own pocket. He
+
+took hold, performed the feat, and I paid him the
+
+$10,000. I might remark in this connection that
+
+years afterward I applied to the Edison Electric
+
+Light Company asking them if they would not like
+
+to pay me this money, as it was spent when I was
+
+very hard up and made the company a success, and
+
+was the foundation of their present prosperity. They
+
+said they `were sorry'--that is, `Wall Street sorry'--
+
+and refused to pay it. This shows what a nice, genial,
+
+generous lot of people they have over in Wall Street.
+
+
+
+"Chinnock had a great deal of trouble getting the
+
+customers straightened out. I remember one man
+
+who had a saloon on Nassau Street. He had had his
+
+lights burning for two or three months. It was in
+
+June, and Chinnock put in a bill for $20; July for
+
+$20; August about $28; September about $35. Of
+
+course the nights were getting longer. October about
+
+$40; November about $45. Then the man called
+
+Chinnock up. He said: `I want to see you about
+
+my electric-light bill.' Chinnock went up to see him.
+
+He said: `Are you the manager of this electric-light
+
+plant?' Chinnock said: `I have the honor.' `Well,'
+
+he said, my bill has gone from $20 up to $28, $35,
+
+$45. I want you to understand, young fellow, that
+
+my limit is $60.'
+
+
+
+"After Chinnock had had all this trouble due to
+
+the incompetency of the previous superintendent, a
+
+man came in and said to him: `Did Mr. Blank have
+
+charge of this station?' `Yes.' `Did he know anything
+
+about running a station like this?' Chinnock
+
+said: `Does he KNOW anything about running a station
+
+like this? No, sir. He doesn't even suspect anything.'
+
+
+
+"One day Chinnock came to me and said: `I have
+
+a new customer.' I said: `What is it?' He said:
+
+`I have a fellow who is going to take two hundred
+
+and fifty lights.' I said: `What for?' `He has a
+
+place down here in a top loft, and has got two hundred
+
+and fifty barrels of "rotgut" whiskey. He puts a
+
+light down in the barrel and lights it up, and it ages
+
+the whiskey.' I met Chinnock several weeks after,
+
+and said: `How is the whiskey man getting along?'
+
+`It's all right; he is paying his bill. It fixes the
+
+whiskey and takes the shudder right out of it.' Somebody
+
+went and took out a patent on this idea later.
+
+
+
+"In the second year we put the Stock Exchange on
+
+the circuits of the station, but were very fearful that
+
+there would be a combination of heavy demand and
+
+a dark day, and that there would be an overloaded
+
+station. We had an index like a steam-gauge, called
+
+an ampere-meter, to indicate the amount of current
+
+going out. I was up at 65 Fifth Avenue one afternoon.
+
+A sudden black cloud came up, and I telephoned
+
+to Chinnock and asked him about the load.
+
+He said: `We are up to the muzzle, and everything is
+
+running all right.' By-and-by it became so thick we
+
+could not see across the street. I telephoned again,
+
+and felt something would happen, but fortunately it
+
+did not. I said to Chinnock: `How is it now?' He
+
+replied: `Everything is red-hot, and the ampere-
+
+meter has made seventeen revolutions.' "
+
+
+
+In 1883 no such fittings as "fixture insulators" were
+
+known. It was the common practice to twine the
+
+electric wires around the disused gas-fixtures, fasten
+
+them with tape or string, and connect them to lamp-
+
+sockets screwed into attachments under the gas-
+
+burners--elaborated later into what was known as
+
+the "combination fixture." As a result it was no
+
+uncommon thing to see bright sparks snapping between
+
+the chandelier and the lighting wires during
+
+a sharp thunder-storm. A startling manifestation of
+
+this kind happened at Sunbury, when the vivid display
+
+drove nervous guests of the hotel out into the
+
+street, and the providential storm led Mr. Luther
+
+Stieringer to invent the "insulating joint." This
+
+separated the two lighting systems thoroughly, went into
+
+immediate service, and is universally used to-day.
+
+
+
+Returning to the more specific subject of pioneer
+
+plants of importance, that at Brockton must be considered
+
+for a moment, chiefly for the reason that the
+
+city was the first in the world to possess an Edison
+
+station distributing current through an underground
+
+three-wire network of conductors--the essentially
+
+modern contemporaneous practice, standard twenty-
+
+five years later. It was proposed to employ pole-line
+
+construction with overhead wires, and a party of
+
+Edison engineers drove about the town in an open
+
+barouche with a blue-print of the circuits and streets
+
+spread out on their knees, to determine how much
+
+tree-trimming would be necessary. When they came
+
+to some heavily shaded spots, the fine trees were
+
+marked "T" to indicate that the work in getting
+
+through them would be "tough." Where the trees
+
+were sparse and the foliage was thin, the same cheerful
+
+band of vandals marked the spots "E" to indicate
+
+that there it would be "easy" to run the wires. In
+
+those days public opinion was not so alive as now
+
+to the desirability of preserving shade-trees, and of
+
+enhancing the beauty of a city instead of destroying it.
+
+Brockton had a good deal of pride in its fine trees,
+
+and a strong sentiment was very soon aroused against
+
+the mutilation proposed so thoughtlessly. The investors
+
+in the enterprise were ready and anxious to
+
+meet the extra cost of putting the wires underground.
+
+Edison's own wishes were altogether for the use of
+
+the methods he had so carefully devised; and hence
+
+that bustling home of shoe manufacture was spared
+
+this infliction of more overhead wires.
+
+
+
+The station equipment at Brockton consisted at
+
+first of three dynamos, one of which was so arranged
+
+as to supply both sides of the system during light
+
+loads by a breakdown switch connection. This
+
+arrangement interfered with correct meter registra-
+
+tion, as the meters on one side of the system registered
+
+backward during the hours in which the combination
+
+was employed. Hence, after supplying an all-night
+
+customer whose lamps were on one side of the circuits,
+
+the company might be found to owe him some
+
+thing substantial in the morning. Soon after the
+
+station went into operation this ingenious plan was
+
+changed, and the third dynamo was replaced by two
+
+others. The Edison construction department took
+
+entire charge of the installation of the plant, and the
+
+formal opening was attended on October 1, 1883, by
+
+Mr. Edison, who then remained a week in ceaseless
+
+study and consultation over the conditions developed
+
+by this initial three-wire underground plant. Some
+
+idea of the confidence inspired by the fame of Edison
+
+at this period is shown by the fact that the first
+
+theatre ever lighted from a central station by
+
+incandescent lamps was designed this year, and opened in
+
+1884 at Brockton with an equipment of three hundred
+
+lamps. The theatre was never piped for gas! It was
+
+also from the Brockton central station that current
+
+was first supplied to a fire-engine house--another
+
+display of remarkably early belief in the trustworthiness
+
+of the service, under conditions where continuity
+
+of lighting was vital. The building was equipped in
+
+such a manner that the striking of the fire-alarm
+
+would light every lamp in the house automatically
+
+and liberate the horses. It was at this central station
+
+that Lieutenant Sprague began his historic work on
+
+the electric motor; and here that another distinguished
+
+engineer and inventor, Mr. H. Ward Leonard,
+
+installed the meters and became meter man, in order
+
+that he might study in every intimate detail the
+
+improvements and refinements necessary in that branch
+
+of the industry.
+
+
+
+The authors are indebted for these facts and some
+
+other data embodied in this book to Mr. W. J. Jenks,
+
+who as manager of this plant here made his debut in
+
+the Edison ranks. He had been connected with local
+
+telephone interests, but resigned to take active charge
+
+of this plant, imbibing quickly the traditional Edison
+
+spirit, working hard all day and sleeping in the station
+
+at night on a cot brought there for that purpose. It
+
+was a time of uninterrupted watchfulness. The difficulty
+
+of obtaining engineers in those days to run the
+
+high-speed engines (three hundred and fifty revolutions
+
+per minute) is well illustrated by an amusing
+
+incident in the very early history of the station. A
+
+locomotive engineer had been engaged, as it was supposed
+
+he would not be afraid of anything. One evening
+
+there came a sudden flash of fire and a spluttering,
+
+sizzling noise. There had been a short-circuit on
+
+the copper mains in the station. The fireman hid
+
+behind the boiler and the engineer jumped out of the
+
+window. Mr. Sprague realized the trouble, quickly
+
+threw off the current and stopped the engine.
+
+
+
+Mr. Jenks relates another humorous incident in
+
+connection with this plant: "One night I heard a
+
+knock at the office door, and on opening it saw two
+
+well-dressed ladies, who asked if they might be shown
+
+through. I invited them in, taking them first to the
+
+boiler-room, where I showed them the coal-pile, explaining
+
+that this was used to generate steam in the
+
+boiler. We then went to the dynamo-room, where
+
+I pointed out the machines converting the steam-
+
+power into electricity, appearing later in the form of
+
+light in the lamps. After that they were shown the
+
+meters by which the consumption of current was
+
+measured. They appeared to be interested, and I
+
+proceeded to enter upon a comparison of coal made
+
+into gas or burned under a boiler to be converted
+
+into electricity. The ladies thanked me effusively
+
+and brought their visit to a close. As they were about
+
+to go through the door, one of them turned to me
+
+and said: `We have enjoyed this visit very much,
+
+but there is one question we would like to ask: What
+
+is it that you make here?' "
+
+
+
+The Brockton station was for a long time a show
+
+plant of the Edison company, and had many distinguished
+
+visitors, among them being Prof. Elihu
+
+Thomson, who was present at the opening, and Sir
+
+W. H. Preece, of London. The engineering methods
+
+pursued formed the basis of similar installations in
+
+Lawrence, Massachusetts, in November, 1883; in
+
+Fall River, Massachusetts, in December, 1883; and
+
+in Newburgh, New York, the following spring.
+
+
+
+Another important plant of this period deserves
+
+special mention, as it was the pioneer in the lighting
+
+of large spaces by incandescent lamps. This installation
+
+of five thousand lamps on the three-wire system
+
+was made to illuminate the buildings at the Louisville,
+
+Kentucky, Exposition in 1883, and, owing to the careful
+
+surveys, calculations, and preparations of H. M.
+
+Byllesby and the late Luther Stieringer, was completed
+
+and in operation within six weeks after
+
+the placing of the order. The Jury of Awards,
+
+
+
+in presenting four medals to the Edison company,
+
+took occasion to pay a high compliment to the
+
+efficiency of the system. It has been thought by
+
+many that the magnificent success of this plant
+
+did more to stimulate the growth of the incandescent
+
+lighting business than any other event in
+
+the history of the Edison company. It was literally
+
+the beginning of the electrical illumination of American
+
+Expositions, carried later to such splendid displays
+
+as those of the Chicago World's Fair in 1893,
+
+Buffalo in 1901, and St. Louis in 1904.
+
+
+
+Thus the art was set going in the United States
+
+under many difficulties, but with every sign of coming
+
+triumph. Reference has already been made to
+
+the work abroad in Paris and London. The first
+
+permanent Edison station in Europe was that at
+
+Milan, Italy, for which the order was given as early
+
+as May, 1882, by an enterprising syndicate. Less
+
+than a year later, March 3, 1883, the installation was
+
+ready and was put in operation, the Theatre Santa
+
+Radegonda having been pulled down and a new central-
+
+station building erected in its place--probably
+
+the first edifice constructed in Europe for the
+
+specific purpose of incandescent lighting. Here
+
+"Jumbos" were installed from time to time, until at
+
+last there were no fewer than ten of them; and current
+
+was furnished to customers with a total of nearly
+
+ten thousand lamps connected to the mains. This
+
+pioneer system was operated continuously until
+
+February 9, 1900, or for a period of about seventeen
+
+years, when the sturdy old machines, still in excellent
+
+condition, were put out of service, so that a larger
+
+plant could be installed to meet the demand. This
+
+new plant takes high-tension polyphase current from
+
+a water-power thirty or forty miles away at Paderno,
+
+on the river Adda, flowing from the Apennines;
+
+but delivers low-tension direct current for distribution
+
+to the regular Edison three-wire system throughout
+
+Milan.
+
+
+
+About the same time that southern Europe was
+
+thus opened up to the new system, South America
+
+came into line, and the first Edison central station
+
+there was installed at Santiago, Chile, in the summer of
+
+1883, under the supervision of Mr. W. N. Stewart.
+
+This was the result of the success obtained with small
+
+isolated plants, leading to the formation of an Edison
+
+company. It can readily be conceived that at such
+
+an extreme distance from the source of supply of
+
+apparatus the plant was subject to many peculiar
+
+difficulties from the outset, of which Mr. Stewart
+
+speaks as follows: "I made an exhibition of the
+
+`Jumbo' in the theatre at Santiago, and on the first
+
+evening, when it was filled with the aristocracy of the
+
+city, I discovered to my horror that the binding wire
+
+around the armature was slowly stripping off and
+
+going to pieces. We had no means of boring out the
+
+field magnets, and we cut grooves in them. I think
+
+the machine is still running (1907). The station
+
+went into operation soon after with an equipment of
+
+eight Edison `K' dynamos with certain conditions
+
+inimical to efficiency, but which have not hindered
+
+the splendid expansion of the local system. With
+
+those eight dynamos we had four belts between each
+
+engine and the dynamo. The steam pressure was
+
+limited to seventy-five pounds per square inch. We
+
+had two-wire underground feeders, sent without any
+
+plans or specifications for their installation. The
+
+station had neither voltmeter nor ammeter. The
+
+current pressure was regulated by a galvanometer.
+
+We were using coal costing $12 a ton, and were paid
+
+for our light in currency worth fifty cents on the
+
+dollar. The only thing I can be proud of in connection
+
+with the plant is the fact that I did not design
+
+it, that once in a while we made out to pay its operating
+
+expenses, and that occasionally we could run it
+
+for three months without a total breakdown."
+
+
+
+It was not until 1885 that the first Edison station
+
+in Germany was established; but the art was still
+
+very young, and the plant represented pioneer lighting
+
+practice in the Empire. The station at Berlin
+
+comprised five boilers, and six vertical steam-engines
+
+driving by belts twelve Edison dynamos, each of
+
+about fifty-five horse-power capacity. A model of
+
+this station is preserved in the Deutschen Museum at
+
+Munich. In the bulletin of the Berlin Electricity
+
+Works for May, 1908, it is said with regard to the
+
+events that led up to the creation of the system, as
+
+noted already at the Rathenau celebration: "The
+
+year 1881 was a mile-stone in the history of the Allgemeine
+
+Elektricitaets Gesellschaft. The International
+
+Electrical Exposition at Paris was intended to place
+
+before the eyes of the civilized world the achievements
+
+of the century. Among the exhibits of that
+
+Exposition was the Edison system of incandescent
+
+lighting. IT BECAME THE BASIS OF MODERN HEAVY CURRENT
+
+TECHNICS." The last phrase is italicized as being a
+
+happy and authoritative description, as well as a
+
+tribute.
+
+
+
+This chapter would not be complete if it failed to
+
+include some reference to a few of the earlier isolated
+
+plants of a historic character. Note has already been
+
+made of the first Edison plants afloat on the Jeannette
+
+and Columbia, and the first commercial plant in the
+
+New York lithographic establishment. The first mill
+
+plant was placed in the woollen factory of James
+
+Harrison at Newburgh, New York, about September
+
+15, 1881. A year later, Mr. Harrison wrote with some
+
+pride: "I believe my mill was the first lighted with
+
+your electric light, and therefore may be called No. 1.
+
+Besides being job No. 1 it is a No. 1 job, and a No. 1
+
+light, being better and cheaper than gas and absolutely
+
+safe as to fire." The first steam-yacht lighted
+
+by incandescent lamps was James Gordon Bennett's
+
+Namouna, equipped early in 1882 with a plant for
+
+one hundred and twenty lamps of eight candlepower,
+
+which remained in use there many years
+
+afterward.
+
+
+
+The first Edison plant in a hotel was started in
+
+October, 1881, at the Blue Mountain House in the
+
+Adirondacks, and consisted of two "Z" dynamos
+
+with a complement of eight and sixteen candle lamps.
+
+The hotel is situated at an elevation of thirty-five
+
+hundred feet above the sea, and was at that time
+
+forty miles from the railroad. The machinery was
+
+taken up in pieces on the backs of mules from the
+
+foot of the mountain. The boilers were fired by wood,
+
+as the economical transportation of coal was a physical
+
+impossibility. For a six-hour run of the plant one-
+
+quarter of a cord of wood was required, at a cost of
+
+twenty-five cents per cord.
+
+
+
+The first theatre in the United States to be lighted
+
+by an Edison isolated plant was the Bijou Theatre,
+
+Boston. The installation of boilers, engines, dynamos,
+
+wiring, switches, fixtures, three stage regulators,
+
+and six hundred and fifty lamps, was completed in
+
+eleven days after receipt of the order, and the plant
+
+was successfully operated at the opening of the
+
+theatre, on December 12, 1882.
+
+
+
+The first plant to be placed on a United States
+
+steamship was the one consisting of an Edison "Z"
+
+dynamo and one hundred and twenty eight-candle
+
+lamps installed on the Fish Commission's steamer
+
+Albatross in 1883. The most interesting feature of
+
+this installation was the employment of special deep-
+
+sea lamps, supplied with current through a cable
+
+nine hundred and forty feet in length, for the purpose
+
+of alluring fish. By means of the brilliancy of the
+
+lamps marine animals in the lower depths were attracted
+
+and then easily ensnared.
+

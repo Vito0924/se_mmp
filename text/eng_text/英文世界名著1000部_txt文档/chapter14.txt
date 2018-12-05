@@ -1,0 +1,1942 @@
+
+
+
+
+
+
+CHAPTER XIV
+
+
+
+INVENTING A COMPLETE SYSTEM OF LIGHTING
+
+
+
+IN Berlin, on December 11, 1908, with notable eclat,
+
+the seventieth birthday was celebrated of Emil
+
+Rathenau, the founder of the great Allgemein
+
+Elektricitaets Gesellschaft. This distinguished German,
+
+creator of a splendid industry, then received the
+
+congratulations of his fellow-countrymen, headed by
+
+Emperor William, who spoke enthusiastically of his
+
+services to electro-technics and to Germany. In
+
+his interesting acknowledgment, Mr. Rathenau told
+
+how he went to Paris in 1881, and at the electrical
+
+exhibition there saw the display of Edison's inventions
+
+in electric lighting "which have met with as
+
+little proper appreciation as his countless innovations
+
+in connection with telegraphy, telephony, and the
+
+entire electrical industry." He saw the Edison dynamo,
+
+and he saw the incandescent lamp, "of which millions
+
+have been manufactured since that day without the
+
+great master being paid the tribute to his invention."
+
+But what impressed the observant, thoroughgoing
+
+German was the breadth with which the whole lighting
+
+art had been elaborated and perfected, even at
+
+that early day. "The Edison system of lighting was
+
+as beautifully conceived down to the very details,
+
+and as thoroughly worked out as if it had been tested
+
+for decades in various towns. Neither sockets,
+
+switches, fuses, lamp-holders, nor any of the other
+
+accessories necessary to complete the installation
+
+were wanting; and the generating of the current,
+
+the regulation, the wiring with distributing boxes,
+
+house connections, meters, etc., all showed signs of
+
+astonishing skill and incomparable genius."
+
+
+
+Such praise on such an occasion from the man who
+
+introduced incandescent electric lighting into Germany
+
+is significant as to the continued appreciation abroad
+
+of Mr. Edison's work. If there is one thing modern
+
+Germany is proud and jealous of, it is her leadership
+
+in electrical engineering and investigation. But with
+
+characteristic insight, Mr. Rathenau here placed his
+
+finger on the great merit that has often been forgotten.
+
+Edison was not simply the inventor of a new lamp
+
+and a new dynamo. They were invaluable elements,
+
+but far from all that was necessary. His was the
+
+mighty achievement of conceiving and executing in
+
+all its details an art and an industry absolutely new
+
+to the world. Within two years this man completed
+
+and made that art available in its essential, fundamental
+
+facts, which remain unchanged after thirty
+
+years of rapid improvement and widening application.
+
+
+
+Such a stupendous feat, whose equal is far to seek
+
+anywhere in the history of invention, is worth studying,
+
+especially as the task will take us over much new
+
+ground and over very little of the territory already
+
+covered. Notwithstanding the enormous amount of
+
+thought and labor expended on the incandescent
+
+lamp problem from the autumn of 1878 to the winter
+
+of 1879, it must not be supposed for one moment that
+
+Edison's whole endeavor and entire inventive skill
+
+had been given to the lamp alone, or the dynamo
+
+alone. We have sat through the long watches of the
+
+night while Edison brooded on the real solution of
+
+the swarming problems. We have gazed anxiously at
+
+the steady fingers of the deft and cautious Batchelor,
+
+as one fragile filament after another refused to stay
+
+intact until it could be sealed into its crystal prison
+
+and there glow with light that never was before on
+
+land or sea. We have calculated armatures and field
+
+coils for the new dynamo with Upton, and held the
+
+stakes for Jehl and his fellows at their winding bees.
+
+We have seen the mineral and vegetable kingdoms
+
+rifled and ransacked for substances that would yield
+
+the best "filament." We have had the vague consciousness
+
+of assisting at a great development whose
+
+evidences to-day on every hand attest its magnitude.
+
+We have felt the fierce play of volcanic effort, lifting
+
+new continents of opportunity from the infertile sea,
+
+without any devastation of pre-existing fields of human
+
+toil and harvest. But it still remains to elucidate
+
+the actual thing done; to reduce it to concrete
+
+data, and in reducing, to unfold its colossal dimensions.
+
+
+
+The lighting system that Edison contemplated in
+
+this entirely new departure from antecedent methods
+
+included the generation of electrical energy, or current,
+
+on a very large scale; its distribution throughout
+
+extended areas, and its division and subdivision
+
+into small units converted into light at innumerable
+
+points in every direction from the source of
+
+supply, each unit to be independent of every oth-
+
+er and susceptible to immediate control by the
+
+user.
+
+
+
+This was truly an altogether prodigious undertaking.
+
+We need not wonder that Professor Tyndall,
+
+in words implying grave doubt as to the possibility
+
+of any solution of the various problems, said publicly
+
+that he would much rather have the matter in Edison's
+
+hands than in his own. There were no precedents,
+
+nothing upon which to build or improve. The
+
+problems could only be answered by the creation of
+
+new devices and methods expressly worked out for
+
+their solution. An electric lamp answering certain
+
+specific requirements would, indeed, be the key to
+
+the situation, but its commercial adaptation required
+
+a multifarious variety of apparatus and devices. The
+
+word "system" is much abused in invention, and
+
+during the early days of electric lighting its use
+
+applied to a mere freakish lamp or dynamo was often
+
+ludicrous. But, after all, nothing short of a complete
+
+system could give real value to the lamp as an
+
+invention; nothing short of a system could body
+
+forth the new art to the public. Let us therefore set
+
+down briefly a few of the leading items needed for
+
+perfect illumination by electricity, all of which were
+
+part of the Edison programme:
+
+
+
+First--To conceive a broad and fundamentally correct
+
+method of distributing the current, satisfactory
+
+in a scientific sense and practical commercially in its
+
+efficiency and economy. This meant, ready made, a
+
+comprehensive plan analogous to illumination by gas,
+
+with a network of conductors all connected together,
+
+so that in any given city area the lights could be fed
+
+with electricity from several directions, thus eliminating
+
+any interruption due to the disturbance on any
+
+particular section.
+
+
+
+Second--To devise an electric lamp that would give
+
+about the same amount of light as a gas jet, which
+
+custom had proven to be a suitable and useful unit.
+
+This lamp must possess the quality of requiring only
+
+a small investment in the copper conductors reaching
+
+it. Each lamp must be independent of every
+
+other lamp. Each and all the lights must be produced
+
+and operated with sufficient economy to compete
+
+on a commercial basis with gas. The lamp must
+
+be durable, capable of being easily and safely handled
+
+by the public, and one that would remain capable of
+
+burning at full incandescence and candle-power a great
+
+length of time.
+
+
+
+Third--To devise means whereby the amount of
+
+electrical energy furnished to each and every customer
+
+could be determined, as in the case of gas, and
+
+so that this could be done cheaply and reliably by a
+
+meter at the customer's premises.
+
+
+
+Fourth--To elaborate a system or network of conductors
+
+capable of being placed underground or overhead,
+
+which would allow of being tapped at any intervals,
+
+so that service wires could be run from the
+
+main conductors in the street into each building.
+
+Where these mains went below the surface of the
+
+thoroughfare, as in large cities, there must be
+
+protective conduit or pipe for the copper conductors,
+
+and these pipes must allow of being tapped wherever
+
+necessary. With these conductors and pipes must
+
+also be furnished manholes, junction-boxes, con-
+
+nections, and a host of varied paraphernalia insuring
+
+perfect general distribution.
+
+
+
+Fifth--To devise means for maintaining at all
+
+points in an extended area of distribution a practically
+
+even pressure of current, so that all the lamps,
+
+wherever located, near or far away from the central
+
+station, should give an equal light at all times,
+
+independent of the number that might be turned on; and
+
+safeguarding the lamps against rupture by sudden
+
+and violent fluctuations of current. There must also
+
+be means for thus regulating at the point where the
+
+current was generated the quality or pressure of the
+
+current throughout the whole lighting area, with devices
+
+for indicating what such pressure might actually
+
+be at various points in the area.
+
+
+
+Sixth--To design efficient dynamos, such not being
+
+in existence at the time, that would convert economically
+
+the steam-power of high-speed engines into
+
+electrical energy, together with means for connecting
+
+and disconnecting them with the exterior consumption
+
+circuits; means for regulating, equalizing their
+
+loads, and adjusting the number of dynamos to be
+
+used according to the fluctuating demands on the
+
+central station. Also the arrangement of complete
+
+stations with steam and electric apparatus and auxiliary
+
+devices for insuring their efficient and continuous
+
+operation.
+
+
+
+Seventh--To invent devices that would prevent
+
+the current from becoming excessive upon any conductors,
+
+causing fire or other injury; also switches
+
+for turning the current on and off; lamp-holders,
+
+fixtures, and the like; also means and methods for
+
+establishing the interior circuits that were to carry
+
+current to chandeliers and fixtures in buildings.
+
+
+
+Here was the outline of the programme laid down
+
+in the autumn of 1878, and pursued through all its
+
+difficulties to definite accomplishment in about eighteen
+
+months, some of the steps being made immediately,
+
+others being taken as the art evolved. It is
+
+not to be imagined for one moment that Edison performed
+
+all the experiments with his own hands. The
+
+method of working at Menlo Park has already been
+
+described in these pages by those who participated.
+
+It would not only have been physically impossible for
+
+one man to have done all this work himself, in view
+
+of the time and labor required, and the endless detail;
+
+but most of the apparatus and devices invented
+
+or suggested by him as the art took shape required
+
+the handiwork of skilled mechanics and artisans of a
+
+high order of ability. Toward the end of 1879 the
+
+laboratory force thus numbered at least one hundred
+
+earnest men. In this respect of collaboration, Edison
+
+has always adopted a policy that must in part
+
+be taken to explain his many successes. Some inventors
+
+of the greatest ability, dealing with ideas and
+
+conceptions of importance, have found it impossible
+
+to organize or even to tolerate a staff of co-workers,
+
+preferring solitary and secret toil, incapable of team
+
+work, or jealous of any intrusion that could possibly
+
+bar them from a full and complete claim to the result
+
+when obtained. Edison always stood shoulder to
+
+shoulder with his associates, but no one ever questioned
+
+the leadership, nor was it ever in doubt where
+
+the inspiration originated. The real truth is that
+
+Edison has always been so ceaselessly fertile of ideas
+
+himself, he has had more than his whole staff could
+
+ever do to try them all out; he has sought co-operation,
+
+but no exterior suggestion. As a matter of fact
+
+a great many of the "Edison men" have made notable
+
+inventions of their own, with which their names are
+
+imperishably associated; but while they were with
+
+Edison it was with his work that they were and
+
+must be busied.
+
+
+
+It was during this period of "inventing a system"
+
+that so much systematic and continuous work with
+
+good results was done by Edison in the design and
+
+perfection of dynamos. The value of his contributions
+
+to the art of lighting comprised in this work
+
+has never been fully understood or appreciated, having
+
+been so greatly overshadowed by his invention of
+
+the incandescent lamp, and of a complete system of
+
+distribution. It is a fact, however, that the principal
+
+improvements he made in dynamo-electric generators
+
+were of a radical nature and remain in the art.
+
+Thirty years bring about great changes, especially
+
+in a field so notably progressive as that of the
+
+generation of electricity; but different as are the
+
+dynamos of to-day from those of the earlier period,
+
+they embody essential principles and elements that
+
+Edison then marked out and elaborated as the conditions
+
+of success. There was indeed prompt appreciation
+
+in some well-informed quarters of what Edison
+
+was doing, evidenced by the sensation caused in the
+
+summer of 1881, when he designed, built, and shipped
+
+to Paris for the first Electrical Exposition ever held,
+
+the largest dynamo that had been built up to that
+
+time. It was capable of lighting twelve hundred
+
+incandescent lamps, and weighed with its engine
+
+twenty-seven tons, the armature alone weighing six
+
+tons. It was then, and for a long time after, the
+
+eighth wonder of the scientific world, and its arrival
+
+and installation in Paris were eagerly watched by
+
+the most famous physicists and electricians of Europe.
+
+
+
+Edison's amusing description of his experience
+
+in shipping the dynamo to Paris when built may
+
+appropriately be given here: "I built a very large
+
+dynamo with the engine directly connected, which I
+
+intended for the Paris Exposition of 1881. It was
+
+one or two sizes larger than those I had previously
+
+built. I had only a very short period in which to get
+
+it ready and put it on a steamer to reach the Exposition
+
+in time. After the machine was completed we
+
+found the voltage was too low. I had to devise a way
+
+of raising the voltage without changing the machine,
+
+which I did by adding extra magnets. After this
+
+was done, we tested the machine, and the crank-shaft
+
+of the engine broke and flew clear across the shop.
+
+By working night and day a new crank-shaft was put
+
+in, and we only had three days left from that time to
+
+get it on board the steamer; and had also to run a
+
+test. So we made arrangements with the Tammany
+
+leader, and through him with the police, to clear the
+
+street--one of the New York crosstown streets--and
+
+line it with policemen, as we proposed to make a
+
+quick passage, and didn't know how much time it
+
+would take. About four hours before the steamer
+
+had to get it, the machine was shut down after the
+
+test, and a schedule was made out in advance of what
+
+each man had to do. Sixty men were put on top of
+
+the dynamo to get it ready, and each man had written
+
+orders as to what he was to perform. We got it all
+
+taken apart and put on trucks and started off. They
+
+drove the horses with a fire-bell in front of them to
+
+the French pier, the policemen lining the streets.
+
+Fifty men were ready to help the stevedores get it on
+
+the steamer--and we were one hour ahead of time."
+
+
+
+This Exposition brings us, indeed, to a dramatic
+
+and rather pathetic parting of the ways. The hour
+
+had come for the old laboratory force that had done
+
+such brilliant and memorable work to disband, never
+
+again to assemble under like conditions for like effort,
+
+although its members all remained active in the field,
+
+and many have ever since been associated prominently
+
+with some department of electrical enterprise. The
+
+fact was they had done their work so well they must
+
+now disperse to show the world what it was, and assist
+
+in its industrial exploitation. In reality, they were
+
+too few for the demands that reached Edison from
+
+all parts of the world for the introduction of his
+
+system; and in the emergency the men nearest to
+
+him and most trusted were those upon whom he could
+
+best depend for such missionary work as was now
+
+required. The disciples full of fire and enthusiasm,
+
+as well as of knowledge and experience, were soon
+
+scattered to the four winds, and the rapidity with
+
+which the Edison system was everywhere successfully
+
+introduced is testimony to the good judgment
+
+with which their leader had originally selected them
+
+as his colleagues. No one can say exactly just how this
+
+process of disintegration began, but Mr. E. H. John-
+
+son had already been sent to England in the Edison
+
+interests, and now the question arose as to what
+
+should be done with the French demands and the
+
+Paris Electrical Exposition, whose importance as a
+
+point of new departure in electrical industry was
+
+speedily recognized on both sides of the Atlantic. It
+
+is very interesting to note that as the earlier staff
+
+broke up, Edison became the centre of another large
+
+body, equally devoted, but more particularly
+
+concerned with the commercial development of his ideas.
+
+Mr. E. G. Acheson mentions in his personal notes on
+
+work at the laboratory, that in December of 1880,
+
+while on some experimental work, he was called to
+
+the new lamp factory started recently at Menlo Park,
+
+and there found Edison, Johnson, Batchelor, and
+
+Upton in conference, and "Edison informed me that
+
+Mr. Batchelor, who was in charge of the construction,
+
+development, and operation of the lamp factory, was
+
+soon to sail for Europe to prepare for the exhibit to
+
+be made at the Electrical Exposition to be held in Paris
+
+during the coming summer." These preparations overlap
+
+the reinforcement of the staff with some notable
+
+additions, chief among them being Mr. Samuel Insull,
+
+whose interesting narrative of events fits admirably
+
+into the story at this stage, and gives a vivid idea of
+
+the intense activity and excitement with which the
+
+whole atmosphere around Edison was then surcharged:
+
+"I first met Edison on March 1, 1881. I
+
+arrived in New York on the City of Chester about five
+
+or six in the evening, and went direct to 65 Fifth
+
+Avenue. I had come over to act as Edison's private
+
+secretary, the position having been obtained for me
+
+through the good offices of Mr. E. H. Johnson, whom
+
+I had known in London, and who wrote to Mr. U. H.
+
+Painter, of Washington, about me in the fall of 1880.
+
+Mr. Painter sent the letter on to Mr. Batchelor, who
+
+turned it over to Edison. Johnson returned to
+
+America late in the fall of 1880, and in January, 1881,
+
+cabled to me to come to this country. At the time
+
+he cabled for me Edison was still at Menlo Park, but
+
+when I arrived in New York the famous offices of the
+
+Edison Electric Light Company had been opened at
+
+`65' Fifth Avenue, and Edison had moved into New
+
+York with the idea of assisting in the exploitation of
+
+the Light Company's business.
+
+
+
+"I was taken by Johnson direct from the Inman
+
+Steamship pier to 65 Fifth Avenue, and met Edison
+
+for the first time. There were three rooms on the
+
+ground floor at that time. The front one was used
+
+as a kind of reception-room; the room immediately
+
+behind it was used as the office of the president of
+
+the Edison Electric Light Company, Major S. B.
+
+Eaton. The rear room, which was directly back of
+
+the front entrance hall, was Edison's office, and there
+
+I first saw him. There was very little in the room
+
+except a couple of walnut roller-top desks--which were
+
+very generally used in American offices at that time.
+
+Edison received me with great cordiality. I think
+
+he was possibly disappointed at my being so young
+
+a man; I had only just turned twenty-one, and had
+
+a very boyish appearance. The picture of Edison is
+
+as vivid to me now as if the incident occurred
+
+yesterday, although it is now more than twenty-nine
+
+years since that first meeting. I had been connected
+
+with Edison's affairs in England as private secretary
+
+to his London agent for about two years; and had
+
+been taught by Johnson to look on Edison as the
+
+greatest electrical inventor of the day--a view of
+
+him, by-the-way, which has been greatly strengthened
+
+as the years have rolled by. Owing to this, and
+
+to the fact that I felt highly flattered at the appointment
+
+as his private secretary, I was naturally prepared
+
+to accept him as a hero. With my strict English
+
+ideas as to the class of clothes to be worn by a
+
+prominent man, there was nothing in Edison's dress
+
+to impress me. He wore a rather seedy black diagonal
+
+Prince Albert coat and waistcoat, with trousers of a
+
+dark material, and a white silk handkerchief around
+
+his neck, tied in a careless knot falling over the stiff
+
+bosom of a white shirt somewhat the worse for wear.
+
+He had a large wide-awake hat of the sombrero pattern
+
+then generally used in this country, and a rough,
+
+brown overcoat, cut somewhat similarly to his Prince
+
+Albert coat. His hair was worn quite long, and hanging
+
+carelessly over his fine forehead. His face was
+
+at that time, as it is now, clean shaven. He was full
+
+in face and figure, although by no means as stout as
+
+he has grown in recent years. What struck me above
+
+everything else was the wonderful intelligence and
+
+magnetism of his expression, and the extreme brightness
+
+of his eyes. He was far more modest than in
+
+my youthful picture of him. I had expected to find
+
+a man of distinction. His appearance, as a whole,
+
+was not what you would call `slovenly,' it is best
+
+expressed by the word `careless.' "
+
+
+
+Mr. Insull supplements this pen-picture by another,
+
+bearing upon the hustle and bustle of the moment:
+
+"After a short conversation Johnson hurried me off to
+
+meet his family, and later in the evening, about eight
+
+o'clock, he and I returned to Edison's office; and I
+
+found myself launched without further ceremony into
+
+Edison's business affairs. Johnson had already explained
+
+to me that he was sailing the next morning,
+
+March 2d, on the S.S. Arizona, and that Mr. Edison
+
+wanted to spend the evening discussing matters in
+
+connection with his European affairs. It was assumed,
+
+inasmuch as I had just arrived from London,
+
+that I would be able to give more or less information
+
+on this subject. As Johnson was to sail the next
+
+morning at five o'clock, Edison explained that it
+
+would be necessary for him to have an understanding
+
+of European matters. Edison started out by drawing
+
+from his desk a check-book and stating how much
+
+money he had in the bank; and he wanted to know
+
+what European telephone securities were most salable,
+
+as he wished to raise the necessary funds to put
+
+on their feet the incandescent lamp factory, the
+
+Electric Tube works, and the necessary shops to build
+
+dynamos. All through the interview I was tremendously
+
+impressed with Edison's wonderful resourcefulness
+
+and grasp, and his immediate appreciation of
+
+any suggestion of consequence bearing on the subject
+
+under discussion.
+
+
+
+"He spoke with very great enthusiasm of the work
+
+before him--namely, the development of his electric-
+
+lighting system; and his one idea seemed to be to
+
+raise all the money he could with the object of pouring
+
+it into the manufacturing side of the lighting
+
+business. I remember how extraordinarily I was impressed
+
+with him on this account, as I had just come
+
+from a circle of people in London who not only questioned
+
+the possibility of the success of Edison's invention,
+
+but often expressed doubt as to whether the
+
+work he had done could be called an invention at all.
+
+After discussing affairs with Johnson--who was receiving
+
+his final instructions from Edison--far into
+
+the night, and going down to the steamer to see Johnson
+
+aboard, I finished my first night's business with
+
+Edison somewhere between four and five in the morning,
+
+feeling thoroughly imbued with the idea that I
+
+had met one of the great master minds of the world.
+
+You must allow for my youthful enthusiasm, but
+
+you must also bear in mind Edison's peculiar gift of
+
+magnetism, which has enabled him during his career
+
+to attach so many men to him. I fell a victim to the
+
+spell at the first interview."
+
+
+
+Events moved rapidly in those days. The next
+
+morning, Tuesday, Edison took his new fidus Achates
+
+with him to a conference with John Roach, the famous
+
+old ship-builder, and at it agreed to take the AEtna
+
+Iron works, where Roach had laid the foundations
+
+of his fame and fortune. These works were not in
+
+use at the time. They were situated on Goerck
+
+Street, New York, north of Grand Street, on the
+
+east side of the city, and there, very soon after, was
+
+established the first Edison dynamo-manufacturing
+
+establishment, known for many years as the Edison
+
+Machine Works. The same night Insull made his
+
+first visit to Menlo Park. Up to that time he had
+
+seen very little incandescent lighting, for the simple
+
+reason that there was very little to see. Johnson
+
+had had a few Edison lamps in London, lit up from
+
+primary batteries, as a demonstration; and in the
+
+summer of 1880 Swan had had a few series lamps
+
+burning in London. In New York a small gas-engine
+
+plant was being started at the Edison offices on Fifth
+
+Avenue. But out at Menlo Park there was the first
+
+actual electric-lighting central station, supplying
+
+distributed incandescent lamps and some electric motors
+
+by means of underground conductors imbedded in
+
+asphaltum and surrounded by a wooden box. Mr. Insull
+
+says: "The system employed was naturally the
+
+two-wire, as at that time the three-wire had not been
+
+thought of. The lamps were partly of the horseshoe
+
+filament paper-carbon type, and partly bamboo-filament
+
+lamps, and were of an efficiency of 95 to 100
+
+watts per 16 c.p. I can never forget the impression
+
+that this first view of the electric-lighting industry
+
+produced on me. Menlo Park must always be looked
+
+upon as the birthplace of the electric light and
+
+power industry. At that time it was the only place
+
+where could be seen an electric light and power
+
+multiple arc distribution system, the operation of
+
+which seemed as successful to my youthful mind as
+
+the operation of one of the large metropolitan systems
+
+to-day. I well remember about ten o'clock that night
+
+going down to the Menlo Park depot and getting the
+
+station agent, who was also the telegraph operator, to
+
+send some cable messages for me to my London
+
+friends, announcing that I had seen Edison's incandescent
+
+lighting system in actual operation, and that
+
+so far as I could tell it was an accomplished fact. A
+
+few weeks afterward I received a letter from one of
+
+my London friends, who was a doubting Thomas,
+
+upbraiding me for coming so soon under the spell of
+
+the `Yankee inventor.' "
+
+
+
+It was to confront and deal with just this element
+
+of doubt in London and in Europe generally, that the
+
+dispatch of Johnson to England and of Batchelor to
+
+France was intended. Throughout the Edison staff
+
+there was a mingled feeling of pride in the work,
+
+resentment at the doubts expressed about it, and keen
+
+desire to show how excellent it was. Batchelor left
+
+for Paris in July, 1881--on his second trip to Europe
+
+that year--and the exhibit was made which brought
+
+such an instantaneous recognition of the incalculable
+
+value of Edison's lighting inventions, as evidenced
+
+by the awards and rewards immediately bestowed
+
+upon him. He was made an officer of the Legion of
+
+Honor, and Prof. George F. Barker cabled as follows
+
+from Paris, announcing the decision of the expert
+
+jury which passed upon the exhibits: "Accept my
+
+congratulations. You have distanced all competitors
+
+and obtained a diploma of honor, the highest
+
+award given in the Exposition. No person in any
+
+class in which you were an exhibitor received a like
+
+reward."
+
+
+
+Nor was this all. Eminent men in science who had
+
+previously expressed their disbelief in the statements
+
+made as to the Edison system were now foremost in
+
+generous praise of his notable achievements, and accorded
+
+him full credit for its completion. A typical
+
+instance was M. Du Moncel, a distinguished electrician,
+
+who had written cynically about Edison's work
+
+and denied its practicability. He now recanted publicly
+
+in this language, which in itself shows the state
+
+of the art when Edison came to the front: "All these
+
+experiments achieved but moderate success, and when,
+
+in 1879, the new Edison incandescent carbon lamp
+
+was announced, many of the scientists, and I,
+
+particularly, doubted the accuracy of the reports which
+
+came from America. This horseshoe of carbonized
+
+paper seemed incapable to resist mechanical shocks
+
+and to maintain incandescence for any considerable
+
+length of time. Nevertheless, Mr. Edison was not
+
+discouraged, and despite the active opposition made
+
+to his lamp, despite the polemic acerbity of which he
+
+was the object, he did not cease to perfect it; and
+
+he succeeded in producing the lamps which we now
+
+behold exhibited at the Exposition, and are admired
+
+by all for their perfect steadiness."
+
+
+
+The competitive lamps exhibited and tested at this
+
+time comprised those of Edison, Maxim, Swan, and
+
+Lane-Fox. The demonstration of Edison's success
+
+stimulated the faith of his French supporters, and
+
+rendered easier the completion of plans for the Societe
+
+Edison Continental, of Paris, formed to operate
+
+the Edison patents on the Continent of Europe. Mr.
+
+Batchelor, with Messrs. Acheson and Hipple, and one
+
+or two other assistants, at the close of the Exposition
+
+transferred their energies to the construction and
+
+equipment of machine-shops and lamp factories at
+
+Ivry-sur-Seine for the company, and in a very short
+
+time the installation of plants began in various
+
+countries--France, Italy, Holland, Belgium, etc.
+
+
+
+All through 1881 Johnson was very busy, for his
+
+part, in England. The first "Jumbo" Edison dynamo
+
+had gone to Paris; the second and third went to
+
+London, where they were installed in 1881 by Mr.
+
+Johnson and his assistant, Mr. W. J. Hammer, in the
+
+three-thousand-light central station on Holborn Viaduct,
+
+the plant going into operation on January 12,
+
+1882. Outside of Menlo Park this was the first regular
+
+station for incandescent lighting in the world, as
+
+the Pearl Street station in New York did not go into
+
+operation until September of the same year. This
+
+historic plant was hurriedly thrown together on
+
+Crown land, and would doubtless have been the
+
+nucleus of a great system but for the passage of the
+
+English electric lighting act of 1882, which at once
+
+throttled the industry by its absurd restrictive
+
+provisions, and which, though greatly modified, has left
+
+England ever since in a condition of serious inferiority
+
+as to development in electric light and power. The
+
+streets and bridges of Holborn Viaduct were lighted
+
+by lamps turned on and off from the station, as well
+
+as the famous City Temple of Dr. Joseph Parker, the
+
+first church in the world to be lighted by incandescent
+
+lamps--indeed, so far as can be ascertained, the first
+
+church to be illuminated by electricity in any form.
+
+Mr. W. J. Hammer, who supplies some very interesting
+
+notes on the installation, says: "I well remember
+
+the astonishment of Doctor Parker and his associates
+
+when they noted the difference of temperature as
+
+compared with gas. I was informed that the people
+
+would not go in the gallery in warm weather, owing
+
+to the great heat caused by the many gas jets, whereas
+
+on the introduction of the incandescent lamp there
+
+was no complaint." The telegraph operating-room
+
+of the General Post-Office, at St. Martin's-Le Grand
+
+and Newgate Street nearby, was supplied with four
+
+hundred lamps through the instrumentality of Mr.
+
+(Sir) W. H. Preece, who, having been seriously sceptical
+
+as to Mr. Edison's results, became one of his most
+
+ardent advocates, and did much to facilitate the
+
+introduction of the light. This station supplied its
+
+customers by a network of feeders and mains of the
+
+standard underground two-wire Edison tubing-conductors
+
+in sections of iron pipe--such as was
+
+used subsequently in New York, Milan, and other
+
+cities. It also had a measuring system for the
+
+current, employing the Edison electrolytic meter.
+
+Arc lamps were operated from its circuits, and one of
+
+the first sets of practicable storage batteries was
+
+used experimentally at the station. In connection
+
+with these batteries Mr. Hammer tells a characteristic
+
+anecdote of Edison: "A careless boy passing through
+
+the station whistling a tune and swinging carelessly
+
+a hammer in his hand, rapped a carboy of sulphuric
+
+acid which happened to be on the floor above a
+
+`Jumbo' dynamo. The blow broke the glass carboy,
+
+and the acid ran down upon the field magnets of
+
+the dynamo, destroying the windings of one of the
+
+twelve magnets. This accident happened while I
+
+was taking a vacation in Germany, and a prominent
+
+scientific man connected with the company cabled
+
+Mr. Edison to know whether the machine would work
+
+if the coil was cut out. Mr. Edison sent the laconic
+
+reply: `Why doesn't he try it and see?' Mr. E. H.
+
+Johnson was kept busy not only with the cares and
+
+responsibilities of this pioneer English plant, but by
+
+negotiations as to company formations, hearings before
+
+Parliamentary committees, and particularly by
+
+distinguished visitors, including all the foremost
+
+scientific men in England, and a great many well-
+
+known members of the peerage. Edison was fortunate
+
+in being represented by a man with so much
+
+address, intimate knowledge of the subject, and powers
+
+of explanation. As one of the leading English
+
+papers said at the time, with equal humor and truth:
+
+`There is but one Edison, and Johnson is his prophet.' "
+
+
+
+As the plant continued in operation, various details
+
+and ideas of improvement emerged, and Mr. Hammer
+
+says: "Up to the time of the construction of this
+
+plant it had been customary to place a single-pole
+
+switch on one wire and a safety fuse on the other;
+
+and the practice of putting fuses on both sides of a
+
+lighting circuit was first used here. Some of the first,
+
+if not the very first, of the insulated fixtures were
+
+used in this plant, and many of the fixtures were
+
+equipped with ball insulating joints, enabling the
+
+chandeliers--or `electroliers'--to be turned around,
+
+as was common with the gas chandeliers. This particular
+
+device was invented by Mr. John B. Verity,
+
+whose firm built many of the fixtures for the Edison
+
+Company, and constructed the notable electroliers
+
+shown at the Crystal Palace Exposition of 1882."
+
+
+
+We have made a swift survey of developments from
+
+the time when the system of lighting was ready for
+
+use, and when the staff scattered to introduce it. It
+
+will be readily understood that Edison did not sit
+
+with folded hands or drop into complacent satisfac-
+
+tion the moment he had reached the practical stage
+
+of commercial exploitation. He was not willing to
+
+say "Let us rest and be thankful," as was one of
+
+England's great Liberal leaders after a long period of
+
+reform. On the contrary, he was never more active
+
+than immediately after the work we have summed
+
+up at the beginning of this chapter. While he had
+
+been pursuing his investigations of the generator in
+
+conjunction with the experiments on the incandescent
+
+lamp, he gave much thought to the question of
+
+distribution of the current over large areas, revolving
+
+in his mind various plans for the accomplishment of
+
+this purpose, and keeping his mathematicians very
+
+busy working on the various schemes that suggested
+
+themselves from time to time. The idea of a
+
+complete system had been in his mind in broad outline
+
+for a long time, but did not crystallize into
+
+commercial form until the incandescent lamp was an
+
+accomplished fact. Thus in January, 1880, his first
+
+patent application for a "System of Electrical
+
+Distribution" was signed. It was filed in the Patent
+
+Office a few days later, but was not issued as a patent
+
+until August 30, 1887. It covered, fundamentally,
+
+multiple arc distribution, how broadly will be understood
+
+from the following extracts from the New York
+
+Electrical Review of September 10, 1887: "It would
+
+appear as if the entire field of multiple distribution were
+
+now in the hands of the owners of this patent....
+
+The patent is about as broad as a patent can be, being
+
+regardless of specific devices, and laying a powerful grasp
+
+on the fundamental idea of multiple distribution from
+
+a number of generators throughout a metallic circuit."
+
+
+
+Mr. Edison made a number of other applications
+
+for patents on electrical distribution during the year
+
+1880. Among these was the one covering the celebrated
+
+"Feeder" invention, which has been of very
+
+great commercial importance in the art, its object
+
+being to obviate the "drop" in pressure, rendering
+
+lights dim in those portions of an electric-light system
+
+that were remote from the central station.[10]
+
+
+
+
+
+[10] For further explanation of "Feeder" patent, see Appendix.
+
+
+
+
+
+From these two patents alone, which were absolutely
+
+basic and fundamental in effect, and both of which
+
+were, and still are, put into actual use wherever
+
+central-station lighting is practiced, the reader will see
+
+that Mr. Edison's patient and thorough study, aided
+
+by his keen foresight and unerring judgment, had
+
+enabled him to grasp in advance with a master hand
+
+the chief and underlying principles of a true system--
+
+that system which has since been put into practical use
+
+all over the world, and whose elements do not need the
+
+touch or change of more modern scientific knowledge.
+
+
+
+These patents were not by any means all that he
+
+applied for in the year 1880, which it will be remembered
+
+was the year in which he was perfecting the
+
+incandescent electric lamp and methods, to put into
+
+the market for competition with gas. It was an
+
+extraordinarily busy year for Mr. Edison and his
+
+whole force, which from time to time was increased
+
+in number. Improvement upon improvement was
+
+the order of the day. That which was considered
+
+good to-day was superseded by something better and
+
+more serviceable to-morrow. Device after device,
+
+relating to some part of the entire system, was designed,
+
+built, and tried, only to be rejected ruthlessly
+
+as being unsuitable; but the pursuit was not abandoned.
+
+It was renewed over and over again in innumerable
+
+ways until success had been attained.
+
+
+
+During the year 1880 Edison had made application
+
+for sixty patents, of which thirty-two were in relation
+
+to incandescent lamps; seven covered inventions
+
+relating to distributing systems (including the two
+
+above particularized); five had reference to inventions
+
+of parts, such as motors, sockets, etc.; six covered
+
+inventions relating to dynamo-electric machines;
+
+three related to electric railways, and seven to
+
+miscellaneous apparatus, such as telegraph relays,
+
+magnetic ore separators, magneto signalling apparatus, etc.
+
+
+
+The list of Mr. Edison's patents (see Appendices)
+
+is not only a monument to his life's work, but serves
+
+to show what subjects he has worked on from year
+
+to year since 1868. The reader will see from an
+
+examination of this list that the years 1880, 1881,
+
+1882, and 1883 were the most prolific periods of invention.
+
+It is worth while to scrutinize this list
+
+closely to appreciate the wide range of his activities.
+
+Not that his patents cover his entire range of work
+
+by any means, for his note-books reveal a great number
+
+of major and minor inventions for which he has not
+
+seen fit to take out patents. Moreover, at the period
+
+now described Edison was the victim of a dishonest
+
+patent solicitor, who deprived him of a number of
+
+patents in the following manner:
+
+
+
+"Around 1881-82 I had several solicitors attending
+
+to different classes of work. One of these did me a
+
+most serious injury. It was during the time that I
+
+was developing my electric-lighting system, and I
+
+was working and thinking very hard in order to cover
+
+all the numerous parts, in order that it would be
+
+complete in every detail. I filed a great many
+
+applications for patents at that time, but there were
+
+seventy-eight of the inventions I made in that period
+
+that were entirely lost to me and my company by
+
+reason of the dishonesty of this patent solicitor.
+
+Specifications had been drawn, and I had signed
+
+and sworn to the application for patents for these
+
+seventy-eight inventions, and naturally I supposed
+
+they had been filed in the regular way.
+
+
+
+"As time passed I was looking for some action of
+
+the Patent Office, as usual, but none came. I thought
+
+it very strange, but had no suspicions until I began
+
+to see my inventions recorded in the Patent Office
+
+Gazette as being patented by others. Of course I
+
+ordered an investigation, and found that the patent
+
+solicitor had drawn from the company the fees for
+
+filing all these applications, but had never filed them.
+
+All the papers had disappeared, however, and what
+
+he had evidently done was to sell them to others,
+
+who had signed new applications and proceeded to
+
+take out patents themselves on my inventions. I
+
+afterward found that he had been previously mixed
+
+up with a somewhat similar crooked job in connection
+
+with telephone patents.
+
+
+
+"I am free to confess that the loss of these seventy-
+
+eight inventions has left a sore spot in me that has
+
+never healed. They were important, useful, and
+
+valuable, and represented a whole lot of tremendous
+
+work and mental effort, and I had had a feeling of
+
+pride in having overcome through them a great
+
+many serious obstacles, One of these inventions covered
+
+the multipolar dynamo. It was an elaborated
+
+form of the type covered by my patent No. 219,393
+
+which had a ring armature. I modified and improved
+
+on this form and had a number of pole pieces placed
+
+all around the ring, with a modified form of armature
+
+winding. I built one of these machines and ran it
+
+successfully in our early days at the Goerck Street shop.
+
+
+
+"It is of no practical use to mention the man's
+
+name. I believe he is dead, but he may have left
+
+a family. The occurrence is a matter of the old
+
+Edison Company's records."
+
+
+
+It will be seen from an examination of the list of
+
+patents in the Appendix that Mr. Edison has continued
+
+year after year adding to his contributions to
+
+the art of electric lighting, and in the last twenty-
+
+eight years--1880-1908--has taken out no fewer
+
+than three hundred and seventy-five patents in this
+
+branch of industry alone. These patents may be
+
+roughly tabulated as follows:
+
+
+
+Incandescent lamps and their manufacture....................149
+
+Distributing systems and their control and regulation....... 77
+
+Dynamo-electric machines and accessories....................106
+
+Minor parts, such as sockets, switches, safety catches,
+
+meters, underground conductors and parts, etc............... 43
+
+
+
+
+
+Quite naturally most of these patents cover inventions
+
+that are in the nature of improvements or based
+
+upon devices which he had already created; but there
+
+are a number that relate to inventions absolutely
+
+fundamental and original in their nature. Some of
+
+these have already been alluded to; but among the
+
+others there is one which is worthy of special mention
+
+in connection with the present consideration of
+
+a complete system. This is patent No. 274,290,
+
+applied for November 27, 1882, and is known as the
+
+"Three-wire" patent. It is described more fully in
+
+the Appendix.
+
+
+
+The great importance of the "Feeder" and "Three-
+
+wire" inventions will be apparent when it is realized
+
+that without them it is a question whether electric
+
+light could be sold to compete with low-priced gas,
+
+on account of the large investment in conductors
+
+that would be necessary. If a large city area were
+
+to be lighted from a central station by means of
+
+copper conductors running directly therefrom to all
+
+parts of the district, it would be necessary to install
+
+large conductors, or suffer such a drop of pressure
+
+at the ends most remote from the station as to
+
+cause the lights there to burn with a noticeable
+
+diminution of candle-power. The Feeder invention
+
+overcame this trouble, and made it possible to use
+
+conductors ONLY ONE-EIGHTH THE SIZE that would otherwise
+
+have been necessary to produce the same results.
+
+
+
+A still further economy in cost of conductors was
+
+effected by the "Three-wire" invention, by the use
+
+of which the already diminished conductors could be
+
+still further reduced TO ONE-THIRD of this smaller size,
+
+and at the same time allow of the successful operation
+
+of the station with far better results than if it
+
+were operated exactly as at first conceived. The
+
+Feeder and Three-wire systems are at this day used
+
+in all parts of the world, not only in central-station
+
+work, but in the installation and operation of isolated
+
+electric-light plants in large buildings. No sensible
+
+or efficient station manager or electric contractor
+
+would ever think of an installation made upon any
+
+other plan. Thus Mr. Edison's early conceptions of
+
+the necessities of a complete system, one of them
+
+made even in advance of practice, have stood firm,
+
+unimproved, and unchanged during the past twenty-
+
+eight years, a period of time which has witnessed
+
+more wonderful and rapid progress in electrical science
+
+and art than has been known during any similar art
+
+or period of time since the world began.
+
+
+
+It must be remembered that the complete system
+
+in all its parts is not comprised in the few of Mr.
+
+Edison's patents, of which specific mention is here
+
+made. In order to comprehend the magnitude and
+
+extent of his work and the quality of his genius, it is
+
+necessary to examine minutely the list of patents
+
+issued for the various elements which go to make up
+
+such a system. To attempt any relation in detail
+
+of the conception and working-out of each part or
+
+element; to enter into any description of the almost
+
+innumerable experiments and investigations that were
+
+made would entail the writing of several volumes, for
+
+Mr. Edison's close-written note-books covering these
+
+subjects number nearly two hundred.
+
+
+
+It is believed that enough evidence has been given
+
+in this chapter to lead to an appreciation of the
+
+assiduous work and practical skill involved in "inventing
+
+a system" of lighting that would surpass, and
+
+to a great extent, in one single quarter of a century,
+
+supersede all the other methods of illumination
+
+developed during long centuries. But it will be ap-
+
+propriate before passing on to note that on January
+
+17, 1908, while this biography was being written,
+
+Mr. Edison became the fourth recipient of the John
+
+Fritz gold medal for achievement in industrial progress.
+
+This medal was founded in 1902 by the professional
+
+friends and associates of the veteran American
+
+ironmaster and metallurgical inventor, in honor
+
+of his eightieth birthday. Awards are made by a
+
+board of sixteen engineers appointed in equal numbers
+
+from the four great national engineering societies
+
+--the American Society of Civil Engineers, the American
+
+Institute of Mining Engineers, the American Society
+
+of Mechanical Engineers, and the American
+
+Institute of Electrical Engineers, whose membership
+
+embraces the very pick and flower of professional
+
+engineering talent in America. Up to the time of
+
+the Edison award, three others had been made. The
+
+first was to Lord Kelvin, the Nestor of physics in
+
+Europe, for his work in submarine-cable telegraphy
+
+and other scientific achievement. The second was
+
+to George Westinghouse for the air-brake. The third
+
+was to Alexander Graham Bell for the invention and
+
+introduction of the telephone. The award to Edison
+
+was not only for his inventions in duplex and quadruplex
+
+telegraphy, and for the phonograph, but for the
+
+development of a commercially practical incandescent
+
+lamp, and the development of a complete system
+
+of electric lighting, including dynamos, regulating
+
+devices, underground system, protective devices, and
+
+meters. Great as has been the genius brought to
+
+bear on electrical development, there is no other man
+
+to whom such a comprehensive tribute could be paid.
+
